@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Rappers</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="css/main.css" />
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>  
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js"></script>
+  <script src="js/realworld.388.js"></script>
+</head>
+<body>
+  <div id="map"></div>
+
+</body>
+
+<script>
+  $.getJSON("json/rappers.json", function(rappers) {
+    var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
+    }),
+    latlng = L.latLng(33, -80);
+
+    var map = L.map('map', {center: latlng, zoom: 3, layers: [tiles]});
+
+    var markers = L.markerClusterGroup();
+    
+    for (var i = 0; i < rappers.length; i++) {
+      var rapper = rappers[i];
+      var title = `<a href="https://en.wikipedia.org/wiki/${rapper.url}" target="_blank">${rapper.name}</a>`;
+      var marker = L.marker(new L.LatLng(rapper.lat, rapper.lng), { title: title });
+      marker.bindPopup(title);
+      markers.addLayer(marker);
+    }
+
+    map.addLayer(markers);
+  });
+</script>
+</html>

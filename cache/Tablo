@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tablo - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tablo","wgTitle":"Tablo","wgCurRevisionId":884192891,"wgRevisionId":884192891,"wgArticleId":17241270,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Korean-language sources (ko)","CS1 Indonesian-language sources (id)","CS1 maint: Archived copy as title","Articles with hCards","Articles containing Korean-language text","Incomplete lists from January 2015","Commons category link is on Wikidata","Articles with Korean-language external links","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1980 births","Living people","Epik High","Canadian musicians of Korean descent","Korean-language singers of Canada","K-pop singers","Male actors from Seoul","Male actors from Vancouver","Musicians from Vancouver","Naturalized citizens of Canada","Rappers from Seoul","South Korean DJs","South Korean emigrants to Canada","South Korean hip hop record producers","South Korean hip hop singers","South Korean male film actors","South Korean male rappers","South Korean singer-songwriters","South Korean male television actors","South Korean electronic musicians","Stanford University alumni","Writers from Vancouver","YG Entertainment artists","Electronic dance music DJs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tablo","wgRelevantArticleId":17241270,"wgRequestId":"XG0StgpAICwAABd5q@oAAAAQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q18800","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.17"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/15/140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tablo"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tablo&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tablo&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tablo"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tablo rootpage-Tablo skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Tablo</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This is a <a href="/wiki/Korean_name" title="Korean name">Korean name</a>; the <a href="/wiki/List_of_Korean_surnames" title="List of Korean surnames">family name</a> is <a href="/wiki/Lee_(Korean_surname)" title="Lee (Korean surname)"><i>Lee</i></a>.</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Tablo</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg" class="image"><img alt="140904 타블로 02.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg/220px-140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg" decoding="async" width="220" height="330" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg/330px-140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg/440px-140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg 2x" data-file-width="1000" data-file-height="1500" /></a><div>Tablo in September 2014</div></td></tr><tr><th scope="row">Born</th><td><div style="display:inline" class="nickname">Daniel Armand Lee</div><br /><span style="display:none"> (<span class="bday">1980-07-22</span>) </span>July 22, 1980<span class="noprint ForceAgeToShow"> (age&#160;38)</span></td></tr><tr><th scope="row">Residence</th><td class="label"><a href="/wiki/Seoul" title="Seoul">Seoul</a>, South Korea</td></tr><tr><th scope="row">Other&#160;names</th><td class="nickname"><div class="hlist hlist-separated"><ul><li>Lee Seon-woong</li><li>Tablo</li></ul></div></td></tr><tr><th scope="row">Education</th><td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td></tr><tr><th scope="row">Occupation</th><td class="role"><div class="hlist hlist-separated"><ul><li>Rapper</li><li>songwriter</li><li>record producer</li><li>author</li><li>entrepreneur</li></ul></div></td></tr><tr><th scope="row">Home&#160;town</th><td><a href="/wiki/Vancouver,_British_Columbia" class="mw-redirect" title="Vancouver, British Columbia">Vancouver, British Columbia</a>, Canada</td></tr><tr><th scope="row"><span class="nowrap">Spouse(s)</span></th><td><div style="position:relative;display:inline-block;line-height:normal;"><a href="/wiki/Kang_Hye-jung" title="Kang Hye-jung">Kang Hye-jung</a>&#32;(<abbr title="married">m.</abbr>&#160;2009)</div></td></tr><tr><th scope="row">Children</th><td>1</td></tr><tr><td colspan="2" style="text-align:center"><b>Musical career</b></td></tr><tr><th scope="row">Genres</th><td><a href="/wiki/Korean_hip_hop" title="Korean hip hop">Hip-hop</a></td></tr><tr><th scope="row">Instruments</th><td class="note"><div class="hlist hlist-separated"><ul><li>Vocals</li><li>keyboards</li><li>synthesizer</li><li>sampler</li><li>sequencer</li><li>violin</li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Years active</span></th><td>1997–present</td></tr><tr><th scope="row">Labels</th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/William_Morris_Endeavor" title="William Morris Endeavor">William Morris Endeavor</a></li><li><a href="/wiki/YG_Entertainment" title="YG Entertainment">YG Entertainment</a></li><li>HIGHGRND</li><li><a href="/wiki/Woollim_Entertainment" title="Woollim Entertainment">Woollim Entertainment</a></li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Associated acts</span></th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Epik_High" title="Epik High">Epik High</a></li><li>Eternal Morning</li><li><a href="/wiki/Anyband" class="mw-redirect" title="Anyband">Anyband</a></li><li><a href="/wiki/Dynamic_Duo_(South_Korean_duo)" title="Dynamic Duo (South Korean duo)">Dynamic Duo</a></li><li><a href="/wiki/G-Dragon" title="G-Dragon">G-Dragon</a></li><li><a href="/wiki/Taeyang" title="Taeyang">Taeyang</a></li><li><a href="/wiki/Code_Kunst" title="Code Kunst">Code Kunst</a></li></ul></div></td></tr><tr><td colspan="2">
+</td></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de;">Korean name</th></tr><tr><th scope="row" style="font-weight: normal;"><a href="/wiki/Hangul" title="Hangul">Hangul</a></th><td><div style="display:inline;font-size:1rem;"><span lang="ko-Hang" title="Korean language text"><a href="https://en.wiktionary.org/wiki/%EC%9D%B4" class="extiw" title="wikt:이">이</a><a href="https://en.wiktionary.org/wiki/%EC%84%A0" class="extiw" title="wikt:선">선</a><a href="https://en.wiktionary.org/wiki/%EC%9B%85" class="extiw" title="wikt:웅">웅</a></span></div></td></tr><tr><th scope="row" style="font-weight: normal;"><a href="/wiki/Hanja" title="Hanja">Hanja</a></th><td><div style="display:inline;font-size:1rem;"><span lang="ko-Hani" title="Korean language text"><a href="https://en.wiktionary.org/wiki/%E6%9D%8E" class="extiw" title="wikt:李">李</a><a href="https://en.wiktionary.org/wiki/%E5%96%84" class="extiw" title="wikt:善">善</a><a href="https://en.wiktionary.org/wiki/%E9%9B%84" class="extiw" title="wikt:雄">雄</a></span></div></td></tr><tr><th scope="row" style="font-weight: normal;"><a href="/wiki/Revised_Romanization_of_Korean" title="Revised Romanization of Korean">Revised Romanization</a></th><td><i lang="ko-Latn" title="Revised Romanization of Korean transliteration">I Seon-ung</i></td></tr><tr><th scope="row" style="font-weight: normal;"><a href="/wiki/McCune%E2%80%93Reischauer" title="McCune–Reischauer">McCune–Reischauer</a></th><td><i lang="ko-Latn" title="McCune–Reischauer transliteration">Yi Sŏnung</i></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Daniel Armand Lee</b> (<a href="/wiki/Korean_language" title="Korean language">Korean</a>: <b>Lee Seon-woong</b>; <a href="/wiki/Hangul" title="Hangul">Hangul</a>: 이선웅; born July 22, 1980), known professionally as <b>Tablo</b> (<a href="/wiki/Hangul" title="Hangul">Hangul</a>: 타블로), is a South Korean-Canadian <a href="/wiki/Rapping" title="Rapping">rapper</a>, <a href="/wiki/Songwriter" title="Songwriter">songwriter</a>, <a href="/wiki/Record_producer" title="Record producer">record producer</a>, <a href="/wiki/Author" title="Author">author</a>, and <a href="/wiki/Entrepreneur" class="mw-redirect" title="Entrepreneur">entrepreneur</a>; also past <a href="/wiki/Actor" title="Actor">actor</a> and <a href="/wiki/Radio_host" class="mw-redirect" title="Radio host">radio host</a>. Tablo is best known as the leader and producer of veteran Korean hip-hop group <a href="/wiki/Epik_High" title="Epik High">Epik High</a>, and the founder of independent music label HIGHGRND (High Ground), which houses bands <a href="/wiki/Hyukoh" title="Hyukoh">Hyukoh</a> and <a href="/wiki/The_Black_Skirts" title="The Black Skirts">The Black Skirts</a>.
+</p><p>Tablo became employed as a lyricist while still in high school. Under the supervision of <a href="/wiki/Tobias_Wolff" title="Tobias Wolff">Tobias Wolff</a>, Tablo graduated from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> with honors in English literature and creative writing. He then moved to Korea,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> where, in 2001, he formed <a href="/wiki/Epik_High" title="Epik High">Epik High</a> alongside <a href="/wiki/DJ_Tukutz" class="mw-redirect" title="DJ Tukutz">DJ Tukutz</a> and <a href="/wiki/Mithra_Jin" title="Mithra Jin">Mithra Jin</a>. The group has since released 10 full-length albums and 1 EP, with Tablo having produced and co-written all the songs. His debut solo album, <i>Fever's End</i>, was released in 2011.
+</p><p>Outside of Epik High, Tablo is a record producer and songwriter for other artists and involved in collaborative projects such as Borderline, Eternal Morning, and <a href="/wiki/Anyband" class="mw-redirect" title="Anyband">Anyband</a>. His music incorporates numerous styles, ranging from <a href="/wiki/Trance_music" title="Trance music">trance</a>, <a href="/wiki/Trip_hop" title="Trip hop">trip hop</a>, to <a href="/wiki/Rock_music" title="Rock music">rock</a>.<sup id="cite_ref-interview4_2-0" class="reference"><a href="#cite_note-interview4-2">&#91;2&#93;</a></sup> Tablo is also the author of the best-selling book <a href="/wiki/Pieces_of_You_(book)" class="mw-redirect" title="Pieces of You (book)">Pieces of You</a>, published in both English and Korean, and Blonote. He made his film debut acting in <i><a href="/wiki/Nonstop_(TV_series)" title="Nonstop (TV series)">Nonstop</a></i> (2005). In 2016, Tablo left his radio show, <a href="/wiki/Munhwa_Broadcasting_Corporation" title="Munhwa Broadcasting Corporation">MBC FM4U</a>'s <i>Tablo's Dreaming Radio</i>, after eleven years to focus on <a href="/wiki/YG_Entertainment" title="YG Entertainment">YG</a>'s music sub-label HIGHGRND.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life_and_career"><span class="tocnumber">1</span> <span class="toctext">Life and career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1980–2003:_Early_life_and_career_beginnings"><span class="tocnumber">1.1</span> <span class="toctext">1980–2003: Early life and career beginnings</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#2003–10:_Success_with_Epik_High_and_Pieces_of_You"><span class="tocnumber">1.2</span> <span class="toctext">2003–10: Success with Epik High and <i>Pieces of You</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#2010–11:_Musical_hiatus_and_Stanford_controversy"><span class="tocnumber">1.3</span> <span class="toctext">2010–11: Musical hiatus and Stanford controversy</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#2011-current:_Return,_solo_career_and_Epik_High_comeback"><span class="tocnumber">1.4</span> <span class="toctext">2011-current: Return, solo career and Epik High comeback</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Musical_style"><span class="tocnumber">3</span> <span class="toctext">Musical style</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Writing"><span class="tocnumber">4</span> <span class="toctext">Writing</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Discography"><span class="tocnumber">5</span> <span class="toctext">Discography</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Filmography"><span class="tocnumber">6</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Films"><span class="tocnumber">6.1</span> <span class="toctext">Films</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Television"><span class="tocnumber">6.2</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Music_videos"><span class="tocnumber">6.3</span> <span class="toctext">Music videos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Awards"><span class="tocnumber">7</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="1980.E2.80.932003:_Early_life_and_career_beginnings"></span><span class="mw-headline" id="1980–2003:_Early_life_and_career_beginnings">1980–2003: Early life and career beginnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=2" title="Edit section: 1980–2003: Early life and career beginnings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tablo moved to <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> in 1980 shortly after his birth. Due to his father's work, he spent around 3 years living in Jakarta<sup id="cite_ref-VIDEO:_Indonesia_yang_Bikin_Tablo_Selalu_Ingin_Kembali_5-0" class="reference"><a href="#cite_note-VIDEO:_Indonesia_yang_Bikin_Tablo_Selalu_Ingin_Kembali-5">&#91;5&#93;</a></sup> before his family relocated again several times to <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> and <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a><sup id="cite_ref-interview_6-0" class="reference"><a href="#cite_note-interview-6">&#91;6&#93;</a></sup> for his father's career until Tablo was six, when they returned to South Korea briefly.<sup id="cite_ref-bio_7-0" class="reference"><a href="#cite_note-bio-7">&#91;7&#93;</a></sup> His family moved again to <a href="/wiki/Canada" title="Canada">Canada</a> when he was eight. Tablo attended <a href="/wiki/St._George%27s_School_(Vancouver)" title="St. George&#39;s School (Vancouver)">St. George's School</a><sup id="cite_ref-homepage_8-0" class="reference"><a href="#cite_note-homepage-8">&#91;8&#93;</a></sup> in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>. He then transferred to <a href="/wiki/Seoul_International_School" title="Seoul International School">Seoul International School</a>.<sup id="cite_ref-bio_7-1" class="reference"><a href="#cite_note-bio-7">&#91;7&#93;</a></sup> As a coterminal student at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>,<sup id="cite_ref-article_9-0" class="reference"><a href="#cite_note-article-9">&#91;9&#93;</a></sup><sup id="cite_ref-StanfordDaily2010_10-0" class="reference"><a href="#cite_note-StanfordDaily2010-10">&#91;10&#93;</a></sup><sup id="cite_ref-StanfordPersecution_11-0" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup> Tablo simultaneously attained a <a href="/wiki/Bachelor%27s_Degree" class="mw-redirect" title="Bachelor&#39;s Degree">Bachelor's Degree</a> in <a href="/wiki/English_literature" title="English literature">English literature</a> and a <a href="/wiki/Master%27s_Degree" class="mw-redirect" title="Master&#39;s Degree">Master's Degree</a> in <a href="/wiki/Creative_writing" title="Creative writing">creative writing</a> in three years.<sup id="cite_ref-StanfordDaily2010_10-1" class="reference"><a href="#cite_note-StanfordDaily2010-10">&#91;10&#93;</a></sup><sup id="cite_ref-StanfordPersecution_11-1" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Tablo has an older sister and an older brother, who graduated from <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> and <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a> respectively.
+</p><p>Tablo started playing <a href="/wiki/Piano" title="Piano">piano</a> at the age of six but later switched to <a href="/wiki/Violin" title="Violin">violin</a>, which he played for 10 years.<sup id="cite_ref-interview4_2-1" class="reference"><a href="#cite_note-interview4-2">&#91;2&#93;</a></sup> His music teacher, who had been a pupil of <a href="/wiki/Isaac_Stern" title="Isaac Stern">Isaac Stern</a>, used to lecture him saying: "Music is communism, but you're playing democracy". Tablo wrote the lyrics to legendary singer <a href="/wiki/Kim_Gun-mo" title="Kim Gun-mo">Kim Gun-mo</a>'s song "Rainy Christmas" when he was sixteen years old, as Kim took an interest in Tablo after reading a poem of his.<sup id="cite_ref-interview_6-1" class="reference"><a href="#cite_note-interview-6">&#91;6&#93;</a></sup>
+</p><p>During his early life, Tablo suffered from bouts of <a href="/wiki/Depression_(mood)" title="Depression (mood)">depression</a>. Whenever he faced hardship, hip hop music served as an outlet. However, Tablo's father disapproved of his career choice, so as a teenager, he frequently ran away from home. Ostensibly, Tablo asked a friend to live out his dream, but when that friend died of cancer, it became an impetus for him to re-enter the music industry.<sup id="cite_ref-early_13-0" class="reference"><a href="#cite_note-early-13">&#91;13&#93;</a></sup> Tablo later admitted his family forced him to enroll in Stanford, and even after the release of his second album, was still persuading him to return to the United States to attend Law School.<sup id="cite_ref-early_13-1" class="reference"><a href="#cite_note-early-13">&#91;13&#93;</a></sup> While he was at Stanford, Tablo associated with an underground hip hop group, 4n Objectz.<sup id="cite_ref-interview_6-2" class="reference"><a href="#cite_note-interview-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span id="2003.E2.80.9310:_Success_with_Epik_High_and_Pieces_of_You"></span><span class="mw-headline" id="2003–10:_Success_with_Epik_High_and_Pieces_of_You">2003–10: Success with Epik High and <i>Pieces of You</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=3" title="Edit section: 2003–10: Success with Epik High and Pieces of You">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tablo met Mithra Jin and DJ Tukutz in the underground hip-hop scene. They formed Epik High and under the tutelage of Movement crew members, especially CB Mass (currently Dynamic Duo), they attempted to record their first record alongside hip-hop duo, and close friends, TBNY (composed of Yankie and TopBob). However, CB Mass member Curbin allegedly embezzled Epik High and TBNY's funds for their first studio album, effectively causing the disbandment of CB Mass (and the creation of Dynamic Duo without Curbin). Tablo and Epik High were finally signed by Woolim Entertainment, which at the time focused on underground hip hop and modern rock. Tablo made his official debut as the leader of the group <a href="/wiki/Epik_High" title="Epik High">Epik High</a> in 2003 alongside <a href="/wiki/DJ_Tukutz" class="mw-redirect" title="DJ Tukutz">DJ Tukutz</a> and <a href="/wiki/Mithra_Jin" title="Mithra Jin">Mithra Jin</a>.<sup id="cite_ref-interview_6-3" class="reference"><a href="#cite_note-interview-6">&#91;6&#93;</a></sup> The group's first album, <i><a href="/wiki/Map_of_the_Human_Soul" title="Map of the Human Soul">Map of the Human Soul</a></i>, was released on October 21, 2003. However, due to hip hop's lack of popularity in South Korea at the time, the album was a commercial failure. It wasn't until the release of their second album, <i><a href="/wiki/High_Society_(Epik_High_album)" title="High Society (Epik High album)">High Society</a></i>, that the group started to become more popular. Epik High's third album, <i><a href="/wiki/Swan_Songs_(Epik_High_album)" title="Swan Songs (Epik High album)">Swan Songs</a></i>, was originally intended to be their last album; however, upon release, the album became number one on numerous charts, and swept the year-end hip hop awards.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> One of the lead singles from the album, "Fly", was featured on the soundtrack of the video game <i><a href="/wiki/FIFA_07" title="FIFA 07">FIFA 07</a></i>. Due to the numerous offers to remake "Fly", as well as "Paris", the second single from the album, a CD sampler, was released in Japan.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg/220px-Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg" decoding="async" width="220" height="314" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg/330px-Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/ac/Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg 2x" data-file-width="350" data-file-height="499" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Tablo_at_MaptheSoul_Concert_SanFrancisco_2009.jpg" class="internal" title="Enlarge"></a></div>Tablo at Map the Soul Concert, San Francisco (2009)</div></div></div>
+<p>In 2007, the group released their fourth studio album, <i><a href="/wiki/Remapping_the_Human_Soul" title="Remapping the Human Soul">Remapping the Human Soul</a></i>, and managed to push Epik High to the number one spot for best upcoming artist after selling almost 90,000 copies in the first month of release. The album ended up becoming South Korea's third best-selling album of 2007.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> However, many songs from the album were banned from several channels and the album buying age was restricted to 19+ due to some songs dealing with issues the Ministry of Culture and Tourism in South Korea deemed inappropriate for younger listeners.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The group later went on to release their next album, <i><a href="/wiki/Pieces,_Part_One" title="Pieces, Part One">Pieces, Part One</a></i>, which was also a commercial success.
+</p><p>In late 2008, Tablo published a book entitled <i><a href="/wiki/Pieces_of_You_(book)" class="mw-redirect" title="Pieces of You (book)">Pieces of You</a></i>. Although the stories were originally written in English, the book was first published in Korean. The Korean translation sold 50,000 copies in its first week of release and topped the bestseller's list in Korea.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> The original English version was released in February 2009 and also met with moderate success. The book garned a positive reception from critics, with Tablo's writing praised for a first-time author.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> After the group's contract with Woolim Entertainment expired in 2008, Tablo, alongside his group members, founded their own independent label, Map the Soul, and they went on to release an album <a href="/wiki/Map_the_Soul" title="Map the Soul">of the same name</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Through their independent label, the group went on to release two more albums; <i><a href="/wiki/E_(Epik_High_album)" title="E (Epik High album)">[e]</a></i> in 2009,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> and <i><a href="/wiki/Epilogue_(Epik_High_album)" title="Epilogue (Epik High album)">Epilogue</a></i> in 2010.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> In November 2013, Tablo revealed the reason of shutting down the label "Map the Soul" in his interview with <a href="/wiki/HiphopLE" title="HiphopLE">HiphopLE</a> that one of the executive member of Map The Soul embezzled the label's funds.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h3><span id="2010.E2.80.9311:_Musical_hiatus_and_Stanford_controversy"></span><span class="mw-headline" id="2010–11:_Musical_hiatus_and_Stanford_controversy">2010–11: Musical hiatus and Stanford controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=4" title="Edit section: 2010–11: Musical hiatus and Stanford controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, it was announced that Epik High would go on hiatus after DJ Tukutz enlisted in his mandatory military service, whilst Tablo and Mithra would be working on solo careers until DJ Tukutz's return. However, in mid-2010, a group of Internet users raised doubts about the academic background of Tablo, who majored in English and English Literature at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.<sup id="cite_ref-StanfordDaily2010_10-2" class="reference"><a href="#cite_note-StanfordDaily2010-10">&#91;10&#93;</a></sup><sup id="cite_ref-StanfordPersecution_11-2" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup> Led by two <a href="/wiki/Fan_sites" class="mw-redirect" title="Fan sites">fan sites</a>, most notably "We Demand the Truth from Tablo" (<a href="/wiki/Hangul" title="Hangul">Hangul</a>: "타블로에게 진실을 요구합니다"; also known as "Tajinyo", <a href="/wiki/Hangul" title="Hangul">Hangul</a>: "타진요"), some <a href="/wiki/Netizens" class="mw-redirect" title="Netizens">netizens</a> claimed that Tablo could not have graduated from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> with both a bachelor's degree and master's degree in English and Creative Writing, respectively, in just three and a half years.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-StanfordDaily2010_10-3" class="reference"><a href="#cite_note-StanfordDaily2010-10">&#91;10&#93;</a></sup>
+</p><p>It became front-page news in Korea in June 2010 when one of the fansite's managers, who went by the username <i>whatbecomes</i>, claimed that Tablo's academic record was "not making any sense" and showed what he believed to be inconsistencies in Tablo's transcripts. Even though Tablo posted his official transcript and other legal documents online, many netizens refused to believe him, and called for other documents such as his immigration statement and diploma to be released.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Tablo visited Stanford University in late August to disprove these allegations by having the University <a href="/wiki/Registrar_(education)" title="Registrar (education)">registrar</a> re-print his documents on camera, and many of Tablo's acquaintances and former professors from Stanford attested to the validity of his academic background on camera.<sup id="cite_ref-StanfordDaily2010_10-4" class="reference"><a href="#cite_note-StanfordDaily2010-10">&#91;10&#93;</a></sup><sup id="cite_ref-StanfordPersecution_11-3" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup> The documentary was shown in two parts: "Tablo Goes to Stanford" and "Tablo and South Korea Online", which aired on <a href="/wiki/Munhwa_Broadcasting_Corporation" title="Munhwa Broadcasting Corporation">MBC</a> October 1 and 8. However, despite the documentary and Stanford's administration clearly siding with Tablo,<sup id="cite_ref-StanfordDaily2010_10-5" class="reference"><a href="#cite_note-StanfordDaily2010-10">&#91;10&#93;</a></sup><sup id="cite_ref-StanfordPersecution_11-4" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup> membership at "We Demand the Truth from Tablo" increased to as many as 190,000 within a few days, as numerous netizens refused to believe Tablo or the documentary. Tablo and members of his family received death threats and he became a virtual recluse.<sup id="cite_ref-Davis_29-0" class="reference"><a href="#cite_note-Davis-29">&#91;29&#93;</a></sup> Tablo ultimately left Wooliment entertainment during the Tajinyo incident, not wanting to spread harm to the agency or to <a href="/wiki/Infinite_(band)" title="Infinite (band)">Infinite</a>, who had only recently debuted when the controversy broke out.<sup id="cite_ref-:0_30-0" class="reference"><a href="#cite_note-:0-30">&#91;30&#93;</a></sup>
+</p><p>On October 9, however, police confirmed that Tablo had indeed graduated from Stanford, having requested information beyond what Tablo had already provided, directly from Stanford University.<sup id="cite_ref-StanfordPersecution_11-5" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup> South Korean police filed an arrest warrant domestically and with Interpol for the arrest of <i>whatbecomes</i>, who was revealed to be a 57-year-old Korean-American named Eungsuk Kim living in the United States.<sup id="cite_ref-StanfordPersecution_11-6" class="reference"><a href="#cite_note-StanfordPersecution-11">&#91;11&#93;</a></sup><sup id="cite_ref-Davis_29-1" class="reference"><a href="#cite_note-Davis-29">&#91;29&#93;</a></sup> In addition, twenty-two netizens received summons indicating they had been sued by Tablo for <a href="/wiki/Defamation#Criminal_defamation" title="Defamation">criminal defamation</a>. The fansite was shut down soon after by its host site, <a href="/wiki/Naver" title="Naver">Naver</a>, following the results of the investigation, which also revealed that <i>whatbecomes</i> had fraudulently used a friend's ID number to create the website, violating Naver's terms of service. However, many members of the fansite joined another community called "We Demand the Truth from Tablo 2" (<a href="/wiki/Hangul" title="Hangul">Hangul</a>: "타블로에게 진실을 요구합니다2", or "타진요 2"; "Tajinyo-i" for short), which has a membership of over 33,000 netizens despite proof provided by both the university and the police that Tablo did indeed graduate from Stanford University.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h3><span id="2011-current:_Return.2C_solo_career_and_Epik_High_comeback"></span><span class="mw-headline" id="2011-current:_Return,_solo_career_and_Epik_High_comeback">2011-current: Return, solo career and Epik High comeback</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=5" title="Edit section: 2011-current: Return, solo career and Epik High comeback">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On September 27, 2011 <a href="/wiki/YG_Entertainment" title="YG Entertainment">YG Entertainment</a> announced that Tablo would be signing a 4-year contract with them and that his first solo album would be released on November 1.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> Although Tablo signed as a solo singer under <a href="/wiki/YG_Entertainment" title="YG Entertainment">YG Entertainment</a>, he indicated that it did not mean that <a href="/wiki/Epik_High" title="Epik High">Epik High</a> disbanded, nor that they would necessarily sign with YG as a group.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> On October 14, 2011 Tablo released the song "Airbag" from his new upcoming album.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> On October 21, 2011 YG announced that the new album, titled <i>Fever's End</i> (<a href="/wiki/Hangul" title="Hangul">Hangul</a>: 열꽃), had been split into two parts. The first part was released along with the recent announcement, and the second part was released on the planned release date.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p><p>On September 27, 2012, YG officially announced through yg-life.com that <a href="/wiki/Epik_High" title="Epik High">Epik High</a> would have their comeback in October 2012, after a three-year hiatus as a group.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> Their first single, "춥다" ("It's Cold"), featured SBS's <i><a href="/wiki/K-pop_Star" title="K-pop Star">K-pop Star</a></i> finalist <a href="/wiki/Lee_Hi" title="Lee Hi">Lee Hi</a> and was released on October 9, while their comeback album, titled <i><a href="/wiki/99_(Epik_High_album)" title="99 (Epik High album)">99</a></i>, was released on the 19th. On December 30, 2012, during the <i>SBS Gayo Daejun</i>, Tablo joined fellow Epik High bandmate Mithra Jin, Dynamic Duo and Simon D for <i>Cypher 2012</i>, a remix of popular hip hop tracks of the year, to much acclaim.
+</p><p>In October 2013, Tablo joined KBS variety show <i><a href="/wiki/The_Return_of_Superman_(TV_series)" title="The Return of Superman (TV series)">The Return of Superman</a></i> with his daughter Haru.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p><p>On April 21, 2014, Tablo returned as radio DJ.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> His show's name is <i>Tablo's Dreaming Radio</i>. He was the DJ for this same program until 2009.
+</p><p>In March 2014, Tablo carried out a collaboration with China's top female singer <a href="/wiki/Bibi_Zhou" title="Bibi Zhou">Bibi Zhou</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p><p>On October 18, 2014, Epik High released their music video for "<a href="/wiki/Born_Hater" title="Born Hater">Born Hater</a>", after the video was delayed by YG due to the <a href="/wiki/Pangyo_Techno_Valley#Pangyo_Techno_Valley_Festival_Incident" title="Pangyo Techno Valley">Pangyo Techno Valley Festival Tragedy</a>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> The track is from their eighth album, <i><a href="/wiki/Shoebox_(album)" title="Shoebox (album)">SHOEBOX</a></i>, and features a myriad of hip hop artists including <a href="/wiki/Beenzino" title="Beenzino">Beenzino</a>, <a href="/wiki/Verbal_Jint" title="Verbal Jint">Verbal Jint</a>, <a href="/wiki/Song_Min-ho" class="mw-redirect" title="Song Min-ho">Song Min-ho</a> of YG's latest group <a href="/wiki/Winner_(band)" title="Winner (band)">WINNER</a>, and YG artists <a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a> and <a href="/wiki/Bobby_(rapper)" title="Bobby (rapper)">Bobby</a>, who are part of YG Entertainment's boy group <a href="/wiki/IKON_(South_Korean_band)" class="mw-redirect" title="IKON (South Korean band)">iKON</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:EpikHigh_061215_100_(18769657962).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/EpikHigh_061215_100_%2818769657962%29.jpg/220px-EpikHigh_061215_100_%2818769657962%29.jpg" decoding="async" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/EpikHigh_061215_100_%2818769657962%29.jpg/330px-EpikHigh_061215_100_%2818769657962%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/EpikHigh_061215_100_%2818769657962%29.jpg/440px-EpikHigh_061215_100_%2818769657962%29.jpg 2x" data-file-width="2688" data-file-height="4032" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:EpikHigh_061215_100_(18769657962).jpg" class="internal" title="Enlarge"></a></div>2015 North American Tour, New York City</div></div></div>
+<p>On August 31, 2015, Tablo released a teaser clip for a collaboration track with American rapper an co-founder of <a href="/wiki/Pro_Era" title="Pro Era">Pro Era</a>, <a href="/wiki/Joey_Badass" title="Joey Badass">Joey Badass</a>. Their collaborated song, "Hood," was released September 5, 2015.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</p><p>On January 26, 2017, he collaborated with Gallant and Eric Nam on the single release of "Cave Me In", and music video which was shot in Hong Kong.[8] "Cave Me In" premiered worldwide on Zayn Lowe's Beats 1 Radio Show and was trending globally on YouTube and Facebook for over 72 hours upon releasing.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=6" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tablo married Korean actress <a href="/wiki/Kang_Hye-jung" title="Kang Hye-jung">Kang Hye-jung</a> on October 26, 2009.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> Their daughter, Haru, was born on May 2, 2010.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=7" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tablo has been a long-time fan of hip hop music, citing an almost lifelong affair with the culture itself. While listening to hip hop at an early age through artists such as <a href="/wiki/Run-D.M.C." class="mw-redirect" title="Run-D.M.C.">Run-D.M.C.</a> and acquiring Cold Crush tapes, he concurrently gained recognition as a rhymer. His major and enduring love affair with making hip hop music was sparked later in life, however; after hearing <a href="/wiki/Drunken_Tiger" title="Drunken Tiger">Drunken Tiger</a> rapping, the group Epik High was formed in 2000 at an early time in the culture's local evolution. Tablo has since claimed to be the first <a href="/wiki/Master_of_Ceremonies" class="mw-redirect" title="Master of Ceremonies">emcee</a> to have used the "rhyming rifle" technique. With the hip hop scene in Korea and Korean emcees being known for their fickle tendencies, Tablo has through the years kept alive his legacy and career through numerous shows, appearances on influential overseas (American most notably) hip hop artists work, such as <a href="/wiki/EPMD" title="EPMD">EPMD</a>.
+</p>
+<h2><span class="mw-headline" id="Writing">Writing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=8" title="Edit section: Writing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2008, Tablo published a collection of short stories he had written, titled <i><a href="/wiki/Pieces_of_You_(book)" class="mw-redirect" title="Pieces of You (book)">Pieces of You</a></i>. The English translation was published in 2009.
+In 2016, his second book "BloNote" was published in Korea with a pink book cover. The English version, translated by Tablo himself and a black cover, was published on December 21, 2016.
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=9" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Tablo_discography" title="Tablo discography">Tablo discography</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Epik_High_discography" title="Epik High discography">Epik High discography</a></div>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=10" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Films">Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=11" title="Edit section: Films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:95%;">
+
+<tbody><tr style="text-align:center;">
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td rowspan="2">2007
+</td>
+<td><i>Fantastic Parasuicides</i>
+</td>
+<td>Min-ho
+</td>
+<td>Main role
+</td></tr>
+<tr>
+<td><i><a href="/wiki/August_Rush" title="August Rush">August Rush</a></i>
+</td>
+<td>Clarinet player
+</td>
+<td>Cameo appearance; uncredited
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=12" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:95%;">
+
+<tbody><tr style="text-align:center;">
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th>Network
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>2004
+</td>
+<td><i><a href="/wiki/Epik_High" title="Epik High">Epik High's Love and Delusion</a></i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Mnet_(TV_channel)" title="Mnet (TV channel)">Mnet</a></center>
+</td>
+<td>Series regular
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td><i><a href="/wiki/Nonstop_(TV_series)" title="Nonstop (TV series)">Nonstop</a></i>
+</td>
+<td>Tablo
+</td>
+<td><center><a href="/wiki/MBC_(Korea)" class="mw-redirect" title="MBC (Korea)">MBC</a></center>
+</td>
+<td>Main role; season 5
+</td></tr>
+<tr>
+<td>2007
+</td>
+<td><i><a href="/wiki/High_Kick!" title="High Kick!">High Kick!</a></i>
+</td>
+<td>Teacher
+</td>
+<td><center><a href="/wiki/MBC_(Korea)" class="mw-redirect" title="MBC (Korea)">MBC</a></center>
+</td>
+<td>Cameo appearance <small>(Episode 150)</small>
+</td></tr>
+<tr>
+<td rowspan="2">2008
+</td>
+<td><i>Woman of Matchless Beauty</i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/MBC_(Korea)" class="mw-redirect" title="MBC (Korea)">MBC</a></center>
+</td>
+<td>Cameo appearance <small>(Episodes 7 &amp; 8)</small>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Music_Bank_(TV_series)" title="Music Bank (TV series)">Music Bank</a></i>
+</td>
+<td>Co-host
+</td>
+<td><center><a href="/wiki/Korean_Broadcasting_System" title="Korean Broadcasting System">KBS2</a></center>
+</td>
+<td>Alongside Kim Sung-eun and Min Seo-hyun
+</td></tr>
+<tr>
+<td rowspan="2">2009
+</td>
+<td><i><a href="/wiki/Mnet_(TV_channel)" title="Mnet (TV channel)">Mnet Director's Cut</a></i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Mnet_(TV_channel)" title="Mnet (TV channel)">Mnet</a></center>
+</td>
+<td>Television movie
+</td></tr>
+<tr>
+<td><i>Come To Play</i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Munhwa_Broadcasting_Corporation" title="Munhwa Broadcasting Corporation">MBC</a></center>
+</td>
+<td>Ep 262 - Movement Special
+</td></tr>
+<tr>
+<td rowspan="1">2010
+</td>
+<td><i>Happy Birthday</i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Korean_Broadcasting_System" title="Korean Broadcasting System">KBS2</a></center>
+</td>
+<td>Series regular
+</td></tr>
+<tr>
+<td rowspan="1">2013
+</td>
+<td><i><a href="/wiki/The_Return_of_Superman_(TV_series)" title="The Return of Superman (TV series)">The Return of Superman</a></i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Korean_Broadcasting_System" title="Korean Broadcasting System">KBS</a></center>
+</td>
+<td>Series Regular
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td><i><a href="/wiki/Show_Me_the_Money_(Mnet_TV_series)" class="mw-redirect" title="Show Me the Money (Mnet TV series)">Show Me the Money 3</a></i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Mnet_(TV_channel)" title="Mnet (TV channel)">Mnet</a></center>
+</td>
+<td>Producer/Judge
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><i><a href="/wiki/Show_Me_the_Money_(Mnet_TV_series)" class="mw-redirect" title="Show Me the Money (Mnet TV series)">Show Me the Money 4</a></i>
+</td>
+<td>Himself
+</td>
+<td><center><a href="/wiki/Mnet_(TV_channel)" title="Mnet (TV channel)">Mnet</a></center>
+</td>
+<td>Producer/Judge
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Music_videos">Music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=13" title="Edit section: Music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Music video
+</th>
+<th>Length
+</th>
+<th>Album
+</th></tr>
+<tr>
+<td rowspan="2">2011
+</td>
+<td>Bad (나쁘다)
+</td>
+<td>4:07
+</td>
+<td><i>Fever's End: Part 1 (열꽃)</i>
+</td></tr>
+<tr>
+<td>Tomorrow (Feat. <a href="/wiki/Taeyang" title="Taeyang">Taeyang</a>)
+</td>
+<td>4:14
+</td>
+<td><i>Fever's End: Part 2 (열꽃)</i>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=14" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tablo&amp;action=edit">expanding it</a>.</div>
+<table width="75%" class="wikitable sortable">
+
+<tbody><tr>
+<th width="10%">Year
+</th>
+<th width="30%">Award-Giving Body
+</th>
+<th width="25%">Category
+</th>
+<th width="25%">Work
+</th>
+<th width="10%">Result
+</th></tr>
+<tr>
+<td align="center">2011
+</td>
+<td><a href="/wiki/Mnet_Asian_Music_Awards" title="Mnet Asian Music Awards">Mnet Asian Music Awards</a>
+</td>
+<td><a href="/wiki/Mnet_Asian_Music_Award_for_Best_Rap_Performance" title="Mnet Asian Music Award for Best Rap Performance">Best Rap Performance</a><sup id="cite_ref-2011_nom_45-0" class="reference"><a href="#cite_note-2011_nom-45">&#91;45&#93;</a></sup>
+</td>
+<td align="center">"Bad"
+</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://book.naver.com/bookdb/book_detail.php?bid=5348341">http://book.naver.com/bookdb/book_detail.php?bid=5348341</a> Naver Book Review</span>
+</li>
+<li id="cite_note-interview4-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-interview4_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-interview4_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hiphopplaya.com/magazine/article/view.html?category=&amp;category2=&amp;page=1&amp;sort=&amp;num=2383&amp;keyfield=&amp;key=epik+high">"Tablo interview on music"</a> (in Korean). 2007-02-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+interview+on+music&amp;rft.date=2007-02-28&amp;rft_id=http%3A%2F%2Fwww.hiphopplaya.com%2Fmagazine%2Farticle%2Fview.html%3Fcategory%3D%26category2%3D%26page%3D1%26sort%3D%26num%3D2383%26keyfield%3D%26key%3Depik%2Bhigh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.imbc.com/broad/radio/fm4u/dream/">"Tablo's Dreaming Radio"</a> (in Korean). <a href="/wiki/Munhwa_Broadcasting_Corporation" title="Munhwa Broadcasting Corporation">Munhwa Broadcasting Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo%27s+Dreaming+Radio&amp;rft.pub=Munhwa+Broadcasting+Corporation&amp;rft_id=http%3A%2F%2Fwww.imbc.com%2Fbroad%2Fradio%2Ffm4u%2Fdream%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080531012935/http://www.allkpop.com/index.php/news_rumors_full/tablo_is_replacing_haha">"Tablo is replacing HaHa"</a>. <a href="/wiki/Allkpop" title="Allkpop">Allkpop</a>. 2008-02-14. Archived from <a rel="nofollow" class="external text" href="http://www.allkpop.com/index.php/news_rumors_full/tablo_is_replacing_haha">the original</a> on 2008-05-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+is+replacing+HaHa&amp;rft.pub=Allkpop&amp;rft.date=2008-02-14&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2Findex.php%2Fnews_rumors_full%2Ftablo_is_replacing_haha&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-VIDEO:_Indonesia_yang_Bikin_Tablo_Selalu_Ingin_Kembali-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-VIDEO:_Indonesia_yang_Bikin_Tablo_Selalu_Ingin_Kembali_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cnnindonesia.com/hiburan/20170814203728-238-234752/video-indonesia-yang-bikin-tablo-selalu-ingin-kembali/">"interview"</a> (in Indonesian). cnnindonesia.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=interview&amp;rft.pub=cnnindonesia.com&amp;rft_id=https%3A%2F%2Fwww.cnnindonesia.com%2Fhiburan%2F20170814203728-238-234752%2Fvideo-indonesia-yang-bikin-tablo-selalu-ingin-kembali%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-interview-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-interview_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-interview_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-interview_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-interview_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.naver.com/main/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=106&amp;oid=038&amp;aid=0000379584">"interview"</a> (in Korean). Hankooki.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=interview&amp;rft.pub=Hankooki.com&amp;rft_id=http%3A%2F%2Fnews.naver.com%2Fmain%2Fread.nhn%3Fmode%3DLSD%26mid%3Dsec%26sid1%3D106%26oid%3D038%26aid%3D0000379584&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-bio-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-bio_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bio_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.naver.com/main/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=106&amp;oid=001&amp;aid=0000936611">"Tablo biography &amp; interview"</a> (in Korean). YonhapNews.co.kr<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+biography+%26+interview&amp;rft.pub=YonhapNews.co.kr&amp;rft_id=http%3A%2F%2Fnews.naver.com%2Fmain%2Fread.nhn%3Fmode%3DLSD%26mid%3Dsec%26sid1%3D106%26oid%3D001%26aid%3D0000936611&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-homepage-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-homepage_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130218053526/http://www.cyworld.com/tablo">"Tablo's homepage"</a> (in Korean). Archived from <a rel="nofollow" class="external text" href="http://www.cyworld.com/tablo">the original</a> on 2013-02-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo%27s+homepage&amp;rft_id=http%3A%2F%2Fwww.cyworld.com%2Ftablo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-article-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-article_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Lah, Jung (May 24, 2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080519230148/http://www.stanforddaily.com/article/2002/5/24/straightOuttaSeoul">"Straight Outta...Seoul?"</a>. <i><a href="/wiki/The_Stanford_Daily" title="The Stanford Daily">The Stanford Daily</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.stanforddaily.com/article/2002/5/24/straightOuttaSeoul">the original</a> on May 19, 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Stanford+Daily&amp;rft.atitle=Straight+Outta...Seoul%3F&amp;rft.date=2002-05-24&amp;rft.aulast=Lah&amp;rft.aufirst=Jung&amp;rft_id=http%3A%2F%2Fwww.stanforddaily.com%2Farticle%2F2002%2F5%2F24%2FstraightOuttaSeoul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-StanfordDaily2010-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-StanfordDaily2010_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-StanfordDaily2010_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-StanfordDaily2010_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-StanfordDaily2010_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-StanfordDaily2010_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-StanfordDaily2010_10-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Abbott, Kate (September 27, 2010). <a rel="nofollow" class="external text" href="http://www.stanforddaily.com/2010/09/27/korean-pop-star-battles-attacks-on-stanford-record/">"Korean pop star battles attacks on Stanford record"</a>. <i><a href="/wiki/The_Stanford_Daily" title="The Stanford Daily">The Stanford Daily</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Stanford+Daily&amp;rft.atitle=Korean+pop+star+battles+attacks+on+Stanford+record&amp;rft.date=2010-09-27&amp;rft.aulast=Abbott&amp;rft.aufirst=Kate&amp;rft_id=http%3A%2F%2Fwww.stanforddaily.com%2F2010%2F09%2F27%2Fkorean-pop-star-battles-attacks-on-stanford-record%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-StanfordPersecution-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-StanfordPersecution_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-StanfordPersecution_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-StanfordPersecution_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-StanfordPersecution_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-StanfordPersecution_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-StanfordPersecution_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-StanfordPersecution_11-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Davis, Joshua (July–August 2011). <a rel="nofollow" class="external text" href="http://alumni.stanford.edu/get/page/magazine/article/?article_id=40913">"The Persecution of Daniel Lee"</a>. <i>Stanford Magazine</i>. <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Stanford+Magazine&amp;rft.atitle=The+Persecution+of+Daniel+Lee&amp;rft.date=2011-07%2F2011-08&amp;rft.aulast=Davis&amp;rft.aufirst=Joshua&amp;rft_id=http%3A%2F%2Falumni.stanford.edu%2Fget%2Fpage%2Fmagazine%2Farticle%2F%3Farticle_id%3D40913&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.naver.com/main/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=106&amp;oid=038&amp;aid=0000394615">"interview on degrees"</a> (in Korean). 2007-08-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=interview+on+degrees&amp;rft.date=2007-08-15&amp;rft_id=http%3A%2F%2Fnews.naver.com%2Fmain%2Fread.nhn%3Fmode%3DLSD%26mid%3Dsec%26sid1%3D106%26oid%3D038%26aid%3D0000394615&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-early-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-early_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-early_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304092933/http://shuidee.multiply.com/video/item/1016/Tablo_on_YSMM_-_old_clip_-_English_Subbed?&amp;show_interstitial=1&amp;u=%2Fvideo%2Fitem">"Tablo on YSMM"</a>. <a href="/wiki/YouTube" title="YouTube">YouTube</a>. Archived from <a rel="nofollow" class="external text" href="http://shuidee.multiply.com/video/item/1016/Tablo_on_YSMM_-_old_clip_-_English_Subbed?&amp;show_interstitial=1&amp;u=%2Fvideo%2Fitem">the original</a> on March 4, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+on+YSMM&amp;rft.pub=YouTube&amp;rft_id=http%3A%2F%2Fshuidee.multiply.com%2Fvideo%2Fitem%2F1016%2FTablo_on_YSMM_-_old_clip_-_English_Subbed%3F%26show_interstitial%3D1%26u%3D%252Fvideo%252Fitem&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090805122040/http://mapthesoul.com/store/view.html?num=3&amp;category=albums&amp;category2=epikhigh">"Epik High: Albums"</a>. Map the Soul, Inc. October 5, 2005. Archived from <a rel="nofollow" class="external text" href="http://mapthesoul.com/store/view.html?num=3&amp;category=albums&amp;category2=epikhigh">the original</a> on August 5, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Epik+High%3A+Albums&amp;rft.pub=Map+the+Soul%2C+Inc.&amp;rft.date=2005-10-05&amp;rft_id=http%3A%2F%2Fmapthesoul.com%2Fstore%2Fview.html%3Fnum%3D3%26category%3Dalbums%26category2%3Depikhigh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120513200140/http://www.arirang.co.kr/Tv/Pops_News.asp?PAGE_ACT=View&amp;PROG_CODE=TVCR0102&amp;view_pSeq=3286">"Epik High to expand into Japan with sample CD"</a>. <a href="/wiki/Arirang_TV" class="mw-redirect" title="Arirang TV">Arirang TV</a>. March 12, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.arirang.co.kr/Tv/Pops_News.asp?PAGE_ACT=View&amp;PROG_CODE=TVCR0102&amp;view_pSeq=3286">the original</a> on May 13, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Epik+High+to+expand+into+Japan+with+sample+CD&amp;rft.pub=Arirang+TV&amp;rft.date=2007-03-12&amp;rft_id=http%3A%2F%2Fwww.arirang.co.kr%2FTv%2FPops_News.asp%3FPAGE_ACT%3DView%26PROG_CODE%3DTVCR0102%26view_pSeq%3D3286&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090203125754/http://spn.edaily.co.kr/entertain/newsRead.asp?sub_cd=EA22&amp;newsid=01197206586278048&amp;DirCode=0010202&amp;curtype=read">"2007 total sales"</a> (in Korean). eDaily. January 2008. Archived from <a rel="nofollow" class="external text" href="http://spn.edaily.co.kr/entertain/newsRead.asp?sub_cd=EA22&amp;newsid=01197206586278048&amp;DirCode=0010202&amp;curtype=read">the original</a> on 2009-02-03.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007+total+sales&amp;rft.pub=eDaily&amp;rft.date=2008-01&amp;rft_id=http%3A%2F%2Fspn.edaily.co.kr%2Fentertain%2FnewsRead.asp%3Fsub_cd%3DEA22%26newsid%3D01197206586278048%26DirCode%3D0010202%26curtype%3Dread&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://times.hankooki.com/lpage/culture/200702/kt2007021918150011690.html">"Epik High Soars to New Heights"</a>. <a href="/wiki/The_Korea_Times" title="The Korea Times">The Korea Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Epik+High+Soars+to+New+Heights&amp;rft.pub=The+Korea+Times&amp;rft_id=http%3A%2F%2Ftimes.hankooki.com%2Flpage%2Fculture%2F200702%2Fkt2007021918150011690.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://joongangdaily.joins.com/article/view.asp?aid=2897507">Hip-hop star leaps into short fiction to express his art</a>. Retrieved on 2009-04-13</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.libro.co.kr/Product/BookDetail.libro?goods_id=0100008184662#review">http://www.libro.co.kr/Product/BookDetail.libro?goods_id=0100008184662#review</a> Libro Book Review</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kome-world.com/us/articles-443-epik-high-hon-map-the-soul.html">"Epik High - Hon: Map the Soul"</a>. <i>KoME U.S.A</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=KoME+U.S.A.&amp;rft.atitle=Epik+High+-+Hon%3A+Map+the+Soul&amp;rft_id=http%3A%2F%2Fwww.kome-world.com%2Fus%2Farticles-443-epik-high-hon-map-the-soul.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">ease Date: September 16, 2009, from <a rel="nofollow" class="external free" href="http://nuel92.wordpress.com/2009/09/18/album-epik-high-e-hip-hip-released-september-16-2009/">http://nuel92.wordpress.com/2009/09/18/album-epik-high-e-hip-hip-released-september-16-2009/</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080504000819/http://www.woolliment.com/main.asp">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.woolliment.com/main.asp">the original</a> on 2008-05-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.woolliment.com%2Fmain.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.yesasia.com/us/epik-high-special-album-epilogue/1022280236-0-0-0-en/info.html">"YESASIA: Epik High Special Album - Epilogue CD - Epik High, Mnet Media - Korean Music - Free Shipping - North America Site"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=YESASIA%3A+Epik+High+Special+Album+-+Epilogue+CD+-+Epik+High%2C+Mnet+Media+-+Korean+Music+-+Free+Shipping+-+North+America+Site&amp;rft_id=http%3A%2F%2Fwww.yesasia.com%2Fus%2Fepik-high-special-album-epilogue%2F1022280236-0-0-0-en%2Finfo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Melo. <a rel="nofollow" class="external text" href="http://hiphople.com/musicsalon/1523840">"인터뷰"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%EC%9D%B8%ED%84%B0%EB%B7%B0&amp;rft.au=Melo&amp;rft_id=http%3A%2F%2Fhiphople.com%2Fmusicsalon%2F1523840&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.koreaherald.com/entertainment/Detail.jsp?newsMLId=20100928000825">Netizens file injunction against Tablo program </a> 09-29, 2010 &lt;The Korea Herald&gt;</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.koreaherald.com/national/Detail.jsp?newsMLId=20100827000833">Prosecution looks into Tablo allegations </a> 08-27, 2010 &lt;The Korea Herald &gt;</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://joongangdaily.joins.com/_data/photo/_06/0611-2.jpg">Transcript 2</a>&lt;Joongangdaily&gt;</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://joongangdaily.joins.com/_data/photo/_06/0611-1.jpg">Transcript 1</a>&lt;Joonganddaily&gt;</span>
+</li>
+<li id="cite_note-Davis-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Davis_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Davis_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Davis, Joshua (April 24, 2012). <a rel="nofollow" class="external text" href="https://www.wired.com/2012/04/ff_koreanrapper/">"The Stalking of Korean Hip Hop Star Daniel Lee"</a>. <i>Wired</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wired&amp;rft.atitle=The+Stalking+of+Korean+Hip+Hop+Star+Daniel+Lee&amp;rft.date=2012-04-24&amp;rft.aulast=Davis&amp;rft.aufirst=Joshua&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2012%2F04%2Fff_koreanrapper%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-:0-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allkpop.com/article/2014/10/tablo-explains-born-hater-was-not-meant-to-criticize-former-label-woollim-entertainment">"Tablo explains 'Born Hater' was not meant to criticize former label, Woollim Entertainment"</a>. <i>Allkpop</i>. October 30, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">October 1,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allkpop&amp;rft.atitle=Tablo+explains+%27Born+Hater%27+was+not+meant+to+criticize+former+label%2C+Woollim+Entertainment&amp;rft.date=2014-10-30&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2Farticle%2F2014%2F10%2Ftablo-explains-born-hater-was-not-meant-to-criticize-former-label-woollim-entertainment&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cafe.naver.com/tajinyo3">"&#91;Ÿ&#93; Ÿο 䱸մϴ(ι°)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%5B%C5%B8%5D+%C5%B8%CE%BF+%E4%B1%B8%D5%B4%CF%B4%28%CE%B9%C2%B0%29&amp;rft_id=http%3A%2F%2Fcafe.naver.com%2Ftajinyo3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hancinema.net/tablo-signs-with-yg-for-november-comeback-33630.html">"Tablo Signs With YG For November Comeback"</a>. <i>HanCinema</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HanCinema&amp;rft.atitle=Tablo+Signs+With+YG+For+November+Comeback&amp;rft_id=http%3A%2F%2Fwww.hancinema.net%2Ftablo-signs-with-yg-for-november-comeback-33630.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://asiapacificarts.usc.edu/article@apa?epik_highs_tablo_joins_yg_family_17430.aspx">"Epik High's Tablo Joins YG Family"</a>. Asia Pacific Arts. 2011-09-28.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Epik+High%27s+Tablo+Joins+YG+Family&amp;rft.pub=Asia+Pacific+Arts&amp;rft.date=2011-09-28&amp;rft_id=http%3A%2F%2Fasiapacificarts.usc.edu%2Farticle%40apa%3Fepik_highs_tablo_joins_yg_family_17430.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allkpop.com/2011/10/tablo-reveals-airbag-ft-naul">"Tablo reveals "Airbag" ft/ Naul"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+reveals+%22Airbag%22+ft%2F+Naul&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2F2011%2F10%2Ftablo-reveals-airbag-ft-naul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allkpop.com/2011/10/tablo-releases-part-1-of-fevers-end-album">"Tablo releases Part 1 of "Fever's End" album"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+releases+Part+1+of+%22Fever%27s+End%22+album&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2F2011%2F10%2Ftablo-releases-part-1-of-fevers-end-album&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allkpop.com/2012/07/epik-high-to-return-this-september">"Epik High to return this September"</a>. allkpop. 2012-07-25.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Epik+High+to+return+this+September&amp;rft.pub=allkpop&amp;rft.date=2012-07-25&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2F2012%2F07%2Fepik-high-to-return-this-september&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mwave.interest.me/enewsworld/en/article/48287">"Tablo to Babysit Haru on 'Superman is Back<span class="cs1-kern-right">'</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+to+Babysit+Haru+on+%E2%80%98Superman+is+Back%E2%80%99&amp;rft_id=http%3A%2F%2Fmwave.interest.me%2Fenewsworld%2Fen%2Farticle%2F48287&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.koreatimes.co.kr/www/news/culture/2014/04/386_155440.html">"Tablo to return as radio DJ"</a>. <i>The Korea Times</i>. 2014-04-15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Korea+Times&amp;rft.atitle=Tablo+to+return+as+radio+DJ&amp;rft.date=2014-04-15&amp;rft_id=https%3A%2F%2Fwww.koreatimes.co.kr%2Fwww%2Fnews%2Fculture%2F2014%2F04%2F386_155440.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.yg-life.com/archives/30231?lang=en">"Korea-China collaboration: TABLO works with top artist Bibi Zhou"</a>. <i>YG LIFE</i>. 2014-04-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=YG+LIFE&amp;rft.atitle=Korea-China+collaboration%3A+TABLO+works+with+top+artist+Bibi+Zhou&amp;rft.date=2014-04-10&amp;rft_id=http%3A%2F%2Fwww.yg-life.com%2Farchives%2F30231%3Flang%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Kuang, Robert. <a rel="nofollow" class="external text" href="http://www.kpopstarz.com/articles/125237/20141017/epik-high-born-hater-pangyo-techno-valley-festival.htm">"YG Entertainment Delays Epik High's 'Born Hater' Music Video Release Due To Pangyo Techno Valley Festival Tragedy"</a>. KpopStarz<span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=YG+Entertainment+Delays+Epik+High%27s+%27Born+Hater%27+Music+Video+Release+Due+To+Pangyo+Techno+Valley+Festival+Tragedy&amp;rft.pub=KpopStarz&amp;rft.aulast=Kuang&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fwww.kpopstarz.com%2Farticles%2F125237%2F20141017%2Fepik-high-born-hater-pangyo-techno-valley-festival.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">James, Lily. <a rel="nofollow" class="external text" href="http://www.kpopstarz.com/articles/121007/20141006/ikon-yg-entertainment.htm">"YG Entertainment Launches Promotions For New K-Pop Group iKON Following The Success Of Reality TV Survival Band WINNER"</a>. KpopStarz<span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=YG+Entertainment+Launches+Promotions+For+New+K-Pop+Group+iKON+Following+The+Success+Of+Reality+TV+Survival+Band+WINNER&amp;rft.pub=KpopStarz&amp;rft.aulast=James&amp;rft.aufirst=Lily&amp;rft_id=http%3A%2F%2Fwww.kpopstarz.com%2Farticles%2F121007%2F20141006%2Fikon-yg-entertainment.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web">Lifson, Samantha Marie. <a rel="nofollow" class="external text" href="http://www.kpopstarz.com/articles/236504/20150831/tablo-joey-bada-collaboration.htm">"Tablo And Joey Bada$$ Announce Upcoming Collaboration 'Hood<span class="cs1-kern-right">'</span>"</a>. KpopStarz.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+And+Joey+Bada%24%24+Announce+Upcoming+Collaboration+%27Hood%27&amp;rft.pub=KpopStarz&amp;rft.aulast=Lifson&amp;rft.aufirst=Samantha+Marie&amp;rft_id=http%3A%2F%2Fwww.kpopstarz.com%2Farticles%2F236504%2F20150831%2Ftablo-joey-bada-collaboration.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120102041716/http://www.allkpop.com/2009/10/tablo_and_kang_hye_jung_releases_wedding_photos">"Tablo and Kang Hye Jung release wedding photos"</a>. <a href="/wiki/Allkpop" title="Allkpop">Allkpop</a>. October 26, 2009. Archived from <a rel="nofollow" class="external text" href="http://www.allkpop.com/2009/10/tablo_and_kang_hye_jung_releases_wedding_photos">the original</a> on January 2, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+and+Kang+Hye+Jung+release+wedding+photos&amp;rft.pub=Allkpop&amp;rft.date=2009-10-26&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2F2009%2F10%2Ftablo_and_kang_hye_jung_releases_wedding_photos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allkpop.com/2010/05/tablo-and-kang-hye-jung-get-a-baby-daughter">"Tablo and Kang Hye Jung become parents of a baby daughter"</a>. <a href="/wiki/Allkpop" title="Allkpop">Allkpop</a>. May 2, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tablo+and+Kang+Hye+Jung+become+parents+of+a+baby+daughter&amp;rft.pub=Allkpop&amp;rft.date=2010-05-02&amp;rft_id=http%3A%2F%2Fwww.allkpop.com%2F2010%2F05%2Ftablo-and-kang-hye-jung-get-a-baby-daughter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATablo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-2011_nom-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-2011_nom_45-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=142142">"2011Mnet Asian Music Awards part 1"</a>. <i>MAMA</i>. Retrieved 2015-01-20.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tablo&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Tablo" class="extiw" title="commons:Category:Tablo">Tablo</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&amp;ATYPE=2&amp;ARTIDX=50">Epik High's Official Site</a> <span class="languageicon">(in Korean)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Epik_High" style="padding:3px"><table class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Epik_High" title="Template:Epik High"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Epik_High" title="Template talk:Epik High"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Epik_High&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Epik_High" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Epik_High" title="Epik High">Epik High</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Tablo&amp;#10;*_Mithra_Jin&amp;#10;*_DJ_Tukutz">
+<ul><li><b><a class="mw-selflink selflink">Tablo</a></b></li>
+<li><b><a href="/wiki/Mithra_Jin" title="Mithra Jin">Mithra Jin</a></b></li>
+<li><b><a href="/wiki/DJ_Tukutz" class="mw-redirect" title="DJ Tukutz">DJ Tukutz</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Map_of_the_Human_Soul" title="Map of the Human Soul">Map of the Human Soul</a></i></li>
+<li><i><a href="/wiki/High_Society_(Epik_High_album)" title="High Society (Epik High album)">High Society</a></i></li>
+<li><i><a href="/wiki/Swan_Songs_(Epik_High_album)" title="Swan Songs (Epik High album)">Swan Songs</a></i></li>
+<li><i><a href="/wiki/Remapping_the_Human_Soul" title="Remapping the Human Soul">Remapping the Human Soul</a></i></li>
+<li><i><a href="/wiki/Pieces,_Part_One" title="Pieces, Part One">Pieces, Part One</a></i></li>
+<li><i><a href="/wiki/Map_the_Soul" title="Map the Soul">Map the Soul</a></i></li>
+<li><i><a href="/wiki/E_(Epik_High_album)" title="E (Epik High album)">[e]</a></i></li>
+<li><i><a href="/wiki/99_(Epik_High_album)" title="99 (Epik High album)">99</a></i></li>
+<li><i><a href="/wiki/Shoebox_(album)" title="Shoebox (album)">Shoebox</a></i> ("<a href="/wiki/Born_Hater" title="Born Hater">Born Hater</a>")</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs or projects</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Lovescream" title="Lovescream">Lovescream</a></i></li>
+<li><i><a href="/wiki/Map_The_Soul" class="mw-redirect" title="Map The Soul">Map The Soul</a></i></li>
+<li><i><a href="/wiki/Epilogue_(Epik_High_album)" title="Epilogue (Epik High album)">Epilogue</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Black_Swan_Songs" title="Black Swan Songs">Black Swan Songs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks vcard navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Epik_High_discography" title="Epik High discography">Epik High discography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Projects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks vcard navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Tablo</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AnyBand" title="AnyBand">Anyband</a></li>
+<li>Eternal Morning</li>
+<li>Supreme T</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Various</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Blac Bakery</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="YG_Entertainment" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:YG_Entertainment" title="Template:YG Entertainment"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:YG_Entertainment" title="Template talk:YG Entertainment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:YG_Entertainment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="YG_Entertainment" style="font-size:114%;margin:0 4em"><a href="/wiki/YG_Entertainment" title="YG Entertainment">YG Entertainment</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Executives</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yang_Hyun-suk" title="Yang Hyun-suk">Yang Hyun-suk</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Solo</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Taebin" title="Taebin">Taebin</a></li>
+<li><a href="/wiki/Taeyang" title="Taeyang">Taeyang</a></li>
+<li><a href="/wiki/Daesung" title="Daesung">Daesung</a></li>
+<li><a href="/wiki/Seungri" title="Seungri">Seungri</a></li>
+<li><a href="/wiki/G-Dragon" title="G-Dragon">G-Dragon</a></li>
+<li><a href="/wiki/Sandara_Park" title="Sandara Park">Sandara Park</a></li>
+<li><a href="/wiki/CL_(singer)" title="CL (singer)">CL</a></li>
+<li><a href="/wiki/T.O.P_(rapper)" title="T.O.P (rapper)">T.O.P</a></li>
+<li><a href="/wiki/Lee_Hi" title="Lee Hi">Lee Hi</a></li>
+<li><a href="/wiki/Kang_Seung-yoon" title="Kang Seung-yoon">Kang Seung-yoon</a></li>
+<li><a href="/wiki/Bobby_(rapper)" title="Bobby (rapper)">Bobby</a></li>
+<li><a href="/wiki/Song_Min-ho" class="mw-redirect" title="Song Min-ho">Mino</a></li>
+<li><a href="/wiki/One_(rapper)" title="One (rapper)">One</a></li>
+<li><a href="/wiki/Jennie_Kim" title="Jennie Kim">Jennie</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Groups</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jinusean" title="Jinusean">Jinusean</a></li>
+<li><a href="/wiki/Big_Bang_(South_Korean_band)" title="Big Bang (South Korean band)">Big Bang</a></li>
+<li><a href="/wiki/Akdong_Musician" title="Akdong Musician">Akdong Musician</a></li>
+<li><a href="/wiki/Winner_(band)" title="Winner (band)">Winner</a></li>
+<li><a href="/wiki/IKon" title="IKon">iKon</a></li>
+<li><a href="/wiki/Sechs_Kies" title="Sechs Kies">Sechs Kies</a></li>
+<li><a href="/wiki/Blackpink" title="Blackpink">Blackpink</a></li>
+<li><a href="/wiki/Treasure_13" title="Treasure 13">Treasure 13</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Project groups</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GD_%26_TOP" title="GD &amp; TOP">GD &amp; TOP</a></li>
+<li><a href="/wiki/Hi_Suhyun" title="Hi Suhyun">Hi Suhyun</a></li>
+<li><a href="/wiki/GD_X_Taeyang" title="GD X Taeyang">GD X Taeyang</a></li>
+<li><a href="/wiki/MOBB" title="MOBB">MOBB</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sublabels</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jeon_So-mi" title="Jeon So-mi">Jeon So-mi</a></li>
+<li><a href="/wiki/Okasian" title="Okasian">Okasian</a></li>
+<li><a href="/wiki/Zion.T" title="Zion.T">Zion.T</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Actors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cha_Seung-won" title="Cha Seung-won">Cha Seung-won</a></li>
+<li><a href="/wiki/Choi_Ji-woo" title="Choi Ji-woo">Choi Ji-woo</a></li>
+<li><a href="/wiki/Im_Ye-jin" title="Im Ye-jin">Im Ye-jin</a></li>
+<li><a href="/wiki/Jang_Hyun-sung" title="Jang Hyun-sung">Jang Hyun-sung</a></li>
+<li><a href="/wiki/Jung_Hye-young" title="Jung Hye-young">Jung Hye-young</a></li>
+<li><a href="/wiki/Kal_So-won" title="Kal So-won">Kal So-won</a></li>
+<li><a href="/wiki/Kang_Dong-won" class="mw-redirect" title="Kang Dong-won">Kang Dong-won</a></li>
+<li><a href="/wiki/Kim_Hee-ae" title="Kim Hee-ae">Kim Hee-ae</a></li>
+<li><a href="/wiki/Kim_Hee-jung_(actress_born_1992)" class="mw-redirect" title="Kim Hee-jung (actress born 1992)">Kim Hee-jung</a></li>
+<li><a href="/wiki/Kim_Sae-ron" title="Kim Sae-ron">Kim Sae-ron</a></li>
+<li><a href="/wiki/Kyung_Soo-jin" title="Kyung Soo-jin">Kyung Soo-jin</a></li>
+<li><a href="/wiki/Lee_Soo-hyuk" title="Lee Soo-hyuk">Lee Soo-hyuk</a></li>
+<li><a href="/wiki/Lee_Sung-kyung" title="Lee Sung-kyung">Lee Sung-kyung</a></li>
+<li><a href="/wiki/Nam_Joo-hyuk" title="Nam Joo-hyuk">Nam Joo-hyuk</a></li>
+<li><a href="/wiki/Oh_Sang-jin" title="Oh Sang-jin">Oh Sang-jin</a></li>
+<li><a href="/wiki/Seo_Jeong-yeon" title="Seo Jeong-yeon">Seo Jeong-yeon</a></li>
+<li><a href="/wiki/Son_Ho-jun" title="Son Ho-jun">Son Ho-jun</a></li>
+<li><a href="/wiki/Wang_Ji-won" title="Wang Ji-won">Wang Ji-won</a></li>
+<li><a href="/wiki/Yoo_In-na" title="Yoo In-na">Yoo In-na</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Comedians</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yoo_Byung-jae" title="Yoo Byung-jae">Yoo Byung-jae</a></li>
+<li><a href="/wiki/Ahn_Young-mi" title="Ahn Young-mi">Ahn Young-mi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Producers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Teddy_Park" title="Teddy Park">Teddy Park</a>
+<ul><li><a href="/wiki/Teddy_Park_production_discography" title="Teddy Park production discography">production discography</a></li></ul></li>
+<li><a href="/wiki/Choice37" title="Choice37">Choice37</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Notable trainees</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bang_Ye-dam" title="Bang Ye-dam">Bang Ye-dam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former artists</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1TYM" title="1TYM">1TYM</a></li>
+<li><a href="/wiki/Wheesung" title="Wheesung">Wheesung</a></li>
+<li><a href="/wiki/Big_Mama_(band)" title="Big Mama (band)">Big Mama</a></li>
+<li><a href="/wiki/Lexy_(singer)" title="Lexy (singer)">Lexy</a></li>
+<li><a href="/wiki/Gummy_(singer)" title="Gummy (singer)">Gummy</a></li>
+<li><a href="/wiki/Seven_(Korean_singer)" title="Seven (Korean singer)">Se7en</a></li>
+<li><a href="/wiki/Masta_Wu" title="Masta Wu">Masta Wu</a></li>
+<li><a href="/wiki/Minzy" title="Minzy">Minzy</a></li>
+<li><a href="/wiki/Park_Bom" title="Park Bom">Park Bom</a></li>
+<li><a href="/wiki/2NE1" title="2NE1">2NE1</a></li>
+<li><a href="/wiki/Nam_Tae-hyun" title="Nam Tae-hyun">Nam Tae-hyun</a></li>
+<li><a href="/wiki/Stephanie_Lee" title="Stephanie Lee">Stephanie Lee</a></li>
+<li><a href="/wiki/Ku_Hye-sun" title="Ku Hye-sun">Ku Hye-sun</a></li>
+<li><a href="/wiki/Jung_Yoo-jin" title="Jung Yoo-jin">Jung Eugene</a></li>
+<li><a href="/wiki/Lee_Jong-suk" title="Lee Jong-suk">Lee Jong-suk</a></li>
+<li><a href="/wiki/Psy" title="Psy">Psy</a></li>
+<li><a href="/wiki/Epik_High" title="Epik High">Epik High</a></li>
+<li><a href="/wiki/Kang_Seung-hyun" title="Kang Seung-hyun">Hyoni Kang</a></li>
+<li><a href="/wiki/Code_Kunst" title="Code Kunst">Code Kunst</a></li>
+<li><a class="mw-selflink selflink">Tablo</a></li>
+<li><a href="/wiki/Go_Joon-hee" title="Go Joon-hee">Go Joon-hee</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concert tours</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Power_World_Tour" title="Power World Tour">Power World Tour</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/YG_Entertainment_discography" title="YG Entertainment discography">Discography</a></li>
+<li><a href="/wiki/YGKPlus" title="YGKPlus">YGKPlus</a></li>
+<li><a href="/wiki/Animax_(South_Korea)" title="Animax (South Korea)">Animax</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Show_Me_the_Money" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Show_Me_the_Money" title="Template:Show Me the Money"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Show_Me_the_Money" title="Template talk:Show Me the Money"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Show_Me_the_Money&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Show_Me_the_Money" style="font-size:114%;margin:0 4em"><a href="/wiki/Show_Me_the_Money_(Mnet_TV_series)" class="mw-redirect" title="Show Me the Money (Mnet TV series)">Show Me the Money</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Seasons</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Season 1</li>
+<li>Season 2</li>
+<li><a href="/wiki/Show_Me_the_Money_3" title="Show Me the Money 3">Season 3</a></li>
+<li><a href="/wiki/Show_Me_the_Money_4" title="Show Me the Money 4">Season 4</a></li>
+<li><a href="/wiki/Show_Me_the_Money_5" title="Show Me the Money 5">Season 5</a></li>
+<li><a href="/wiki/Show_Me_the_Money_6" title="Show Me the Money 6">Season 6</a></li>
+<li><a href="/wiki/Show_Me_the_Money_777" title="Show Me the Money 777">Season 7</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Winners</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a></li>
+<li>Soul Dive</li>
+<li><a href="/wiki/Bobby_(rapper)" title="Bobby (rapper)">Bobby</a></li>
+<li><a href="/wiki/Basick" title="Basick">Basick</a></li>
+<li><a href="/wiki/Bewhy" title="Bewhy">Bewhy</a></li>
+<li><a href="/wiki/Hangzoo" title="Hangzoo">Hangzoo</a></li>
+<li>Nafla</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Runners-up</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Iltong</li>
+<li><a href="/wiki/Zizo" title="Zizo">Zizo</a></li>
+<li><a href="/wiki/Iron_(rapper)" title="Iron (rapper)">Iron</a></li>
+<li><a href="/wiki/Mino_(rapper)" title="Mino (rapper)">Mino</a></li>
+<li><a href="/wiki/C_Jamm" title="C Jamm">C Jamm</a></li>
+<li><a href="/wiki/Nucksal" title="Nucksal">Nucksal</a></li>
+<li>Loopy</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Notable contestants</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cheetah_(rapper)" title="Cheetah (rapper)">Cheetah</a></li>
+<li><a href="/wiki/Outsider_(rapper)" title="Outsider (rapper)">Outsider</a></li>
+<li><a href="/wiki/Mad_Clown" title="Mad Clown">Mad Clown</a></li>
+<li><a href="/wiki/J%27Kyun" title="J&#39;Kyun">J'Kyun</a></li>
+<li><a href="/wiki/Lexy_(singer)" title="Lexy (singer)">Lexy</a></li>
+<li><a href="/wiki/Baechigi" title="Baechigi">Baechigi</a></li>
+<li><a href="/wiki/Swings_(rapper)" title="Swings (rapper)">Swings</a></li>
+<li><a href="/wiki/DinDin" title="DinDin">DinDin</a></li>
+<li><a href="/wiki/Kanto_(rapper)" title="Kanto (rapper)">Kanto</a></li>
+<li><a href="/wiki/Olltii" title="Olltii">Olltii</a></li>
+<li><a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a></li>
+<li><a href="/wiki/Yuk_Ji-dam" title="Yuk Ji-dam">Yuk Ji-dam</a></li>
+<li><a href="/wiki/Giriboy" title="Giriboy">Giriboy</a></li>
+<li><a href="/wiki/Bill_Stax" title="Bill Stax">Vasco</a></li>
+<li><a href="/wiki/Lil_Boi" title="Lil Boi">Lil Boi</a></li>
+<li><a href="/wiki/Sik-K" title="Sik-K">Sik-K</a></li>
+<li><a href="/wiki/One_(rapper)" title="One (rapper)">One</a></li>
+<li><a href="/wiki/Ja_Mezz" title="Ja Mezz">Ja Mezz</a></li>
+<li><a href="/wiki/Black_Nut" title="Black Nut">Black Nut</a></li>
+<li><a href="/wiki/Microdot_(rapper)" title="Microdot (rapper)">Microdot</a></li>
+<li><a href="/wiki/Hanhae" title="Hanhae">Hanhae</a></li>
+<li><a href="/wiki/Innovator_(rapper)" title="Innovator (rapper)">Innovator</a></li>
+<li><a href="/wiki/Reddy_(rapper)" title="Reddy (rapper)">Reddy</a></li>
+<li><a href="/wiki/G2_(rapper)" title="G2 (rapper)">G2</a></li>
+<li><a href="/wiki/Sanchez_(rapper)" title="Sanchez (rapper)">Sanchez</a></li>
+<li><a href="/wiki/Gun_(rapper)" title="Gun (rapper)">Gun</a></li>
+<li><a href="/wiki/Boi_B" title="Boi B">Boi B</a></li>
+<li><a href="/wiki/Flowsik" title="Flowsik">Flowsik</a></li>
+<li><a href="/wiki/Hash_Swan" title="Hash Swan">Hash Swan</a></li>
+<li><a href="/wiki/%E2%82%A9uNo" title="₩uNo">₩uNo</a></li>
+<li><a href="/wiki/Jo_Woo-chan" title="Jo Woo-chan">Jo Woo-chan</a></li>
+<li><a href="/wiki/Junoflo" title="Junoflo">Junoflo</a></li>
+<li><a href="/wiki/Woo_Won-jae" title="Woo Won-jae">Woo Won-jae</a></li>
+<li>Kid Milli</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Show_Me_the_Money_discography" title="Show Me the Money discography">Show Me the Money discography</a></li>
+<li><i><a href="/wiki/Unpretty_Rapstar" title="Unpretty Rapstar">Unpretty Rapstar</a></i></li>
+<li><i><a href="/wiki/High_School_Rapper_(TV_series)" title="High School Rapper (TV series)">High School Rapper</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q18800&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q18800&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q18800" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000068851267">0000 0000 6885 1267</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no2009135215">no2009135215</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/0fad358b-6147-46fc-be41-032500786ed1">0fad358b-6147-46fc-be41-032500786ed1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/96910626">96910626</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/96910626">96910626</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20190220084127
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.932 seconds
+Real time usage: 1.150 seconds
+Preprocessor visited node count: 4909/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 144888/2097152 bytes
+Template argument size: 8500/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 111682/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.489/10.000 seconds
+Lua memory usage: 17.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  952.266      1 -total
+ 58.66%  558.588      3 Template:Infobox
+ 41.26%  392.864      1 Template:Infobox_person
+ 30.38%  289.257      1 Template:Reflist
+ 21.96%  209.142      1 Template:Infobox_Korean_name
+ 21.64%  206.064     31 Template:Cite_web
+ 19.54%  186.060      1 Template:Infobox_Chinese/Korean
+ 17.32%  164.924      2 Template:Lang
+  8.47%   80.674      7 Template:Navbox
+  6.58%   62.673      3 Template:Navbox_musical_artist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17241270-0!canonical and timestamp 20190220084126 and revision id 884192891
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tablo&amp;oldid=884192891">https://en.wikipedia.org/w/index.php?title=Tablo&amp;oldid=884192891</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1980_births" title="Category:1980 births">1980 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Epik_High" title="Category:Epik High">Epik High</a></li><li><a href="/wiki/Category:Canadian_musicians_of_Korean_descent" title="Category:Canadian musicians of Korean descent">Canadian musicians of Korean descent</a></li><li><a href="/wiki/Category:Korean-language_singers_of_Canada" title="Category:Korean-language singers of Canada">Korean-language singers of Canada</a></li><li><a href="/wiki/Category:K-pop_singers" title="Category:K-pop singers">K-pop singers</a></li><li><a href="/wiki/Category:Male_actors_from_Seoul" title="Category:Male actors from Seoul">Male actors from Seoul</a></li><li><a href="/wiki/Category:Male_actors_from_Vancouver" title="Category:Male actors from Vancouver">Male actors from Vancouver</a></li><li><a href="/wiki/Category:Musicians_from_Vancouver" title="Category:Musicians from Vancouver">Musicians from Vancouver</a></li><li><a href="/wiki/Category:Naturalized_citizens_of_Canada" title="Category:Naturalized citizens of Canada">Naturalized citizens of Canada</a></li><li><a href="/wiki/Category:Rappers_from_Seoul" title="Category:Rappers from Seoul">Rappers from Seoul</a></li><li><a href="/wiki/Category:South_Korean_DJs" title="Category:South Korean DJs">South Korean DJs</a></li><li><a href="/wiki/Category:South_Korean_emigrants_to_Canada" title="Category:South Korean emigrants to Canada">South Korean emigrants to Canada</a></li><li><a href="/wiki/Category:South_Korean_hip_hop_record_producers" title="Category:South Korean hip hop record producers">South Korean hip hop record producers</a></li><li><a href="/wiki/Category:South_Korean_hip_hop_singers" title="Category:South Korean hip hop singers">South Korean hip hop singers</a></li><li><a href="/wiki/Category:South_Korean_male_film_actors" title="Category:South Korean male film actors">South Korean male film actors</a></li><li><a href="/wiki/Category:South_Korean_male_rappers" title="Category:South Korean male rappers">South Korean male rappers</a></li><li><a href="/wiki/Category:South_Korean_singer-songwriters" title="Category:South Korean singer-songwriters">South Korean singer-songwriters</a></li><li><a href="/wiki/Category:South_Korean_male_television_actors" title="Category:South Korean male television actors">South Korean male television actors</a></li><li><a href="/wiki/Category:South_Korean_electronic_musicians" title="Category:South Korean electronic musicians">South Korean electronic musicians</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:Writers_from_Vancouver" title="Category:Writers from Vancouver">Writers from Vancouver</a></li><li><a href="/wiki/Category:YG_Entertainment_artists" title="Category:YG Entertainment artists">YG Entertainment artists</a></li><li><a href="/wiki/Category:Electronic_dance_music_DJs" title="Category:Electronic dance music DJs">Electronic dance music DJs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Korean-language_sources_(ko)" title="Category:CS1 Korean-language sources (ko)">CS1 Korean-language sources (ko)</a></li><li><a href="/wiki/Category:CS1_Indonesian-language_sources_(id)" title="Category:CS1 Indonesian-language sources (id)">CS1 Indonesian-language sources (id)</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_containing_Korean-language_text" title="Category:Articles containing Korean-language text">Articles containing Korean-language text</a></li><li><a href="/wiki/Category:Incomplete_lists_from_January_2015" title="Category:Incomplete lists from January 2015">Incomplete lists from January 2015</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_Korean-language_external_links" title="Category:Articles with Korean-language external links">Articles with Korean-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tablo" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tablo" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tablo" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Tablo" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Tablo">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Tablo&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tablo&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tablo" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tablo" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tablo&amp;oldid=884192891" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tablo&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18800" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tablo&amp;id=884192891" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tablo">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tablo&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tablo&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tablo" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%A8%D9%84%D9%88" title="تابلو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tablo" title="Tablo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tablo" title="Tablo – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%83%80%EB%B8%94%EB%A1%9C" title="타블로 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tablo" title="Tablo – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tablo" title="Tablo – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tablo" title="Tablo – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tablo" title="Tablo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Tablo" title="Tablo – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%96%84%E9%9B%84" title="李善雄 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18800#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 February 2019, at 03:03<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tablo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.932","walltime":"1.150","ppvisitednodes":{"value":4909,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":144888,"limit":2097152},"templateargumentsize":{"value":8500,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":111682,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  952.266      1 -total"," 58.66%  558.588      3 Template:Infobox"," 41.26%  392.864      1 Template:Infobox_person"," 30.38%  289.257      1 Template:Reflist"," 21.96%  209.142      1 Template:Infobox_Korean_name"," 21.64%  206.064     31 Template:Cite_web"," 19.54%  186.060      1 Template:Infobox_Chinese/Korean"," 17.32%  164.924      2 Template:Lang","  8.47%   80.674      7 Template:Navbox","  6.58%   62.673      3 Template:Navbox_musical_artist"]},"scribunto":{"limitreport-timeusage":{"value":"0.489","limit":"10.000"},"limitreport-memusage":{"value":18313237,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190220084127","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tablo","url":"https:\/\/en.wikipedia.org\/wiki\/Tablo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18800","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18800","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-05-03T08:02:16Z","dateModified":"2019-02-20T03:03:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/15\/140904_%ED%83%80%EB%B8%94%EB%A1%9C_02.jpg","headline":"Korean-Canadian rapper, record producer, and author"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1314,"wgHostname":"mw1323"});});</script>
+	</body>
+</html>

@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Skeme - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skeme","wgTitle":"Skeme","wgCurRevisionId":884062368,"wgRevisionId":884062368,"wgArticleId":41806759,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Wikipedia articles in need of updating from February 2019","All Wikipedia articles in need of updating","Articles with hCards","Wikipedia articles with MusicBrainz identifiers","Living people","1990 births","African-American male rappers","West Coast hip hop musicians","People from Inglewood, California","Rappers from California","Bloods","21st-century American rappers","21st-century male musicians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Skeme","wgRelevantArticleId":41806759,"wgRequestId":"XGyH1wpAMFsAAE7QXTkAAACU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q16233571","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.17"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/10/SkemeLArapper_%28cropped%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Skeme"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Skeme&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Skeme&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Skeme"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Skeme rootpage-Skeme skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Skeme</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Update plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" decoding="async" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small class="date-container"><i>(<span class="date">February 2019</span>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard plainlist" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #f0e68c"><div style="display:inline;" class="fn">Skeme</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:SkemeLArapper_(cropped).jpg" class="image"><img alt="SkemeLArapper (cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/SkemeLArapper_%28cropped%29.jpg/220px-SkemeLArapper_%28cropped%29.jpg" decoding="async" width="220" height="294" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/SkemeLArapper_%28cropped%29.jpg/330px-SkemeLArapper_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/SkemeLArapper_%28cropped%29.jpg/440px-SkemeLArapper_%28cropped%29.jpg 2x" data-file-width="747" data-file-height="997" /></a><div>Skeme performing in November 2010.</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #f0e68c">Background information</th></tr><tr><th scope="row"><span class="nowrap">Birth name</span></th><td class="nickname">Lonnie Kimble<sup id="cite_ref-allhiphop1_1-0" class="reference"><a href="#cite_note-allhiphop1-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row"><span class="nowrap">Also known as</span></th><td class="nickname">Skeme</td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1990-01-03</span>) </span>January 3, 1990<span class="noprint ForceAgeToShow"> (age&#160;29)</span><br /><a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood, California</a>, U.S.</td></tr><tr><th scope="row">Genres</th><td><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row"><span class="nowrap">Occupation(s)</span></th><td class="role"><a href="/wiki/Rapping" title="Rapping">Rapper</a></td></tr><tr><th scope="row"><span class="nowrap">Years active</span></th><td>2007–present</td></tr><tr><th scope="row">Labels</th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Blood_Money_Entertainment" class="mw-redirect" title="Blood Money Entertainment">Blood Money</a></li><li><a href="/wiki/RBC_Records" title="RBC Records">RBC</a></li><li>Generation Now</li><li>MADE Headlines</li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Associated acts</span></th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Dolla_(rapper)" title="Dolla (rapper)">Dolla</a></li><li><a href="/wiki/Dom_Kennedy" title="Dom Kennedy">Dom Kennedy</a></li><li><a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a></li><li><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a></li><li><a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a></li></ul></div></td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://skemetheduke.com/">skemetheduke<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Lonnie Kimble</b> (born January 3, 1990), better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>Skeme</b>, is an American <a href="/wiki/Rapping" title="Rapping">rapper</a> born and raised in <a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood, California</a>. Skeme has collaborated with various <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast</a> rappers such as the <a href="/wiki/Black_Hippy" title="Black Hippy">Black Hippy</a> members, <a href="/wiki/Bizzy_Bone" title="Bizzy Bone">Bizzy Bone</a>, <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a>, <a href="/wiki/Dom_Kennedy" title="Dom Kennedy">Dom Kennedy</a>, <a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a>, <a href="/wiki/E-40" title="E-40">E-40</a>, <a href="/wiki/Casey_Veggies" title="Casey Veggies">Casey Veggies</a> and <a href="/wiki/Problem_(rapper)" title="Problem (rapper)">Problem</a> among others. On October 16, 2012, Skeme released his debut studio album <i>Alive &amp; Living</i> under <a href="/wiki/RBC_Records" title="RBC Records">RBC Records</a>. His second studio album <i>Ingleworld</i> was released on December 17, 2013 by MADE Headlines. In July 2014, The Game announced that he had signed Skeme to <a href="/wiki/Blood_Money_Entertainment" class="mw-redirect" title="Blood Money Entertainment">Blood Money Entertainment</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#2007–2010:_Early_mixtapes_and_Pistols_and_Palm_Trees"><span class="tocnumber">2.1</span> <span class="toctext">2007–2010: Early mixtapes and <i>Pistols and Palm Trees</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#2011–2013:_The_Statement_and_Alive_&amp;_Living"><span class="tocnumber">2.2</span> <span class="toctext">2011–2013: <i>The Statement</i> and <i>Alive &amp; Living</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#2013-2015:_Ingleworld_and_first_two_sequels"><span class="tocnumber">2.3</span> <span class="toctext">2013-2015: <i>Ingleworld</i> and first two sequels</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#2015-present_Ingleworld4Eva"><span class="tocnumber">2.4</span> <span class="toctext">2015-present <i>Ingleworld4Eva</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Musical_style"><span class="tocnumber">4</span> <span class="toctext">Musical style</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Discography"><span class="tocnumber">5</span> <span class="toctext">Discography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Studio_albums"><span class="tocnumber">5.1</span> <span class="toctext">Studio albums</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Mixtapes"><span class="tocnumber">5.2</span> <span class="toctext">Mixtapes</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Singles"><span class="tocnumber">5.3</span> <span class="toctext">Singles</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#As_lead_artist"><span class="tocnumber">5.3.1</span> <span class="toctext">As lead artist</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#As_featured_artist"><span class="tocnumber">5.3.2</span> <span class="toctext">As featured artist</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lonnie Kimble was born on January 3, 1990.<sup id="cite_ref-laweekly1_2-0" class="reference"><a href="#cite_note-laweekly1-2">&#91;2&#93;</a></sup> His parent split when he was two years old and his father was in the military.<sup id="cite_ref-autogenerated1_3-0" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup> As a result, he moved in with his grandmother in <a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood, California</a>.<sup id="cite_ref-hiphopdx1_4-0" class="reference"><a href="#cite_note-hiphopdx1-4">&#91;4&#93;</a></sup> Once his father came into picture at age 10, he started listening to hip hop and memorizing his favorite songs. His dad originally gave him the idea to come up with his own material and start rapping.<sup id="cite_ref-hiphopdx1_4-1" class="reference"><a href="#cite_note-hiphopdx1-4">&#91;4&#93;</a></sup>
+</p><p>Skeme acquired his stage name at 13, when a friend noticed his craftiness at generating money. He said most of these money making strategies, were of the illegal nature, but they allowed him to purchase a <a href="/wiki/BMW_5-Series" class="mw-redirect" title="BMW 5-Series">BMW 525I</a> while he was in the twelfth grade at <a href="/wiki/Gardena,_California" title="Gardena, California">Gardena</a>'s <a href="/wiki/Jun%C3%ADpero_Serra_High_School_(Gardena,_California)" title="Junípero Serra High School (Gardena, California)">Junipero Serra High School</a>.<sup id="cite_ref-laweekly1_2-1" class="reference"><a href="#cite_note-laweekly1-2">&#91;2&#93;</a></sup> He grew up affiliated with the <a href="/wiki/Bloods" title="Bloods">Piru Blood</a> gang and was a <a href="/wiki/Gang" title="Gang">gangbanger</a> throughout his high school years.<sup id="cite_ref-autogenerated1_3-1" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2007.E2.80.932010:_Early_mixtapes_and_Pistols_and_Palm_Trees"></span><span class="mw-headline" id="2007–2010:_Early_mixtapes_and_Pistols_and_Palm_Trees">2007–2010: Early mixtapes and <i>Pistols and Palm Trees</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=3" title="Edit section: 2007–2010: Early mixtapes and Pistols and Palm Trees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Skeme first began rapping around age 12 and began writing around age 15. He recorded his first song at a studio in <a href="/wiki/Long_Beach,_California" title="Long Beach, California">Long Beach, California</a>, at age 16.<sup id="cite_ref-autogenerated1_3-2" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup> When he first began taking rapping seriously at age 17,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> he was graduating high school. He shortly after met <a href="/wiki/Dolla_(rapper)" title="Dolla (rapper)">Dolla</a>, whom he began hanging out and frequently working with. He credits Dolla for significantly influencing him.<sup id="cite_ref-hiphopdx1_4-2" class="reference"><a href="#cite_note-hiphopdx1-4">&#91;4&#93;</a></sup> He has said, "Dolla kind of molded me when I was young. He shaped me into being somebody and trying to tell me what could happen if you took this shit seriously."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In 2007 he released <i>Skeme Of Things</i>, which was then followed by <i>Skeme Of Things 2</i> in June 2009.<sup id="cite_ref-xxlmag1_8-0" class="reference"><a href="#cite_note-xxlmag1-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> On February 17, 2010, Skeme released his third official mixtape, <i>All Rap'd Up</i>, hosted by DJ Ill Will.<sup id="cite_ref-xxlmag1_8-1" class="reference"><a href="#cite_note-xxlmag1-8">&#91;8&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> During those early years, he forged friendships with <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>-area rappers such as <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, <a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a> and <a href="/wiki/Dom_Kennedy" title="Dom Kennedy">Dom Kennedy</a>. On October 19, 2010, Skeme released his fourth official mixtape <i>Pistols and Palm Trees</i>. He recorded the entire mixtape at <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a>'s studio in <a href="/wiki/Carson,_California" title="Carson, California">Carson, California</a>.<sup id="cite_ref-hiphopdx1_4-3" class="reference"><a href="#cite_note-hiphopdx1-4">&#91;4&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> It featured collaborations with <a href="/wiki/Tyga" title="Tyga">Tyga</a>, <a href="/wiki/Ty_Dolla_Sign" title="Ty Dolla Sign">Ty Dolla Sign</a>, Dom Kennedy and Kendrick Lamar.<sup id="cite_ref-allhiphop1_1-1" class="reference"><a href="#cite_note-allhiphop1-1">&#91;1&#93;</a></sup> On the strength of that mixtape, Skeme begun building his buzz.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span id="2011.E2.80.932013:_The_Statement_and_Alive_.26_Living"></span><span class="mw-headline" id="2011–2013:_The_Statement_and_Alive_&amp;_Living">2011–2013: <i>The Statement</i> and <i>Alive &amp; Living</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=4" title="Edit section: 2011–2013: The Statement and Alive &amp; Living">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On May 19, 2011, Skeme released his fifth mixtape <i>The Statement</i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> It featured collaborations with <a href="/wiki/Casey_Veggies" title="Casey Veggies">Casey Veggies</a> and Dom Kennedy, with <a href="/wiki/Record_production" class="mw-redirect" title="Record production">production</a> by <a href="/wiki/Boi-1da" title="Boi-1da">Boi-1da</a>, <a href="/wiki/Bink!" class="mw-redirect" title="Bink!">Bink!</a> and <a href="/wiki/The_Futuristiks" title="The Futuristiks">The Futuristiks</a>, among others.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-datpiff1_15-0" class="reference"><a href="#cite_note-datpiff1-15">&#91;15&#93;</a></sup> Later that year, on November 29, Skeme released his sixth mixtape <i>Before My Next Statement</i>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> With basketball player <a href="/wiki/Baron_Davis" title="Baron Davis">Baron Davis</a>, Skeme started a Los Angeles-based entertainment management company named L.A. UNFD. Then he signed a one-album deal with <a href="/wiki/RBC_Records" title="RBC Records">RBC Records</a> to release his debut studio album.<sup id="cite_ref-autogenerated1_3-3" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup> On October 10, 2012, Skeme revealed that track listing for his debut album, titled <i>Alive &amp; Living</i>. The album contained guest appearances by Iggy Azalea, <a href="/wiki/Schoolboy_Q" title="Schoolboy Q">Schoolboy Q</a>, Kendrick Lamar, Dom Kennedy and <a href="/wiki/Problem_(rapper)" title="Problem (rapper)">Problem</a>. The album's production was handled by Boi-1da, The Futuristiks, <a href="/wiki/DJ_Mustard" class="mw-redirect" title="DJ Mustard">DJ Mustard</a>, THC, and <a href="/wiki/DJ_Dahi" title="DJ Dahi">DJ Dahi</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The album was then released digitally on October 16, 2012. It was supported by the singles "Ain't Bout Dat Life" and "Kidz With Gunz", the latter which featured Schoolboy Q.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>In April 2013, Skeme told Bruce Smith of <a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a> that he was in heavy talks with Top Dawg Entertainment about signing to their record label.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> He commented on it saying, ""It's yet to be seen where exactly I’m gonna go. I'm just trying to make the right move. The next move has to be the best one. [...] With that being said, I am very close to TDE, them is the homies, and we are in heavy talks. It could be something."<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> He later stated that he chose not to sign to TDE so he did not get lost in the mix, wanting instead to remain independent and build his brand more.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-autogenerated2_22-0" class="reference"><a href="#cite_note-autogenerated2-22">&#91;22&#93;</a></sup> Skeme also revealed that he had been in talks with <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a>, <a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal</a> and <a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a> about record deals during 2013. However, he stated that he was in no rush to sign to a <a href="/wiki/Major_record_label" class="mw-redirect" title="Major record label">major record label</a>.<sup id="cite_ref-laweekly1_2-2" class="reference"><a href="#cite_note-laweekly1-2">&#91;2&#93;</a></sup> He was featured on an October 2013 commercial for <a href="/wiki/Colt_45_(malt_liquor)" title="Colt 45 (malt liquor)">Colt 45</a> along with <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/YG_(rapper)" title="YG (rapper)">YG</a>, <a href="/wiki/Snow_Tha_Product" title="Snow Tha Product">Snow Tha Product</a>, and <a href="/wiki/Lil_Debbie" title="Lil Debbie">Lil Debbie</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2013-2015:_Ingleworld_and_first_two_sequels">2013-2015: <i>Ingleworld</i> and first two sequels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=5" title="Edit section: 2013-2015: Ingleworld and first two sequels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On September 27, 2013, Skeme released his seventh mixtape <i>Bare With Me</i>. It featured guest appearances by <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a>, Nipsey Hussle, Problem and <a href="/wiki/TeeFlii" title="TeeFlii">TeeFlii</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> It was met with a positive review by HipHopDX.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> <i>Bare With Me</i> consisted of left over songs from <i>Ingleworld</i>, that either did not fit the theme of the album, or had sample clearance issues.<sup id="cite_ref-hiphopdx1_4-4" class="reference"><a href="#cite_note-hiphopdx1-4">&#91;4&#93;</a></sup> Following its release, Skeme appeared on <a href="/wiki/E-40" title="E-40">E-40</a>'s "Turn Up or Burn Up" from <i><a href="/wiki/The_Block_Brochure:_Welcome_to_the_Soil_6" title="The Block Brochure: Welcome to the Soil 6">The Block Brochure: Welcome to the Soil 6</a></i> and on The Game's "Welcome to California" from <i><a href="/wiki/OKE_(mixtape)" class="mw-redirect" title="OKE (mixtape)">OKE</a></i>.<sup id="cite_ref-hiphopdx1_4-5" class="reference"><a href="#cite_note-hiphopdx1-4">&#91;4&#93;</a></sup> Skeme toured in promotion of his second studio album, in the United States, along with internationally in countries such as the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and <a href="/wiki/Sweden" title="Sweden">Sweden</a>.<sup id="cite_ref-laweekly1_2-3" class="reference"><a href="#cite_note-laweekly1-2">&#91;2&#93;</a></sup>
+</p><p>On November 15, 2013, Skeme released the music video for "Millions" from <i>Ingleworld</i>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> On November 26, 2013, Skeme revealed the cover artwork and the track listing for his second studio album <i>Ingleworld</i>. The track listing revealed that it would contain 15 songs, including guest appearances from <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a>, Nipsey Hussle, Iggy Azalea and Dom Kennedy, with production handled by <a href="/wiki/Boi-1da" title="Boi-1da">Boi-1da</a>, Wizzo and Sean Momberger, among others. He explained that the album had a serious tone, which is why he choose to release it at the end of the calendar year.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> The album's <a href="/wiki/Lead_single" title="Lead single">lead single</a> "Different" was released on December 4, 2013.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p><i>Ingleworld</i> was released digitally by MADE Headlines on December 17, 2013.<sup id="cite_ref-autogenerated2_22-1" class="reference"><a href="#cite_note-autogenerated2-22">&#91;22&#93;</a></sup> The album was met with generally positive reviews. Bruce Smith of HipHopDX said, "On <i>Ingleworld</i>, Skeme combines an array of styles and cadences and an unheralded but highly skilled production team to craft an album with charm and depth."<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Olivia Arezes of <i><a href="/wiki/Exclaim!" title="Exclaim!">Exclaim!</a></i> gave it a six out of ten saying, "<i>Ingleworld</i> is a valiant effort from Skeme but mediocre overall. Still, with some growth and improvement, Skeme could easily become a leader of the new West Coast sound."<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Following the release of the album, <a href="/wiki/MTV" title="MTV">MTV</a> called him one of "hip-hop's top prospects for 2014."<sup id="cite_ref-autogenerated2_22-2" class="reference"><a href="#cite_note-autogenerated2-22">&#91;22&#93;</a></sup>
+</p><p>Starting January 23, 2014, Skeme begun touring with Dom Kennedy on the Get Home Safely tour, in promotion of Kennedy's album <i><a href="/wiki/Get_Home_Safely" title="Get Home Safely">Get Home Safely</a></i> that Skeme also made an appearance on. The tour ran through February 27, 2014.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> Skeme was nominated for the 2014 <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> freshman class, however he was not selected.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p><p>On July 14, 2014, The Game announced that Skeme had been signed to his <a href="/wiki/Blood_Money_Entertainment" class="mw-redirect" title="Blood Money Entertainment">Blood Money Entertainment</a> Label. He released a collaboration with The Game titled "No Limit" after the announcement. He was featured heavily on the Blood Money Entertainment collaborative project released by The Game entitled <i><a href="/wiki/Blood_Moon:_Year_of_the_Wolf" title="Blood Moon: Year of the Wolf">Blood Moon: Year of the Wolf</a></i>.
+</p><p>In 2015, Skeme worked heavily with DJ Drama and Don Cannon as an artist in their generation.now label/company. He is still currently a part of this organization which consists of himself, DJ Drama, Don Cannon and <a href="/wiki/Lil_Uzi_Vert" title="Lil Uzi Vert">Lil Uzi Vert</a>. His first single of 2015 was "Red Carpet (Roll Out)". On June 9, 2015, Skeme released the mixtape <i>Ingleworld 2 (hosted by DJ Drama)</i>, which featured artists such as The Game, T.I., RJ, Young Thug, BJ The Chicago Kid and Lil Uzi Vert. Ingleworld 2 was later released as an album as a no DJ version. Later he announced a third album in his "Ingleworld" series, which was to be released on November 13, 2015.
+</p>
+<h3><span class="mw-headline" id="2015-present_Ingleworld4Eva">2015-present <i>Ingleworld4Eva</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=6" title="Edit section: 2015-present Ingleworld4Eva">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Skeme featured on The Game's second disc of <i><a href="/wiki/The_Documentary_2" title="The Documentary 2">The Documentary 2</a></i> on the song "My Flag/Da Homies", which was also released as a single prior to the album's release. A video for this song was released on December 17, 2015. Skeme also featured on a track released by rapper Wale, "Know Me". Recently, Skeme announced another and possibly final addition to his Ingleworld album series, to be entitled <i>Ingleworld4eva</i>. In preparation for this album, he has released a mixtape entitled "Before 4Eva" through datpiff.com and other music sites that stream free music.
+</p><p>On May 6, 2016, DJ Drama released a single off his "Quality Street Music 2" album, title "Wishing" featuring Chris Brown, Skeme and LyQuin. A music video has been shot for the single and features DJ Drama, Chris Brown, Skeme and LyQuin, with <a href="/wiki/Cameo_appearances" class="mw-redirect" title="Cameo appearances">cameo appearances</a> by <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> and <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a>.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=7" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Skeme's great-uncle is the late <a href="/wiki/Blues_music" class="mw-redirect" title="Blues music">blues</a> legend <a href="/wiki/Howlin%27_Wolf" title="Howlin&#39; Wolf">Howlin' Wolf</a>.<sup id="cite_ref-laweekly1_2-4" class="reference"><a href="#cite_note-laweekly1-2">&#91;2&#93;</a></sup>  Skeme's first son Khalil Amari Kimble was born during September 2013.<sup id="cite_ref-autogenerated1_3-4" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=8" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Brooklyne Gipson of <i><a href="/wiki/Complex_(magazine)" title="Complex (magazine)">Complex</a></i> said that Skeme is a "testament to diversity in L.A.'s sound. With his raspy voice, marked by a slight southern drawl hidden under a distinctly West Coast dialect." She then stated that his raps have the "passion of <a href="/wiki/2Pac" class="mw-redirect" title="2Pac">2Pac</a> and the wit of <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a>" also complimenting his production choices.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=9" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=10" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of albums, with selected chart positions
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:10em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:23em;">Album details
+</th>
+<th scope="col" colspan="3">Peak chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:2.2em;font-size:90%;"><a href="/wiki/Billboard_200" title="Billboard 200">US</a>
+</th>
+<th scope="col" style="width:2.2em;font-size:90%;"><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">US R&amp;B</a>
+</th>
+<th scope="col" style="width:2.2em;font-size:90%;"><a href="/wiki/Top_Rap_Albums" class="mw-redirect" title="Top Rap Albums">US Rap</a>
+</th></tr>
+<tr>
+<th scope="row"><i>Alive &amp; Living</i>
+</th>
+<td>
+<ul><li>Release date: October 16, 2012</li>
+<li>Label: <a href="/wiki/RBC_Records" title="RBC Records">RBC Records</a></li>
+<li>Format: <a href="/wiki/Music_download" title="Music download">Digital download</a></li></ul>
+</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;
+</td></tr>
+<tr>
+<th scope="row"><i>Ingleworld</i>
+</th>
+<td>
+<ul><li>Release date: December 17, 2013</li>
+<li>Label: MADE Headlines</li>
+<li>Format: <a href="/wiki/Compact_disc" title="Compact disc">CD</a>, <a href="/wiki/Music_download" title="Music download">digital download</a></li></ul>
+</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;
+</td></tr>
+<tr>
+<th scope="row"><i>Ingleworld 2</i>
+</th>
+<td>
+<ul><li>Release date: June 9, 2015</li>
+<li>Label: Blood Money, MADE Headlines, generation.now</li>
+<li>Format: <a href="/wiki/Compact_disc" title="Compact disc">CD</a>, <a href="/wiki/Music_download" title="Music download">digital download</a></li></ul>
+</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;
+</td></tr>
+<tr>
+<th scope="row"><i>Ingleworld 3</i>
+</th>
+<td>
+<ul><li>Release date: November 13, 2015</li>
+<li>Label: Blood Money, MADE Headlines, generation.now, Empire</li>
+<li>Format: <a href="/wiki/Compact_disc" title="Compact disc">CD</a>, <a href="/wiki/Music_download" title="Music download">digital download</a></li></ul>
+</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td colspan="14" style="font-size:90%">"—" denotes a title that did not chart, or was not released in that territory.
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=11" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>2007: <i>Skeme of Things</i></li>
+<li>2009: <i>Skeme of Things 2</i></li>
+<li>2010: <i>All Rap'd Up</i></li>
+<li>2010: <i>Pistols and Palm Trees</i></li>
+<li>2011: <i>The Statement</i><sup id="cite_ref-datpiff1_15-1" class="reference"><a href="#cite_note-datpiff1-15">&#91;15&#93;</a></sup></li>
+<li>2011: <i>Before My Next Statement</i></li>
+<li>2013: <i>Bare with Me</i><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup></li>
+<li>2016: <i>Before 4Eva</i></li>
+<li>2016: <i>Paranoia</i></li>
+<li>2017: <i>First Notice</i></li>
+<li>2017: <i>Second Notice</i></li>
+<li>2018: <i>One Night Only Vol.2</i></li></ul>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=12" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="As_lead_artist">As lead artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=13" title="Edit section: As lead artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles, with selected chart positions and certifications, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:18em;">Title
+</th>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" colspan="3">Peak chart positions
+</th>
+<th scope="col" rowspan="2">Album
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a><br />
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US R&amp;B</a><br />
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">US Rap</a><br />
+</th></tr>
+<tr>
+<th scope="row">"Ain't Bout Dat Life "<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup><br /><span style="font-size:85%;">(featuring Jay 305)</span>
+</th>
+<td rowspan="2">2012
+</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td>
+<td rowspan="2"><i>Alive &amp; Living</i>
+</td></tr>
+<tr>
+<th scope="row">"Kidz With Gunz"<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Schoolboy_Q" title="Schoolboy Q">Schoolboy Q</a>)</span>
+</th>
+<td>—</td>
+<td>—</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row">"Different"<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</th>
+<td>2013
+</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td>
+<td><i>Ingleworld</i>
+</td></tr>
+<tr>
+<th scope="row">"Look What I Did"<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup><br /><span style="font-size:85%;">(Skeme featuring <a href="/wiki/T.I." title="T.I.">T.I.</a>)</span>
+</th>
+<td>2014
+</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td>
+<td><i>Play Dirty, Stay Dirty</i>
+</td></tr>
+<tr>
+<th scope="row">"Anyways"
+</th>
+<td rowspan="2">2015
+</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td>
+<td rowspan="2"><i>Ingleworld 3</i>
+</td></tr>
+<tr>
+<th scope="row">"36 Oz"<br /><span style="font-size:85%;">(featuring Chris Brown)</span>
+</th>
+<td>—</td>
+<td>—</td>
+<td>—
+</td></tr>
+<tr>
+<td colspan="13" style="font-size:90%">"—" denotes a recording that did not chart or was not released in that territory.
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="As_featured_artist">As featured artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=14" title="Edit section: As featured artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles as featured performer, with selected chart positions showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:18em;">Title
+</th>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" colspan="3">Peak chart positions
+</th>
+<th scope="col" rowspan="2">Album
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a><br />
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US R&amp;B</a><br /><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">US Rap</a><br />
+</th></tr>
+<tr>
+<th scope="row">"T.O."<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup><br /><span style="font-size:85%;">(<a href="/wiki/Problem_(rapper)" title="Problem (rapper)">Problem</a> featuring Skeme)</span>
+</th>
+<td>2012
+</td>
+<td>—</td>
+<td>118</td>
+<td>—
+</td>
+<td><i>Welcome to Mollywood</i>
+</td></tr>
+<tr>
+<th scope="row">"Show Summ"<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup><br /><span style="font-size:85%;">(League of Starz featuring Problem, Skeme, <a href="/wiki/Freddie_Gibbs" title="Freddie Gibbs">Freddie Gibbs</a>, <a href="/wiki/Jay_Rock" title="Jay Rock">Jay Rock</a>, <a href="/wiki/Glasses_Malone" title="Glasses Malone">Glasses Malone</a> and <a href="/wiki/Bad_Lucc" class="mw-redirect" title="Bad Lucc">Bad Lucc</a>)</span>
+</th>
+<td>2013
+</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; font-size: smaller; text-align: center;" class="table-na">N/A
+</td></tr>
+<tr>
+<th scope="row">"<a href="/wiki/Wishing_(DJ_Drama_song)" title="Wishing (DJ Drama song)">Wishing</a>"<br /><span style="font-size:85%;">(<a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a> featuring <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a>, Skeme and LyQuin)</span>
+</th>
+<td>2016
+</td>
+<td>77</td>
+<td>29</td>
+<td>—
+</td>
+<td><i><a href="/wiki/Quality_Street_Music_2" title="Quality Street Music 2">Quality Street Music 2</a></i>
+</td></tr>
+<tr>
+<td colspan="6" style="font-size:90%">"—" denotes a recording that did not chart or was not released in that territory.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-allhiphop1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-allhiphop1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allhiphop1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Greg Watkins (2010-12-22). <a rel="nofollow" class="external text" href="http://allhiphop.com/2010/12/22/into-the-skeme-of-things/">"Into The Skeme Of Things"</a>. AllHipHop.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Into+The+Skeme+Of+Things&amp;rft.pub=AllHipHop.com&amp;rft.date=2010-12-22&amp;rft.au=Greg+Watkins&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2010%2F12%2F22%2Finto-the-skeme-of-things%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-laweekly1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-laweekly1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-laweekly1_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-laweekly1_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-laweekly1_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-laweekly1_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Weiss, Jeff (2013-10-03). <a rel="nofollow" class="external text" href="http://www.laweekly.com/westcoastsound/2013/10/30/inglewood-rapper-skeme-attempts-to-bring-his-city-to-the-world">"Inglewood Rapper Skeme Attempts to Bring His City to the World &#124; West Coast Sound &#124; Los Angeles &#124; Los Angeles News and Events"</a>. LA Weekly<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Inglewood+Rapper+Skeme+Attempts+to+Bring+His+City+to+the+World+%26%23124%3B+West+Coast+Sound+%26%23124%3B+Los+Angeles+%26%23124%3B+Los+Angeles+News+and+Events&amp;rft.pub=LA+Weekly&amp;rft.date=2013-10-03&amp;rft.aulast=Weiss&amp;rft.aufirst=Jeff&amp;rft_id=http%3A%2F%2Fwww.laweekly.com%2Fwestcoastsound%2F2013%2F10%2F30%2Finglewood-rapper-skeme-attempts-to-bring-his-city-to-the-world&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-autogenerated1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-autogenerated1_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-autogenerated1_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-autogenerated1_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://noisey.vice.com/blog/skeme-welcome-to-ingleworld-1">"Skeme: Welcome to Ingleworld &#124; NOISEY"</a>. Noisey.vice.com. 2013-12-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme%3A+Welcome+to+Ingleworld+%26%23124%3B+NOISEY&amp;rft.pub=Noisey.vice.com&amp;rft.date=2013-12-17&amp;rft_id=http%3A%2F%2Fnoisey.vice.com%2Fblog%2Fskeme-welcome-to-ingleworld-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-hiphopdx1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-hiphopdx1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hiphopdx1_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hiphopdx1_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hiphopdx1_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hiphopdx1_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-hiphopdx1_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Smith, Bruce (2013-11-05). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/interviews/id.2214/title.skeme-reflects-on-west-coast-unity-being-influenced-by-dolla">"Skeme Reflects On West Coast Unity &amp; Being Influenced By Dolla &#124; Rappers Talk Hip Hop Beef &amp; Old School Hip Hop"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+Reflects+On+West+Coast+Unity+%26+Being+Influenced+By+Dolla+%26%23124%3B+Rappers+Talk+Hip+Hop+Beef+%26+Old+School+Hip+Hop&amp;rft.pub=HipHop+DX&amp;rft.date=2013-11-05&amp;rft.aulast=Smith&amp;rft.aufirst=Bruce&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Finterviews%2Fid.2214%2Ftitle.skeme-reflects-on-west-coast-unity-being-influenced-by-dolla&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Jake Crates (@JakeCrates) (2012-11-01). <a rel="nofollow" class="external text" href="http://allhiphop.com/2012/11/01/exclusive-skeme-on-the-prevalence-of-bloods-and-crips-in-l-a-and-the-industry/">"EXCLUSIVE: Skeme on the Prevalence of Bloods and Crips in L.A. and the Industry"</a>. AllHipHop.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EXCLUSIVE%3A+Skeme+on+the+Prevalence+of+Bloods+and+Crips+in+L.A.+and+the+Industry&amp;rft.pub=AllHipHop.com&amp;rft.date=2012-11-01&amp;rft.au=Jake+Crates+%28%40JakeCrates%29&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2012%2F11%2F01%2Fexclusive-skeme-on-the-prevalence-of-bloods-and-crips-in-l-a-and-the-industry%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/the-break/2011/06/the-break-presents-skeme/">"The Break Presents: Skeme - XXL"</a>. Xxlmag.com. 2011-06-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Break+Presents%3A+Skeme+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2011-06-03&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fthe-break%2F2011%2F06%2Fthe-break-presents-skeme%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/2013/12/the-come-up-skeme/4/">"The Come Up: Skeme - Page 4 of 8 - XXL"</a>. Xxlmag.com. 2013-12-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Come+Up%3A+Skeme+-+Page+4+of+8+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-12-10&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2F2013%2F12%2Fthe-come-up-skeme%2F4%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-xxlmag1-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-xxlmag1_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xxlmag1_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/2013/12/the-come-up-skeme/5/">"The Come Up: Skeme - Page 5 of 8 - XXL"</a>. Xxlmag.com. 2013-12-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Come+Up%3A+Skeme+-+Page+5+of+8+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-12-10&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2F2013%2F12%2Fthe-come-up-skeme%2F5%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.2dopeboyz.com/2009/06/02/skeme-skeme-of-things-2-mixtape/">"Skeme - Skeme Of Things 2 (Mixtape)"</a>. 2DOPEBOYZ. 2009-06-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Skeme+Of+Things+2+%28Mixtape%29&amp;rft.pub=2DOPEBOYZ&amp;rft.date=2009-06-02&amp;rft_id=https%3A%2F%2Fwww.2dopeboyz.com%2F2009%2F06%2F02%2Fskeme-skeme-of-things-2-mixtape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Skeme-All-Rapd-Up-mixtape.99481.html">"Skeme - All Rap'd Up Hosted by DJ Ill Will, DJ Rockstar // Free Mixtape @"</a>. Datpiff.com. 2010-02-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+All+Rap%27d+Up+Hosted+by+DJ+Ill+Will%2C+DJ+Rockstar+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2010-02-17&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FSkeme-All-Rapd-Up-mixtape.99481.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/videos/id.15240/title.skeme-interview-with-snoop-dogg-on-ggn">"Skeme - Interview with Snoop Dogg on GGN &#124; Watch Hip Hop Music Videos &amp; New Rap Videos"</a>. HipHop DX. 2014-01-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Interview+with+Snoop+Dogg+on+GGN+%26%23124%3B+Watch+Hip+Hop+Music+Videos+%26+New+Rap+Videos&amp;rft.pub=HipHop+DX&amp;rft.date=2014-01-08&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fvideos%2Fid.15240%2Ftitle.skeme-interview-with-snoop-dogg-on-ggn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/2013/12/the-come-up-skeme/">"The Come Up: Skeme - XXL"</a>. Xxlmag.com. 2013-12-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Come+Up%3A+Skeme+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-12-10&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2F2013%2F12%2Fthe-come-up-skeme%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">&#187; by Randy Roper May 19, 2011, 16:30pm (2011-05-19). <a rel="nofollow" class="external text" href="http://hiphopwired.com/2011/05/19/skeme-talks-the-statement-mixtape-and-the-new-west-interview-mixtape-download/">"Skeme Talks "The Statement" Mixtape and The New West &#91;Interview&#93;, Mixtape Download"</a>. Hip-Hop Wired<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+Talks+%22The+Statement%22+Mixtape+and+The+New+West+%5BInterview%26%2393%3B%2C+Mixtape+Download&amp;rft.pub=Hip-Hop+Wired&amp;rft.date=2011-05-19&amp;rft.au=%26raquo%3B+by+Randy+Roper+May+19%2C+2011%2C+16%3A30pm&amp;rft_id=http%3A%2F%2Fhiphopwired.com%2F2011%2F05%2F19%2Fskeme-talks-the-statement-mixtape-and-the-new-west-interview-mixtape-download%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">TC (2011-05-25). <a rel="nofollow" class="external text" href="http://smokingsection.uproxx.com/TSS/2011/05/download-skeme-the-statement-mixtape">"Skeme - The Statement Mixtape &#124; The Smoking Section"</a>. Smokingsection.uproxx.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+The+Statement+Mixtape+%26%23124%3B+The+Smoking+Section&amp;rft.pub=Smokingsection.uproxx.com&amp;rft.date=2011-05-25&amp;rft.au=TC&amp;rft_id=http%3A%2F%2Fsmokingsection.uproxx.com%2FTSS%2F2011%2F05%2Fdownload-skeme-the-statement-mixtape&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-datpiff1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-datpiff1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-datpiff1_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Skeme-The-Statement-mixtape.231982.html">"Skeme - The Statement // Free Mixtape @"</a>. Datpiff.com. 2011-05-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+The+Statement+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2011-05-19&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FSkeme-The-Statement-mixtape.231982.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">TC (2011-12-14). <a rel="nofollow" class="external text" href="http://smokingsection.uproxx.com/TSS/2011/12/download-skeme-before-my-next-statement-mixtape">"Skeme - Before My Next Statement Mixtape x "M.O.B." Video &#124; The Smoking Section"</a>. Smokingsection.uproxx.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Before+My+Next+Statement+Mixtape+x+%22M.O.B.%22+Video+%26%23124%3B+The+Smoking+Section&amp;rft.pub=Smokingsection.uproxx.com&amp;rft.date=2011-12-14&amp;rft.au=TC&amp;rft_id=http%3A%2F%2Fsmokingsection.uproxx.com%2FTSS%2F2011%2F12%2Fdownload-skeme-before-my-next-statement-mixtape&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/xxl-magazine/2012/10/skeme-releases-cover-and-tracklist-for-alive-living-album/">"Skeme Releases Cover and Tracklist for Alive &amp; Living Album - XXL"</a>. Xxlmag.com. 2012-10-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+Releases+Cover+and+Tracklist+for+Alive+%26+Living+Album+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2012-10-10&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fxxl-magazine%2F2012%2F10%2Fskeme-releases-cover-and-tracklist-for-alive-living-album%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Skeme  Follow @Skeme &#160;. <a rel="nofollow" class="external text" href="http://www.djbooth.net/index/albums/review/skeme-alive-and-living">"Skeme - Alive and Living - Stream"</a>. Djbooth.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Alive+and+Living+-+Stream&amp;rft.pub=Djbooth.net&amp;rft.au=Skeme++Follow+%40Skeme++&amp;rft_id=http%3A%2F%2Fwww.djbooth.net%2Findex%2Falbums%2Freview%2Fskeme-alive-and-living&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2013/04/skeme-the-next-member-of-tde/">"Skeme: The Next Member Of TDE? - XXL"</a>. Xxlmag.com. 2013-04-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme%3A+The+Next+Member+Of+TDE%3F+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-04-24&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2013%2F04%2Fskeme-the-next-member-of-tde%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Vasquez, Andres (2013-04-24). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.23687/title.skeme-reveals-he-is-in-heavy-talks-with-tde-">"Skeme Reveals He Is "In Heavy Talks" With TDE &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+Reveals+He+Is+%22In+Heavy+Talks%22+With+TDE+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHop+DX&amp;rft.date=2013-04-24&amp;rft.aulast=Vasquez&amp;rft.aufirst=Andres&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.23687%2Ftitle.skeme-reveals-he-is-in-heavy-talks-with-tde-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/2013/12/the-come-up-skeme/7/">"The Come Up: Skeme - Page 7 of 8 - XXL"</a>. Xxlmag.com. 2013-12-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Come+Up%3A+Skeme+-+Page+7+of+8+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-12-10&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2F2013%2F12%2Fthe-come-up-skeme%2F7%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-autogenerated2-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated2_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated2_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-autogenerated2_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">12/17/2013 00:00:00 (2013-12-17). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1719255/skeme-top-dawg-entertainment-kendrick-lamar-relationship.jhtml">"Kendrick Lamar's 'Extended Family' Member Skeme Reps L.A. With Ingleworld - Music, Celebrity, Artist News"</a>. MTV.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kendrick+Lamar%27s+%27Extended+Family%27+Member+Skeme+Reps+L.A.+With+Ingleworld+-+Music%2C+Celebrity%2C+Artist+News&amp;rft.pub=MTV.com&amp;rft.date=2013-12-17&amp;rft.au=12%2F17%2F2013+00%3A00%3A00&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1719255%2Fskeme-top-dawg-entertainment-kendrick-lamar-relationship.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/10/snoop-dogg-colt-45-commercial">"Snoop Dogg Colt 45 Commercial"</a>. Complex. 2013-10-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Snoop+Dogg+Colt+45+Commercial&amp;rft.pub=Complex&amp;rft.date=2013-10-02&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F10%2Fsnoop-dogg-colt-45-commercial&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">James, Jesse (2013-09-27). <a rel="nofollow" class="external text" href="http://stupiddope.com/2013/09/27/skeme-bare-with-me-mixtape-new-music/">"Skeme – Bare With Me (Mixtape) &#124; New Music –"</a>. Stupiddope.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+%E2%80%93+Bare+With+Me+%28Mixtape%29+%26%23124%3B+New+Music+%E2%80%93&amp;rft.pub=Stupiddope.com&amp;rft.date=2013-09-27&amp;rft.aulast=James&amp;rft.aufirst=Jesse&amp;rft_id=http%3A%2F%2Fstupiddope.com%2F2013%2F09%2F27%2Fskeme-bare-with-me-mixtape-new-music%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Smith, Bruce (2013-10-06). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/album-reviews/id.2158/title.skeme-bare-with-me-mixtape-review-">"Skeme - Bare With Me (Mixtape Review) &#124; Read Hip Hop Reviews, Rap Reviews &amp; Hip Hop Album Reviews"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Bare+With+Me+%28Mixtape+Review%29+%26%23124%3B+Read+Hip+Hop+Reviews%2C+Rap+Reviews+%26+Hip+Hop+Album+Reviews&amp;rft.pub=HipHop+DX&amp;rft.date=2013-10-06&amp;rft.aulast=Smith&amp;rft.aufirst=Bruce&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Falbum-reviews%2Fid.2158%2Ftitle.skeme-bare-with-me-mixtape-review-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2013/11/watch-skemes-new-video-millions/">"Watch Skeme's New Video "Millions" - XXL"</a>. Xxlmag.com. 2013-11-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Watch+Skeme%27s+New+Video+%22Millions%22+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-11-15&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2013%2F11%2Fwatch-skemes-new-video-millions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Baker, Soren (2013-12-17). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.26418/title.-skeme-ingleworld-cover-art-tracklist-album-stream">"Skeme "Ingleworld" Cover Art, Tracklist &amp; Album Stream &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+%22Ingleworld%22+Cover+Art%2C+Tracklist+%26+Album+Stream+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHop+DX&amp;rft.date=2013-12-17&amp;rft.aulast=Baker&amp;rft.aufirst=Soren&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.26418%2Ftitle.-skeme-ingleworld-cover-art-tracklist-album-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/12/skeme-different">"Skeme "Different<span class="cs1-kern-right">"</span>"</a>. Complex. 2013-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+%22Different%22&amp;rft.pub=Complex&amp;rft.date=2013-12-04&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F12%2Fskeme-different&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/new-music/2013/12/skeme-different/">"Skeme "Different" - XXL"</a>. Xxlmag.com. 2013-12-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+%22Different%22+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-12-05&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fnew-music%2F2013%2F12%2Fskeme-different%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Smith, Bruce (2013-12-18). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/album-reviews/id.2201/title.skeme-ingleworld">"Skeme - Ingleworld &#124; Read Hip Hop Reviews, Rap Reviews &amp; Hip Hop Album Reviews"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Ingleworld+%26%23124%3B+Read+Hip+Hop+Reviews%2C+Rap+Reviews+%26+Hip+Hop+Album+Reviews&amp;rft.pub=HipHop+DX&amp;rft.date=2013-12-18&amp;rft.aulast=Smith&amp;rft.aufirst=Bruce&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Falbum-reviews%2Fid.2201%2Ftitle.skeme-ingleworld&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Arezes, Olivia (2013-12-17). <a rel="nofollow" class="external text" href="http://exclaim.ca/Reviews/HipHop/skeme-ingleworld">"Skeme - Ingleworld • Hip-Hop Reviews •"</a>. Exclaim.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Ingleworld+%E2%80%A2+Hip-Hop+Reviews+%E2%80%A2&amp;rft.pub=Exclaim.ca&amp;rft.date=2013-12-17&amp;rft.aulast=Arezes&amp;rft.aufirst=Olivia&amp;rft_id=http%3A%2F%2Fexclaim.ca%2FReviews%2FHipHop%2Fskeme-ingleworld&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Tardio, Andres (2013-12-28). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.26799/title.dom-kennedy-get-home-safely-tour-dates">"Dom Kennedy "Get Home Safely Tour" Dates &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dom+Kennedy+%22Get+Home+Safely+Tour%22+Dates+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHop+DX&amp;rft.date=2013-12-28&amp;rft.aulast=Tardio&amp;rft.aufirst=Andres&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.26799%2Ftitle.dom-kennedy-get-home-safely-tour-dates&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/10spot-artist/2014/03/skeme-2/">"Skeme - XXL"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+XXL&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2F10spot-artist%2F2014%2F03%2Fskeme-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/04/10-new-la-rappers-to-watch-out-for/skeme">"10 New L.A. Rappers To Watch Out For - Skeme"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=10+New+L.A.+Rappers+To+Watch+Out+For+-+Skeme&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F04%2F10-new-la-rappers-to-watch-out-for%2Fskeme&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Skeme-Bare-With-Me-mixtape.535461.html">"Skeme - Bare With Me Hosted by Skee &amp; Base // Free Mixtape @"</a>. Datpiff.com. 2013-09-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeme+-+Bare+With+Me+Hosted+by+Skee+%26+Base+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2013-09-26&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FSkeme-Bare-With-Me-mixtape.535461.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/aint-bout-dat-life-feat.-jay/id548809623">"iTunes - Music - Ain't Bout Dat Life (feat. Jay 305) (Single) by Skeme"</a>. Itunes.apple.com. 2012-07-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Ain%27t+Bout+Dat+Life+%28feat.+Jay+305%29+%28Single%29+by+Skeme&amp;rft.pub=Itunes.apple.com&amp;rft.date=2012-07-31&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Faint-bout-dat-life-feat.-jay%2Fid548809623&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/kidz-gunz-feat.-schoolboy/id552178691">"iTunes - Music - Kidz With Gunz (feat. ScHoolboy Q) - Single by Skeme"</a>. Itunes.apple.com. 2012-08-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Kidz+With+Gunz+%28feat.+ScHoolboy+Q%29+-+Single+by+Skeme&amp;rft.pub=Itunes.apple.com&amp;rft.date=2012-08-28&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fkidz-gunz-feat.-schoolboy%2Fid552178691&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/different-single/id772251006">"iTunes - Music - Different - Single by Skeme"</a>. Itunes.apple.com. 2013-12-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Different+-+Single+by+Skeme&amp;rft.pub=Itunes.apple.com&amp;rft.date=2013-12-03&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fdifferent-single%2Fid772251006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/look-what-i-did-feat.-t.i./id892933600">"Look What I Did (feat. T.I.) – Single by Skeme"</a>. <i><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></i>. <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 26,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes+Store&amp;rft.atitle=Look+What+I+Did+%28feat.+T.I.%29+%E2%80%93+Single+by+Skeme&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Flook-what-i-did-feat.-t.i.%2Fid892933600&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/biz/search/charts?f=ts_chart_artistname:*Skeme*&amp;f=ss_bb_type:chart_item&amp;type=2&amp;artist=Skeme">"Chart Search - Billboard"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chart+Search+-+Billboard&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fbiz%2Fsearch%2Fcharts%3Ff%3Dts_chart_artistname%3A%2ASkeme%2A%26f%3Dss_bb_type%3Achart_item%26type%3D2%26artist%3DSkeme&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/nz/album/t.o.-explicit-feat.-skeme/id510263963?i=510263968">"iTunes - Music - T.O. (feat. Skeme) - Single by Problem"</a>. Itunes.apple.com. 2012-03-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+T.O.+%28feat.+Skeme%29+-+Single+by+Problem&amp;rft.pub=Itunes.apple.com&amp;rft.date=2012-03-06&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fnz%2Falbum%2Ft.o.-explicit-feat.-skeme%2Fid510263963%3Fi%3D510263968&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/show-sumn-feat.-problem-skeme/id680816502">"iTunes - Music - Show Sumn (feat. Problem, Skeme, Freddie Gibbs, Jay Rock, G. Malone &amp; Bad Lucc) - Single by League Of Starz"</a>. Itunes.apple.com. 2013-07-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Show+Sumn+%28feat.+Problem%2C+Skeme%2C+Freddie+Gibbs%2C+Jay+Rock%2C+G.+Malone+%26+Bad+Lucc%29+-+Single+by+League+Of+Starz&amp;rft.pub=Itunes.apple.com&amp;rft.date=2013-07-30&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fshow-sumn-feat.-problem-skeme%2Fid680816502&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkeme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skeme&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://skemetheduke.com/">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q16233571&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q16233571&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q16233571" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/94cf511f-296d-47b9-badd-954647e7d3fc">94cf511f-296d-47b9-badd-954647e7d3fc</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20190219224856
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.544 seconds
+Real time usage: 0.681 seconds
+Preprocessor visited node count: 2448/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78345/2097152 bytes
+Template argument size: 1939/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 126137/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.295/10.000 seconds
+Lua memory usage: 5.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  574.166      1 -total
+ 49.19%  282.456      1 Template:Reflist
+ 40.51%  232.594     42 Template:Cite_web
+ 15.97%   91.682      1 Template:Infobox_musical_artist
+ 13.12%   75.304      1 Template:Infobox
+ 12.70%   72.909      1 Template:Update
+  9.73%   55.871      1 Template:Official_website
+  8.83%   50.703      4 Template:Main_other
+  7.90%   45.383      1 Template:Ambox
+  6.80%   39.023      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41806759-0!canonical and timestamp 20190219224855 and revision id 884062368
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Skeme&amp;oldid=884062368">https://en.wikipedia.org/w/index.php?title=Skeme&amp;oldid=884062368</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1990_births" title="Category:1990 births">1990 births</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:People_from_Inglewood,_California" title="Category:People from Inglewood, California">People from Inglewood, California</a></li><li><a href="/wiki/Category:Rappers_from_California" title="Category:Rappers from California">Rappers from California</a></li><li><a href="/wiki/Category:Bloods" title="Category:Bloods">Bloods</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_male_musicians" title="Category:21st-century male musicians">21st-century male musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_February_2019" title="Category:Wikipedia articles in need of updating from February 2019">Wikipedia articles in need of updating from February 2019</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Skeme" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Skeme" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Skeme" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Skeme" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Skeme">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Skeme&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Skeme&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Skeme" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Skeme" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Skeme&amp;oldid=884062368" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Skeme&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16233571" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Skeme&amp;id=884062368" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Skeme">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Skeme&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Skeme&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16233571#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 February 2019, at 08:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Skeme&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.544","walltime":"0.681","ppvisitednodes":{"value":2448,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":78345,"limit":2097152},"templateargumentsize":{"value":1939,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":126137,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  574.166      1 -total"," 49.19%  282.456      1 Template:Reflist"," 40.51%  232.594     42 Template:Cite_web"," 15.97%   91.682      1 Template:Infobox_musical_artist"," 13.12%   75.304      1 Template:Infobox"," 12.70%   72.909      1 Template:Update","  9.73%   55.871      1 Template:Official_website","  8.83%   50.703      4 Template:Main_other","  7.90%   45.383      1 Template:Ambox","  6.80%   39.023      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.295","limit":"10.000"},"limitreport-memusage":{"value":5504413,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190219224856","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":792,"wgHostname":"mw1256"});});</script>
+	</body>
+</html>

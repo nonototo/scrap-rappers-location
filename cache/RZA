@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>RZA - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"RZA","wgTitle":"RZA","wgCurRevisionId":883974228,"wgRevisionId":883974228,"wgArticleId":39177668,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from March 2012","Pages with citations lacking titles","Pages with citations having bare URLs","Use dmy dates from April 2015","Articles with hCards","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1969 births","Male actors from New York City","African-American male rappers","American hip hop record producers","American male film actors","American male screenwriters","EOne Music artists","Epic Records artists","Gravediggaz members","Horrorcore artists","Living people","Five percenters","Musicians from Pittsburgh","Musicians from Brooklyn","People from Millstone Township, New Jersey","People from Steubenville, Ohio","Rappers from New York City","Underground rappers","Virgin Records artists","Gee Street Records artists","Wu-Tang Clan members","East Coast hip hop musicians","African-American songwriters","Songwriters from New York (state)","African-American record producers","Curtis High School alumni","20th-century American writers","21st-century American writers","Record producers from New York (state)","Record producers from New Jersey","Record producers from Ohio","People from Brownsville, Brooklyn","Film directors from New York City","Film directors from Ohio","Film directors from New Jersey","Screenwriters from New York (state)","21st-century American rappers","Record producers from Pennsylvania","Vegetarians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"RZA","wgRelevantArticleId":39177668,"wgRequestId":"XGyB2gpAICsAAHEvkCoAAABP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q52447","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.17"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RZA_by_Gage_Skidmore.jpg/1200px-RZA_by_Gage_Skidmore.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/RZA"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=RZA&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=RZA&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/RZA"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-RZA rootpage-RZA skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">RZA</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Rza_(disambiguation)" class="mw-disambig" title="Rza (disambiguation)">Rza (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard plainlist" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #f0e68c"><div style="display:inline;" class="fn">RZA</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:RZA_by_Gage_Skidmore.jpg" class="image"><img alt="RZA by Gage Skidmore.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RZA_by_Gage_Skidmore.jpg/220px-RZA_by_Gage_Skidmore.jpg" decoding="async" width="220" height="324" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RZA_by_Gage_Skidmore.jpg/330px-RZA_by_Gage_Skidmore.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RZA_by_Gage_Skidmore.jpg/440px-RZA_by_Gage_Skidmore.jpg 2x" data-file-width="2075" data-file-height="3058" /></a><div>RZA at the 2018 <a href="/wiki/San_Diego_Comic-Con_International" class="mw-redirect" title="San Diego Comic-Con International">San Diego Comic-Con International</a></div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #f0e68c">Background information</th></tr><tr><th scope="row"><span class="nowrap">Birth name</span></th><td class="nickname">Robert Fitzgerald Diggs</td></tr><tr><th scope="row"><span class="nowrap">Also known as</span></th><td class="nickname"><div class="hlist hlist-separated"><ul><li>RZA</li><li>Prince Rakeem</li><li>The RZArector</li><li>Bobby Steels</li><li>Ruler Zig-Zag-Zig Allah</li><li>Prince Delight</li><li>Abbott</li><li>Bobby Digital</li></ul></div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1969-07-05</span>) </span>July 5, 1969<span class="noprint ForceAgeToShow"> (age&#160;49)</span><br /><a href="/wiki/New_York_City,_New_York" class="mw-redirect" title="New York City, New York">New York City, New York</a>, U.S.</td></tr><tr><th scope="row">Origin</th><td><a href="/wiki/Staten_Island" title="Staten Island">Staten Island</a>, New York</td></tr><tr><th scope="row">Genres</th><td><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row"><span class="nowrap">Occupation(s)</span></th><td class="role"><div class="hlist hlist-separated"><ul><li>Rapper</li><li>record producer</li><li>musician</li><li>actor</li><li>filmmaker</li><li>author</li></ul></div></td></tr><tr><th scope="row">Instruments</th><td class="note"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Rapping" title="Rapping">Rapping</a></li><li>keyboards</li><li>guitar</li><li><a href="/wiki/Zither" title="Zither">zither</a></li><li><a href="/wiki/Sampler_(musical_instrument)" title="Sampler (musical instrument)">sampler</a></li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Years active</span></th><td>1989–present</td></tr><tr><th scope="row">Labels</th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Soul_Temple_Records" title="Soul Temple Records">Soul Temple</a></li><li><a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy</a>/<a href="/wiki/Warner_Bros._Records" title="Warner Bros. Records">Warner Bros.</a></li><li><a href="/wiki/Razor_Sharp_Records" class="mw-redirect" title="Razor Sharp Records">Razor Sharp</a>/<a href="/wiki/Epic_Records" title="Epic Records">Epic</a>/<a href="/wiki/Sony_Music_Entertainment" class="mw-redirect" title="Sony Music Entertainment">SME</a></li><li><a href="/wiki/Virgin_Schallplatten" title="Virgin Schallplatten">Virgin</a>/<a href="/wiki/EMI" title="EMI">EMI</a></li><li><a href="/wiki/Koch_Records" class="mw-redirect" title="Koch Records">Koch</a></li><li><a href="/wiki/Gee_Street_Records" title="Gee Street Records">Gee Street</a>/<a href="/wiki/V2_Records" title="V2 Records">V2</a>/<a href="/wiki/Bertelsmann_Music_Group" title="Bertelsmann Music Group">BMG</a></li><li><a href="/wiki/Sanctuary_Records" title="Sanctuary Records">Sanctuary</a>/BMG</li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Associated acts</span></th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></li><li><a href="/wiki/Banks_%26_Steelz" title="Banks &amp; Steelz">Banks &amp; Steelz</a></li><li><a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a></li><li><a href="/wiki/Easy_Mo_Bee" title="Easy Mo Bee">Easy Mo Bee</a></li><li><a href="/wiki/John_Frusciante" title="John Frusciante">John Frusciante</a></li><li><a href="/wiki/James_Blake_(musician)" title="James Blake (musician)">James Blake</a></li></ul></div></td></tr></tbody></table>
+<p><b>Robert Fitzgerald Diggs</b> (born July 5, 1969), better known by his stage name <b>RZA</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;z&#39; in &#39;zoom&#39;">z</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">RIZ</span>-ə</i></a>), is an American rapper, record producer, musician and actor. He is the <i>de facto</i> leader of the <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> He has produced almost all of Wu-Tang Clan's albums, as well as many Wu-Tang solo and affiliate projects. He is a cousin of two other original Wu-Tang Clan members: <a href="/wiki/GZA" title="GZA">GZA</a> and <a href="/wiki/Ol%27_Dirty_Bastard" title="Ol&#39; Dirty Bastard">Ol' Dirty Bastard</a>. He has also released solo albums under the alter-ego <b>Bobby Digital</b>, along with executive producing credits for side projects. Prior to forming the Wu-Tang Clan, RZA was a founding member of the <a href="/wiki/Horrorcore" title="Horrorcore">horrorcore</a> group <a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a>, where he went by the name <b>The RZArector</b>.
+</p><p>RZA has been heavily involved in filmmaking since the late 1990s. He has scored a number of films, most notably <i><a href="/wiki/Kill_Bill:_Volume_1" title="Kill Bill: Volume 1">Kill Bill: Volume 1</a></i> (2003) and <i><a href="/wiki/Kill_Bill:_Volume_2" title="Kill Bill: Volume 2">Kill Bill: Volume 2</a></i> (2004). He has written and directed in film and television, starting with his directorial debut, <i><a href="/wiki/The_Man_with_the_Iron_Fists" title="The Man with the Iron Fists">The Man with the Iron Fists</a></i>, in 2012. He has also acted in numerous films and TV series, including the films <i><a href="/wiki/American_Gangster_(film)" title="American Gangster (film)">American Gangster</a></i> and <i><a href="/wiki/Brick_Mansions" title="Brick Mansions">Brick Mansions</a></i>, and the TV series <i><a href="/wiki/Gang_Related_(TV_series)" title="Gang Related (TV series)">Gang Related</a></i> and <i><a href="/wiki/Californication_(TV_series)" title="Californication (TV series)">Californication</a></i>.
+</p><p>He is especially known for his music production, with a style that includes the use of <a href="/wiki/Soul_music" title="Soul music">soul</a> samples and sparse beats that has proved highly influential. The magazine <i><a href="/wiki/The_Source_(magazine)" class="mw-redirect" title="The Source (magazine)">The Source</a></i> placed him on its list of the 20 greatest producers in the magazine's twenty-year history.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i> listed him among the top 8 greatest hip-hop producers of all time.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <i><a href="/wiki/NME" title="NME">NME</a></i> placed him on their list of the 50 Greatest Producers Ever.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Music_career"><span class="tocnumber">2</span> <span class="toctext">Music career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#1991:_Before_Wu-Tang"><span class="tocnumber">2.1</span> <span class="toctext">1991: Before Wu-Tang</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1992–1993:_Forming_the_Wu-Tang_Clan"><span class="tocnumber">2.2</span> <span class="toctext">1992–1993: Forming the Wu-Tang Clan</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1994–1996:_Gravediggaz_and_Wu-Tang_solo_projects:_Round_one"><span class="tocnumber">2.3</span> <span class="toctext">1994–1996: Gravediggaz and Wu-Tang solo projects: Round one</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1997:_Wu-Tang_Forever"><span class="tocnumber">2.4</span> <span class="toctext">1997: <i>Wu-Tang Forever</i></span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#1998–1999:_Gravediggaz_and_Wu-Tang_solo_projects:_Round_two"><span class="tocnumber">2.5</span> <span class="toctext">1998–1999: Gravediggaz and Wu-Tang solo projects: Round two</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#2001–2004:_Post_The_W_solo_projects"><span class="tocnumber">2.6</span> <span class="toctext">2001–2004: Post <i>The W</i> solo projects</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#2005–present:_Solo_projects:_Round_three"><span class="tocnumber">2.7</span> <span class="toctext">2005–present: Solo projects: Round three</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Wu-Recording_labels"><span class="tocnumber">3</span> <span class="toctext">Wu-Recording labels</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Artistry"><span class="tocnumber">4</span> <span class="toctext">Artistry</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Alter_egos"><span class="tocnumber">4.1</span> <span class="toctext">Alter egos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Film_career"><span class="tocnumber">5</span> <span class="toctext">Film career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Acting"><span class="tocnumber">5.1</span> <span class="toctext">Acting</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Filmmaking"><span class="tocnumber">5.2</span> <span class="toctext">Filmmaking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Personal_life"><span class="tocnumber">6</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Discography"><span class="tocnumber">7</span> <span class="toctext">Discography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Studio_albums"><span class="tocnumber">7.1</span> <span class="toctext">Studio albums</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Collaboration_albums"><span class="tocnumber">7.2</span> <span class="toctext">Collaboration albums</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Filmography"><span class="tocnumber">8</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Films"><span class="tocnumber">8.1</span> <span class="toctext">Films</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Television"><span class="tocnumber">8.2</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Video_games"><span class="tocnumber">8.3</span> <span class="toctext">Video games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Bibliography"><span class="tocnumber">9</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>RZA was born in <a href="/wiki/Brownsville,_Brooklyn" title="Brownsville, Brooklyn">Brownsville, Brooklyn</a>. He is named after <a href="/wiki/Robert_Kennedy" class="mw-redirect" title="Robert Kennedy">Robert Kennedy</a> and <a href="/wiki/John_Fitzgerald_Kennedy" class="mw-redirect" title="John Fitzgerald Kennedy">John Fitzgerald Kennedy</a>, both of whom his mother greatly admired.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> RZA has called his given name an "honorable" name, given the legacy of both Robert and John. RZA has a younger brother, Terrance Hamlin, better known as the rapper <a href="/wiki/9th_Prince" title="9th Prince">9th Prince</a>.
+</p><p>RZA lived in <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a> with his uncle from age three to seven, who encouraged him to read and study.<sup id="cite_ref-Tao_6-0" class="reference"><a href="#cite_note-Tao-6">&#91;6&#93;</a></sup> RZA was introduced to <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a> at the age of nine, and by eleven, was competing in <a href="/wiki/Rap_battles" class="mw-redirect" title="Rap battles">rap battles</a>. He relocated to <a href="/wiki/Steubenville,_Ohio" title="Steubenville, Ohio">Steubenville, Ohio</a> in 1990, to live with his mother. He spent weekends in <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a>, Pennsylvania, where his father ran a convenience store in the city's <a href="/wiki/Hill_District_(Pittsburgh)" title="Hill District (Pittsburgh)">Hill District</a>.<sup id="cite_ref-Lolley_7-0" class="reference"><a href="#cite_note-Lolley-7">&#91;7&#93;</a></sup>
+</p><p>RZA got involved with petty crime and drug-dealing, and was charged with <a href="/wiki/Attempted_murder" title="Attempted murder">attempted murder</a> while in Steubenville. He was acquitted of the charge, giving him what he has called a "second chance".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=2" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1991:_Before_Wu-Tang">1991: Before Wu-Tang</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=3" title="Edit section: 1991: Before Wu-Tang">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Robert Diggs formed a rap group with his cousins <a href="/wiki/Ol%27_Dirty_Bastard" title="Ol&#39; Dirty Bastard">Russell Jones</a> and <a href="/wiki/Gza" class="mw-redirect" title="Gza">Gary Grice</a> called All in Together Now. They enjoyed local success but never signed a record deal.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Diggs later debuted on <a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy Records</a> in 1991 as a solo artist under the name Prince Rakeem and released the <i><a href="/wiki/Ooh_I_Love_You_Rakeem" title="Ooh I Love You Rakeem">Ooh I Love You Rakeem</a></i> EP.
+</p><p>After a shoot-out in Ohio in 1992, he faced eight years in jail. "When they said 'not guilty', my face stuck in a smile for three days," he recalled. "I was just walking around town, thinking about my daughter and my wife. Right then I said goodbye to anything that would put me in that situation again. I was up on trial on an <a href="/wiki/Attempted_murder" title="Attempted murder">attempted murder</a> charge. I was a motherfucking fool, with all that knowledge in my head and ending up there."<sup id="cite_ref-Wilkinson_60_10-0" class="reference"><a href="#cite_note-Wilkinson_60-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span id="1992.E2.80.931993:_Forming_the_Wu-Tang_Clan"></span><span class="mw-headline" id="1992–1993:_Forming_the_Wu-Tang_Clan">1992–1993: Forming the Wu-Tang Clan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=4" title="Edit section: 1992–1993: Forming the Wu-Tang Clan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1992, Diggs formed a new group with his two cousins and five other childhood friends. They named the group the <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>, after the 1983 <a href="/wiki/Kung_fu" class="mw-redirect" title="Kung fu">kung fu</a> film <i><a href="/wiki/Shaolin_and_Wu_Tang" title="Shaolin and Wu Tang">Shaolin and Wu Tang</a></i>. As part of the group's formation, each member chose a new nickname for themselves. Diggs chose "RZA", based on a nickname he had been given by fans of his music, "Rza Rza Rakeem", which in turn was based on a song by All in Together Now, "Pza Pza Pumpin", as well as Diggs' <a href="/wiki/Graffiti#Tagging" title="Graffiti">graffiti tag</a>, "Razor". He created a <a href="/wiki/Backronym" title="Backronym">backronym</a> for "RZA", stating that the name stood for "Ruler, Zig-Zag-Zig, Allah" which further translated into "Ruler, Knowledge-Wisdom-Understanding, Allah" when using the <a href="/wiki/Supreme_Alphabet" title="Supreme Alphabet">Supreme Alphabet</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>The Wu-Tang Clan released their first single, "<a href="/wiki/Protect_Ya_Neck" title="Protect Ya Neck">Protect Ya Neck</a>", in December 1992. <a href="/wiki/Masta_Killa" title="Masta Killa">Masta Killa</a> then joined the group in 1993, becoming their ninth member. They released their debut album, <i><a href="/wiki/Enter_the_Wu-Tang_(36_Chambers)" title="Enter the Wu-Tang (36 Chambers)">Enter the Wu-Tang (36 Chambers)</a></i> in November 1993.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> RZA operated as Wu-Tang Clan's de facto leader, producing the group's songs and deciding who would get placed on which tracks.
+</p>
+<h3><span id="1994.E2.80.931996:_Gravediggaz_and_Wu-Tang_solo_projects:_Round_one"></span><span class="mw-headline" id="1994–1996:_Gravediggaz_and_Wu-Tang_solo_projects:_Round_one">1994–1996: Gravediggaz and Wu-Tang solo projects: Round one</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=5" title="Edit section: 1994–1996: Gravediggaz and Wu-Tang solo projects: Round one">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As each of the group's members embarked on solo careers, RZA continued to produce nearly everything Wu-Tang released during the period 1994–1996, which included both composing and arranging the instrumental tracks as well as overseeing and directing the creative process. RZA's rule over the Clan at this time is described in 2004's <i>Wu-Tang Manual</i> book as "a dictatorship". He also released a hit single of his own, in the form of "<a href="/wiki/High_School_High_(soundtrack)" title="High School High (soundtrack)">Wu-Wear: The Garment Renaissance</a>". The song was featured on the <i><a href="/wiki/High_School_High" title="High School High">High School High</a></i> soundtrack, and was released to promote the Wu-Tang clothing brand, also called "<a href="/wiki/Wu-Wear" class="mw-redirect" title="Wu-Wear">Wu-Wear</a>". It peaked at #60 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, and #6 on the <a href="/wiki/Hot_Rap_Singles" class="mw-redirect" title="Hot Rap Singles">Hot Rap Singles</a> chart.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p> When it came time for the Gravediggaz, <a href="/wiki/Prince_Paul_(producer)" title="Prince Paul (producer)">Prince Paul</a> was thinking about putting a group together. He wanted to get some good MCs. <a href="/wiki/Anthony_Ian_Berkeley" title="Anthony Ian Berkeley">Poetic</a> was another dope MC who was underrated out on <a href="/wiki/Long_Island" title="Long Island">Long Island</a>. He had one single out on Tommy Boy that didn't take off, but he was a dope MC. As the Grym Reaper, you know how many dope lyrics he dropped. <a href="/w/index.php?title=Frukwan&amp;action=edit&amp;redlink=1" class="new" title="Frukwan (page does not exist)">Frukwan</a>, one of the top lyricists out of <a href="/wiki/Stetsasonic" title="Stetsasonic">Stetsasonic</a>. He and Paul were friends already. He told him about me. He said, "I know this one guy who is super-dope."
+</p><p>At the same time, I was also trying to do Wu-Tang. I was trying to start my own company and stuff, so when Paul called me up and invited me to his crib on Long Island and told me his idea for forming this group, I thought it would be an honor to be in a group with him. But I told him, "I'm also producing a group, and I'm also part of a family that I'm building." He said, "Yo, that's crazy." We would talk a lot of times. [Ol' Dirty Bastard] came to his house a lot of times with me. [Method Man], too. We all would just go there and try to find ways to get out of the streets. Me, I was trying to get out of the ghetto. Paul had a lot of respect for me, so he helped me break out of it. I think he liked that I was so dark, but I didn't know I was dark.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+</blockquote>
+<h3><span class="mw-headline" id="1997:_Wu-Tang_Forever">1997: <i>Wu-Tang Forever</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=6" title="Edit section: 1997: Wu-Tang Forever">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1997 saw the release of <i><a href="/wiki/Wu-Tang_Forever" title="Wu-Tang Forever">Wu-Tang Forever</a></i>, the Wu-Tang Clan's highly-anticipated second album. The album for the first time featured RZA delegating a small number of beatmaking duties to other producers in the Wu-Tang camp, such as his protégés <a href="/wiki/Mathematics_(producer)" title="Mathematics (producer)">Mathematics</a>, <a href="/wiki/True_Master" title="True Master">True Master</a> and <a href="/wiki/4th_Disciple" title="4th Disciple">4th Disciple</a> who are known as the original <a href="/wiki/Wu-Elements" title="Wu-Elements">Wu-Elements</a>, and Clan member <a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span id="1998.E2.80.931999:_Gravediggaz_and_Wu-Tang_solo_projects:_Round_two"></span><span class="mw-headline" id="1998–1999:_Gravediggaz_and_Wu-Tang_solo_projects:_Round_two">1998–1999: Gravediggaz and Wu-Tang solo projects: Round two</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=7" title="Edit section: 1998–1999: Gravediggaz and Wu-Tang solo projects: Round two">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the 1998–2000 period RZA ceased to produce every Wu-Tang solo album as he had done previously, but continued to contribute usually one or two songs on average to each record as well as receiving an Executive Producer credit.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>I had to put out <i>Bobby Digital</i> instead of <i>The Cure</i> because if I didn't do that I would've suffered two things. First, I would have revealed where I was musically too soon. Wu-Tang is the perfect medium to expose anything new because I got the most people coming together to buy it. For me to expose it for my own self, I don't think that would've been a wise thing for me to do. I might've caught more people than Bobby Digital caught, but I still wouldn't catch the magnitude of what the Wu-Tang could catch. Maybe this year or next year the game may be different. <i>The Cure</i> is so intimate in writing that you gotta live that Cure shit. I was living like Bobby Digital in '98, '99 na'mean? So if I put "The Cure" out, then I wouldn't even be able to get on stage and perform it for ya'll cause I'd be lying."
+</p></blockquote>
+<h3><span id="2001.E2.80.932004:_Post_The_W_solo_projects"></span><span class="mw-headline" id="2001–2004:_Post_The_W_solo_projects">2001–2004: Post <i>The W</i> solo projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=8" title="Edit section: 2001–2004: Post The W solo projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1999 the RZA moved into composing film scores. His first work, <a href="/wiki/Jim_Jarmusch" title="Jim Jarmusch">Jim Jarmusch</a>'s <i><a href="/wiki/Ghost_Dog:_The_Way_of_the_Samurai" title="Ghost Dog: The Way of the Samurai">Ghost Dog: The Way of the Samurai</a></i> (1999), earned praise; he also had a brief cameo in the film itself, as a fellow samurai wearing camouflage. The experience was positive and, as he noted during an interview on <a href="/wiki/National_Public_Radio" class="mw-redirect" title="National Public Radio">National Public Radio</a>'s <i><a href="/wiki/Fresh_Air" title="Fresh Air">Fresh Air</a></i>, the work with traditional musicians gave him the desire to learn how to read and write music.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_(2).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_%282%29.jpg/220px-Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_%282%29.jpg" decoding="async" width="220" height="331" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_%282%29.jpg/330px-Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_%282%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_%282%29.jpg/440px-Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_%282%29.jpg 2x" data-file-width="567" data-file-height="852" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hip_Hop_producer_and_rapper_RZA_-_Robert_Fitzgerald_Diggs_(2).jpg" class="internal" title="Enlarge"></a></div>NYC Studio 2002</div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>This is one of my biggest adventures, and one of my [best] feelings. We watched <i><a href="/wiki/Kill_Bill" class="mw-redirect" title="Kill Bill">Kill Bill</a></i> in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>. At the premiere, that happened, but you know, that's Hollywood. But in Manhattan, a theater, just a bunch of kids coming from wherever New York, inside a movie theater and the movie's coming on. They don't even know that I'm the man with the music, and when it said, "Original Music by The RZA", we hear the audience clapping. And they didn't clap for nothing else, because the movie's just coming on. I was like, 'Wow, what the fuck is that about?' That's different. It actually might be something special. You never care who did that... Once you see who stars in the shit, you don't read "edited", you don't read all that. You be eating your popcorn and it go right by you. But, for somebody to see that and then clap, that's a different thing right there. That felt pretty pleasing.
+</p></blockquote>
+<h3><span id="2005.E2.80.93present:_Solo_projects:_Round_three"></span><span class="mw-headline" id="2005–present:_Solo_projects:_Round_three">2005–present: Solo projects: Round three</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=9" title="Edit section: 2005–present: Solo projects: Round three">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wu_Tang_Clan_f7866559.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wu_Tang_Clan_f7866559.jpg/220px-Wu_Tang_Clan_f7866559.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wu_Tang_Clan_f7866559.jpg/330px-Wu_Tang_Clan_f7866559.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wu_Tang_Clan_f7866559.jpg/440px-Wu_Tang_Clan_f7866559.jpg 2x" data-file-width="4368" data-file-height="2912" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wu_Tang_Clan_f7866559.jpg" class="internal" title="Enlarge"></a></div>RZA at the 2007 <a href="/wiki/Eurock%C3%A9ennes" title="Eurockéennes">Eurockéennes</a>.</div></div></div>
+<p>He has also stated that the long-delayed <i>The Cure</i> album will be his final solo album,  so that he can devoted more time to his movie directing career.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>Before signing with <a href="/wiki/SRC_Records" title="SRC Records">SRC Records</a> in 2007, RZA was flooded with offers from <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a>, <a href="/wiki/Aftermath_Records" class="mw-redirect" title="Aftermath Records">Aftermath Records</a>, <a href="/wiki/Interscope" class="mw-redirect" title="Interscope">Interscope</a> and <a href="/wiki/Def_Jam" class="mw-redirect" title="Def Jam">Def Jam</a> among others for the Wu-Tang Clan super-group.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>In 2007, he produced the <a href="/wiki/Afro_Samurai:_The_Album" title="Afro Samurai: The Album">score</a> of the Japanese anime <i><a href="/wiki/Afro_Samurai" title="Afro Samurai">Afro Samurai</a></i> starring <a href="/wiki/Samuel_L._Jackson" title="Samuel L. Jackson">Samuel L. Jackson</a>. In 2007 he released the little-publicized instrumental album <i><a href="/wiki/The_RZA-Instrumental_Experience" class="mw-redirect" title="The RZA-Instrumental Experience">The RZA-Instrumental Experience</a></i>, and worked with Raekwon on his highly anticipated <i><a href="/wiki/Only_Built_4_Cuban_Linx_II" class="mw-redirect" title="Only Built 4 Cuban Linx II">Only Built 4 Cuban Linx II</a></i>. From 2005 to 2008 he collaborated with <a href="/wiki/System_of_a_Down" title="System of a Down">System of a Down</a> bassist <a href="/wiki/Shavo_Odadjian" title="Shavo Odadjian">Shavo Odadjian</a> on the project <a href="/wiki/Achozen" title="Achozen">Achozen</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> The group released two singles, one of which, "Deuces", was included in the 2009 film <i><a href="/wiki/Babylon_A.D." title="Babylon A.D.">Babylon A.D.</a></i> The group also recorded an album that has remained unreleased, although eight of the songs were released in 2015.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:RZA_@_Virgin_festival_2007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/RZA_%40_Virgin_festival_2007.jpg/220px-RZA_%40_Virgin_festival_2007.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/RZA_%40_Virgin_festival_2007.jpg/330px-RZA_%40_Virgin_festival_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/RZA_%40_Virgin_festival_2007.jpg/440px-RZA_%40_Virgin_festival_2007.jpg 2x" data-file-width="1024" data-file-height="681" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:RZA_@_Virgin_festival_2007.jpg" class="internal" title="Enlarge"></a></div>RZA performing with Wu-Tang at the Virgin Music Festival.</div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>"The time is right to bring some older material to the masses digitally. Our fans have been dedicated and patient, and they're hungry to hear the music that has set us apart from so many others. <a href="/wiki/Hip_hop_music" title="Hip hop music">Hip-hop</a> is alive in <a href="/wiki/Wu_Music_Group" class="mw-redirect" title="Wu Music Group">Wu Music</a>, and with The Orchard, we've got a solid partner that understands our audience and is committed to doing all they can to help us reach the fans. I'm definitely looking forward to working with them to see what else we all come up with. There's much more to come."<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p></blockquote>
+<p>In 2010 he worked on what was intended as a solo album for GZA, <i>Liquid Swords II</i>,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> but the album remains unreleased. RZA also worked with <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> on the latter's fifth album, <i><a href="/wiki/My_Beautiful_Dark_Twisted_Fantasy" title="My Beautiful Dark Twisted Fantasy">My Beautiful Dark Twisted Fantasy</a></i>,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> as well as <i><a href="/wiki/Watch_the_Throne" title="Watch the Throne">Watch the Throne</a></i> by Kanye and Jay-Z.
+</p><p>In a 2011 interview, RZA revealed that he had recently decided to clean out his beat machines of instrumentals he made for the Wu-Tang Clan that were never used; as a result, he gave away ten beats each to <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a> and <a href="/wiki/Talib_Kweli" title="Talib Kweli">Talib Kweli</a>, as well as 20 beats for Kanye West, including two that were used on West's previous two albums.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> RZA produced UK artist <a href="/wiki/Josh_Osho" title="Josh Osho">Josh Osho</a>'s 2012 debut album <i>L.I.F.E</i>.
+</p><p>RZA also contributed vocals to three songs on <a href="/wiki/John_Frusciante" title="John Frusciante">John Frusciante</a>'s 2012 EP <i><a href="/wiki/Letur-Lefr" title="Letur-Lefr">Letur-Lefr</a></i> and in 2013 he contributed vocals to one song on <a href="/wiki/Kid_Cudi" title="Kid Cudi">Kid Cudi</a>'s 2013 album <i><a href="/wiki/Indicud" title="Indicud">Indicud</a>.</i> In August 2012 RZA founded a new record label, <a href="/wiki/Soul_Temple_Records" title="Soul Temple Records">Soul Temple Records</a>, with a distribution deal from <a href="/wiki/RED_Distribution" title="RED Distribution">RED Distribution</a>. On September 28, 2012 he hosted one episode of the web series <i><a href="/wiki/Equals_Three" class="mw-redirect" title="Equals Three">Equals Three</a></i>, substituting for regular host <a href="/wiki/Ray_William_Johnson" title="Ray William Johnson">Ray William Johnson</a>. He appeared on <a href="/wiki/Earl_Sweatshirt" title="Earl Sweatshirt">Earl Sweatshirt</a>'s album <i><a href="/wiki/Doris_(album)" title="Doris (album)">Doris</a></i>, contributing a verse on the track "Molasses". Despite artistic disagreements with <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, RZA and The Wu-Tang Clan released their sixth album <i><a href="/wiki/A_Better_Tomorrow_(album)" title="A Better Tomorrow (album)">A Better Tomorrow</a></i> in 2014.
+</p><p>In 2013 RZA and <a href="/wiki/Paul_Banks_(musician,_born_1978)" title="Paul Banks (musician, born 1978)">Paul Banks</a> began to collaborate as <a href="/wiki/Banks_%26_Steelz" title="Banks &amp; Steelz">Banks &amp; Steelz</a> for what became the 2016 album <i><a href="/wiki/Anything_But_Words" title="Anything But Words">Anything But Words</a></i>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-Collab_Album_25-0" class="reference"><a href="#cite_note-Collab_Album-25">&#91;25&#93;</a></sup> Guest appearances include Kool Keith, Ghostface Killah, Method Man, and Masta Killa.<sup id="cite_ref-Collab_Album_25-1" class="reference"><a href="#cite_note-Collab_Album-25">&#91;25&#93;</a></sup> Two singles were released from the album, "<a href="/wiki/Love_and_War_(Banks_%26_Steelz_song)" title="Love and War (Banks &amp; Steelz song)">Love + War</a>" and "Giant.<sup id="cite_ref-Collab_Album_25-2" class="reference"><a href="#cite_note-Collab_Album-25">&#91;25&#93;</a></sup> "
+</p>
+<h2><span class="mw-headline" id="Wu-Recording_labels">Wu-Recording labels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=10" title="Edit section: Wu-Recording labels">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since the early 1990s, various <a href="/wiki/List_of_Wu-Recording_record_labels" title="List of Wu-Recording record labels">Wu Tang Clan-affiliated recording labels</a> were established. The earlier labels are believed to be dissolved. The connection that RZA had to these labels is unknown.
+</p><p>Other record labels were later founded in the early 2000s, and are still active in the present. Very little is known about these labels, other that the fact that RZA produces music on them. It is unknown if RZA is CEO, or has high position within these labels, considering that he was never known to have a CEO position of any recording label.
+</p>
+<ul><li><a href="/wiki/List_of_Wu-Recording_record_labels#Wu-Tang_Records" title="List of Wu-Recording record labels">Wu-Tang Records</a></li>
+<li><a href="/wiki/List_of_Wu-Recording_record_labels#Razor_Sharp_Records" title="List of Wu-Recording record labels">Razor Sharp Records</a></li>
+<li><a href="/wiki/List_of_Wu-Recording_record_labels#36_Chambers_Records_and_Wu_Music_Group" title="List of Wu-Recording record labels">36 Chambers Records</a> and <a href="/wiki/Various_Wu-Recording_Labels#36_Chambers_Records_and_Wu_Music_Group" class="mw-redirect" title="Various Wu-Recording Labels">Wu Music Group</a></li>
+<li><a href="/wiki/List_of_Wu-Recording_record_labels#Protect_Ya_Neck_Records" title="List of Wu-Recording record labels">Protect Ya Neck Records</a></li>
+<li><a href="/wiki/List_of_Wu-Recording_record_labels#Wu-Tang_International" title="List of Wu-Recording record labels">Wu-Tang International</a></li>
+<li><a href="/wiki/Soul_Temple_Records" title="Soul Temple Records">Soul Temple Records</a></li></ul>
+<h2><span class="mw-headline" id="Artistry">Artistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=11" title="Edit section: Artistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>RZA's production technique, specifically the manner of chopping up and/or speeding or slowing soul samples to fit his beats, has been imitated by hip hop producers including <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> and <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>. West's own take on RZA's style<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> briefly flooded the rap market with what was dubbed "chipmunk soul," the speeding of a vocal sample to where it sounded as though the singer had inhaled helium. Several producers at the time copied the style, creating other offshoots. West has admitted that his style was distinctly influenced by the RZA's production,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>Said by Kanye West:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>Wu-Tang? Me and my friends talk about this all the time... We think Wu-Tang had one of the biggest impacts as far as a movement. From slang to style of dress, skits, the samples. Similar to the [production] style I use, RZA has been doing that.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p></blockquote>
+<p>In response, RZA himself has spoken quite positively of the comparisons:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>All good. I got super respect for Kanye. He came up to me about a year or two ago. He gave me mad praising and blessings... For people to say Wu-Tang inspire Kanye, Kanye is one of the biggest artists in the world. That goes back to what we say: 'Wu-Tang is forever.' Kanye is going to inspire people to be like him."<sup id="cite_ref-RealNetworks,_Inc_29-0" class="reference"><a href="#cite_note-RealNetworks,_Inc-29">&#91;29&#93;</a></sup>
+</p></blockquote>
+<p>After hearing Kanye's work on <i><a href="/wiki/The_Blueprint" title="The Blueprint">The Blueprint</a></i>, RZA claimed that a torch-passing had occurred between him and West, saying,
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>"The shoes gotta be filled. If you ain't gonna do it, somebody else is gonna do it. That's how I feel about rap today."<sup id="cite_ref-RealNetworks,_Inc_29-1" class="reference"><a href="#cite_note-RealNetworks,_Inc-29">&#91;29&#93;</a></sup>
+</p></blockquote>
+<p>His Bobby Digital albums introduced tweaked-out <a href="/wiki/New-age_music" title="New-age music">new age</a> elements to his sound; these have incorporated themselves more fully into his beats on newer albums such as Method Man's <i><a href="/wiki/4:21..._The_Day_After" title="4:21... The Day After">4:21... The Day After</a></i>.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>The way I produce now is I produce more like a musician", RZA said. "In the old days, I produced more like a DJ. I didn't understand <a href="/wiki/Music_theory" title="Music theory">music theory</a> at all. Now that I do understand music theory, I make my music more playable, meaning not only could you listen to it, you could get someone else to play it. Before, you couldn't even write down Wu-Tang music. I think almost 80 percent of this record can be duplicated by a band, which is important for music, because that means 10 years from now, somebody can make a whole song out of it and cover it like how I'm covering <a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a> song.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p></blockquote>
+<p>In a 2010 radio interview with UK hip hop station Conspiracy Worldwide Radio, RZA spoke in great detail about the homemade, candid ethos of much of his classic work, including the organic creation process behind ODB's debut album.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Alter_egos">Alter egos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=12" title="Edit section: Alter egos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>RZA is known for having multiple <a href="/wiki/Pseudonym" title="Pseudonym">aliases</a>, for different lyrical styles and personalities: Prince Rakeem, The Abbot, Bobby Digital, Bobby Steels, the Scientist, Prince Delight, Prince Dynamite, Ruler Zig-Zag-Zig Allah.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> During his time with the <a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a>, he went by the name the RZArector, which is for waking up the mentally dead.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Film_career">Film career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=13" title="Edit section: Film career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Acting">Acting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=14" title="Edit section: Acting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>RZA has had <a href="/wiki/Cameo_appearance" title="Cameo appearance">cameo appearances</a> in films including <i><a href="/wiki/Funny_People" title="Funny People">Funny People</a></i>, <i><a href="/wiki/Due_Date" title="Due Date">Due Date</a></i>, <i><a href="/wiki/Gospel_Hill" title="Gospel Hill">Gospel Hill</a></i>, <i><a href="/wiki/Ghost_Dog:_The_Way_of_the_Samurai" title="Ghost Dog: The Way of the Samurai">Ghost Dog</a></i>, <i><a href="/wiki/Life_Is_Hot_in_Cracktown" title="Life Is Hot in Cracktown">Life Is Hot in Cracktown</a></i> and <i><a href="/wiki/Popstar:_Never_Stop_Never_Stopping" title="Popstar: Never Stop Never Stopping">Popstar: Never Stop Never Stopping</a></i>.
+</p><p>RZA appeared in <i><a href="/wiki/Derailed_(2005_film)" title="Derailed (2005 film)">Derailed</a></i>, <i><a href="/wiki/Coffee_and_Cigarettes" title="Coffee and Cigarettes">Coffee and Cigarettes</a></i>, and <i><a href="/wiki/American_Gangster_(film)" title="American Gangster (film)">American Gangster</a></i>. He appeared in <i><a href="/wiki/G.I._Joe:_Retaliation" title="G.I. Joe: Retaliation">G.I. Joe: Retaliation</a></i>, as the character <a href="/wiki/Blind_Master_(G.I._Joe)" class="mw-redirect" title="Blind Master (G.I. Joe)">Blind Master</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> In 2010, RZA appeared in the science fiction action film <i><a href="/wiki/Repo_Men" title="Repo Men">Repo Men</a></i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> In 2014, RZA took on the role of Tremaine Alexander in the film <i><a href="/wiki/Brick_Mansions" title="Brick Mansions">Brick Mansions</a></i> opposite <a href="/wiki/Paul_Walker" title="Paul Walker">Paul Walker</a> and <a href="/wiki/David_Belle" title="David Belle">David Belle</a>, a remake of <i><a href="/wiki/District_13" title="District 13">District 13</a></i>. He played "Mr. L.C.", the main antagonist, in the martial arts film <i><a href="/wiki/Tom_Yum_Goong_2" title="Tom Yum Goong 2">Tom Yum Goong 2</a></i>.
+</p><p>RZA directed and starred in <i><a href="/wiki/The_Man_with_the_Iron_Fists" title="The Man with the Iron Fists">The Man with the Iron Fists</a></i> (2012).
+</p><p>RZA played the role of Samurai Apocalypse in the television series <i>Californication</i> in 9 episodes.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p><p>RZA played the role of Shotgun Steve in the movie "Mr. Right" with Sam Rockwell and Anna Kendrick.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Filmmaking">Filmmaking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=15" title="Edit section: Filmmaking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_RZA_at_New_Yorker.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_RZA_at_New_Yorker.jpg/220px-The_RZA_at_New_Yorker.jpg" decoding="async" width="220" height="365" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_RZA_at_New_Yorker.jpg/330px-The_RZA_at_New_Yorker.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cd/The_RZA_at_New_Yorker.jpg 2x" data-file-width="351" data-file-height="582" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:The_RZA_at_New_Yorker.jpg" class="internal" title="Enlarge"></a></div>RZA at <a href="/wiki/The_New_Yorker_Festival" title="The New Yorker Festival">The New Yorker Festival</a> in 2005</div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>I made my albums like movies, you know what I mean? I wanted people to be able to listen to a movie in their car while they was driving. "I want to start off making movies where people will know they're at a movie. Like my man Tarantino, he did that movie <i><a href="/wiki/Pulp_Fiction_(film)" class="mw-redirect" title="Pulp Fiction (film)">Pulp Fiction</a></i> – classic movie, man. Every time it comes on TV or cable, I have to stop and watch it. And it's based on nothing, really. There's only a few people out there that are able to do that, where it comes from nothing but the vision and imagination of the artist.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</p></blockquote>
+<p>In the late '90s, RZA began production of a feature-length film based on "Bobby Digital", an alias he used on various albums. Though the film was never completed, he continued shooting music videos for his side projects and solo tracks.
+</p><p>RZA directed his first feature film, <i><a href="/wiki/The_Man_with_the_Iron_Fists" title="The Man with the Iron Fists">The Man with the Iron Fists</a></i>, in 2011, from a script he wrote the previous year. Directors <a href="/wiki/Quentin_Tarantino" title="Quentin Tarantino">Quentin Tarantino</a> and <a href="/wiki/Eli_Roth" title="Eli Roth">Eli Roth</a> were involved in production, writing, and casting according to several movie websites.<sup id="cite_ref-filmstalker.co.uk_39-0" class="reference"><a href="#cite_note-filmstalker.co.uk-39">&#91;39&#93;</a></sup><sup id="cite_ref-411mania.com_40-0" class="reference"><a href="#cite_note-411mania.com-40">&#91;40&#93;</a></sup><sup id="cite_ref-chud.com_41-0" class="reference"><a href="#cite_note-chud.com-41">&#91;41&#93;</a></sup> The film was released in fall 2012.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=16" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>RZA is a <a href="/wiki/Five-Percent_Nation" title="Five-Percent Nation">Five Percenter</a> and is usually seen wearing the 5% Nation's flag necklace around his neck. He actively extols the 5% culture (which include the <a href="/wiki/Supreme_Mathematics" class="mw-redirect" title="Supreme Mathematics">Supreme Mathematics</a> and the <a href="/wiki/Supreme_Alphabet" title="Supreme Alphabet">Supreme Alphabet</a>). He has also embraced various aspects of <a href="/wiki/Buddhism" title="Buddhism">Buddhism</a>, <a href="/wiki/Taoism" title="Taoism">Taoism</a>, <a href="/wiki/Confucianism" title="Confucianism">Confucianism</a>, Islam, and Christianity, as he describes in his two books, <i><a href="/wiki/The_Wu-Tang_Manual" title="The Wu-Tang Manual">The Wu-Tang Manual</a></i> and <i><a href="/wiki/The_Tao_of_Wu" title="The Tao of Wu">The Tao of Wu</a></i>. He has described the <a href="/wiki/Quran" title="Quran">Quran</a>, <a href="/wiki/The_Bible" class="mw-redirect" title="The Bible">The Bible</a>, and the <a href="/wiki/Lotus_Sutra" title="Lotus Sutra">Lotus Sutra</a> as three of his favorite books, stating that each contains <a href="/wiki/Enlightenment_(spiritual)" title="Enlightenment (spiritual)">enlightenment</a>. His hobbies include watching <a href="/wiki/Martial_arts_film" title="Martial arts film">martial arts films</a>, and he is considered an "encyclopedia of martial arts films" due to his knowledge of the genre.<sup id="cite_ref-chud.com_41-1" class="reference"><a href="#cite_note-chud.com-41">&#91;41&#93;</a></sup> His favorite movies include <i><a href="/wiki/Five_Deadly_Venoms" title="Five Deadly Venoms">Five Deadly Venoms</a></i>,<sup id="cite_ref-filmcomment.com_42-0" class="reference"><a href="#cite_note-filmcomment.com-42">&#91;42&#93;</a></sup> <i><a href="/wiki/The_36th_Chamber_of_Shaolin" title="The 36th Chamber of Shaolin">The 36th Chamber of Shaolin</a></i>,<sup id="cite_ref-filmcomment.com_42-1" class="reference"><a href="#cite_note-filmcomment.com-42">&#91;42&#93;</a></sup> <i><a href="/wiki/Ninja_Scroll" title="Ninja Scroll">Ninja Scroll</a></i>,<sup id="cite_ref-Newsarama.com_43-0" class="reference"><a href="#cite_note-Newsarama.com-43">&#91;43&#93;</a></sup> <i><a href="/wiki/Fist_of_the_North_Star" title="Fist of the North Star">Fist of the North Star</a></i>.<sup id="cite_ref-Newsarama.com_43-1" class="reference"><a href="#cite_note-Newsarama.com-43">&#91;43&#93;</a></sup> His second well-known hobby is <a href="/wiki/Chess" title="Chess">chess</a>. He is a Director of Development and champion of the Hip-Hop Chess Federation.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</p><p>RZA is <a href="/wiki/Vegan" class="mw-redirect" title="Vegan">vegan</a><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup> and has promoted the vegan lifestyle and compassion for animals on behalf of <a href="/wiki/People_for_the_Ethical_Treatment_of_Animals" title="People for the Ethical Treatment of Animals">PETA</a>.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup> "I tell you one thing I did use to like: the fish and chips," he said in 1997. "But I stopped eating fish this year. One day I just felt the death in it."<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</p><p>RZA is a resident of <a href="/wiki/Millstone_Township,_New_Jersey" title="Millstone Township, New Jersey">Millstone Township, New Jersey</a>.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=17" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/RZA_discography" title="RZA discography">RZA discography</a> and <a href="/wiki/RZA_production_discography" title="RZA production discography">production discography</a></div>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=18" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Bobby_Digital_in_Stereo" title="Bobby Digital in Stereo">Bobby Digital in Stereo</a></i> (1998)</li>
+<li><i><a href="/wiki/Digital_Bullet" title="Digital Bullet">Digital Bullet</a></i> (2001)</li>
+<li><i><a href="/wiki/Birth_of_a_Prince" title="Birth of a Prince">Birth of a Prince</a></i> (2003)</li>
+<li><i><a href="/wiki/Digi_Snacks" title="Digi Snacks">Digi Snacks</a></i> (2008)</li></ul>
+<h3><span class="mw-headline" id="Collaboration_albums">Collaboration albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=19" title="Edit section: Collaboration albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/6_Feet_Deep" title="6 Feet Deep">6 Feet Deep</a></i> <small>with Gravediggaz</small> (1994)</li>
+<li><i><a href="/wiki/The_Pick,_the_Sickle_and_the_Shovel" title="The Pick, the Sickle and the Shovel">The Pick, the Sickle and the Shovel</a></i> <small>with Gravediggaz</small> (1997)</li>
+<li><i><a href="/wiki/Anything_But_Words" title="Anything But Words">Anything But Words</a></i> <small>with Banks &amp; Steelz</small> (2016)</li></ul>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=20" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Films">Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=21" title="Edit section: Films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th class="unsortable">Notes
+</th></tr>
+<tr>
+<td>1999
+</td>
+<td><i><a href="/wiki/Ghost_Dog:_The_Way_of_the_Samurai" title="Ghost Dog: The Way of the Samurai">Ghost Dog: The Way of the Samurai</a></i>
+</td>
+<td>Samurai in Camouflage
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2003
+</td>
+<td><i><a href="/wiki/Coffee_and_Cigarettes" title="Coffee and Cigarettes">Coffee and Cigarettes</a></i>
+</td>
+<td>RZA
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td><i><a href="/wiki/Derailed_(2005_film)" title="Derailed (2005 film)">Derailed</a></i>
+</td>
+<td>Winston Boyko
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2007
+</td>
+<td><i><a href="/wiki/American_Gangster_(film)" title="American Gangster (film)">American Gangster</a></i>
+</td>
+<td>Moses Jones
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2007
+</td>
+<td><i><a href="/wiki/The_Box_(2007_film)" title="The Box (2007 film)">The Box</a></i>
+</td>
+<td>Duece
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2008
+</td>
+<td><i><a href="/wiki/Gospel_Hill" title="Gospel Hill">Gospel Hill</a></i>
+</td>
+<td>Lonnie
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td><i><a href="/wiki/Funny_People" title="Funny People">Funny People</a></i>
+</td>
+<td>Chuck
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td><i><a href="/wiki/Life_Is_Hot_in_Cracktown" title="Life Is Hot in Cracktown">Life Is Hot in Cracktown</a></i>
+</td>
+<td>Samy
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td><i><a href="/wiki/Repo_Men" title="Repo Men">Repo Men</a></i>
+</td>
+<td>T-Bone
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td><i><a href="/wiki/Due_Date" title="Due Date">Due Date</a></i>
+</td>
+<td>Airline Screening Marshall
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td><i><a href="/wiki/The_Next_Three_Days" title="The Next Three Days">The Next Three Days</a></i>
+</td>
+<td>Mouss
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td><i><a href="/wiki/A_Very_Harold_%26_Kumar_3D_Christmas" title="A Very Harold &amp; Kumar 3D Christmas">A Very Harold &amp; Kumar 3D Christmas</a></i>
+</td>
+<td>Lamar
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td><i><a href="/wiki/The_Man_with_the_Iron_Fists" title="The Man with the Iron Fists">The Man with the Iron Fists</a></i>
+</td>
+<td>Blacksmith
+</td>
+<td>Lead actor, director, and co-writer
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><i><a href="/wiki/G.I._Joe:_Retaliation" title="G.I. Joe: Retaliation">G.I. Joe: Retaliation</a></i>
+</td>
+<td>Blind Master
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><i><a href="/wiki/Tom_Yum_Goong_2" title="Tom Yum Goong 2">Tom Yum Goong 2</a></i>
+</td>
+<td>Mr. LC
+</td>
+<td><i><a href="/wiki/The_Protector_(2005_film)" class="mw-redirect" title="The Protector (2005 film)">The Protector</a> 2</i>
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td><i><a href="/wiki/Brick_Mansions" title="Brick Mansions">Brick Mansions</a></i>
+</td>
+<td>Tremaine Alexander
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><i><a href="/wiki/The_Man_with_the_Iron_Fists_2" title="The Man with the Iron Fists 2">The Man with the Iron Fists 2</a></i>
+</td>
+<td>Blacksmith
+</td>
+<td>Lead actor and co-writer
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><i><a href="/wiki/Mr._Right_(2015_film)" title="Mr. Right (2015 film)">Mr. Right</a></i>
+</td>
+<td>Steven
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td><i><a href="/wiki/Popstar:_Never_Stop_Never_Stopping" title="Popstar: Never Stop Never Stopping">Popstar: Never Stop Never Stopping</a></i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td><i><a href="/wiki/Love_Beats_Rhymes" title="Love Beats Rhymes">Love Beats Rhymes</a></i>
+</td>
+<td>
+</td>
+<td>Director
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td><i><a href="/wiki/Thriller_(2018_film)" title="Thriller (2018 film)">Thriller</a></i>
+</td>
+<td>Principal Hurd
+</td>
+<td>Lead actor, executive producer and composer
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td><i>Blood Brothers</i>
+</td>
+<td>
+</td>
+<td>Director and writer
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td><i>MFKZ</i>
+</td>
+<td>Shakespeare
+</td>
+<td>Voice actor
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=22" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th class="unsortable">Notes
+</th></tr>
+<tr>
+<td>2009
+</td>
+<td><i><a href="/wiki/Afro_Samurai:_Resurrection" title="Afro Samurai: Resurrection">Afro Samurai: Resurrection</a></i>
+</td>
+<td>DJ
+</td>
+<td>Voice over
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td><i><a href="/wiki/Outlaw_(TV_series)" title="Outlaw (TV series)">Outlaw</a></i>
+</td>
+<td>Greg Beals
+</td>
+<td>Episode: "Pilot"
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td><i><a href="/wiki/Californication_(TV_series)" title="Californication (TV series)">Californication</a></i>
+</td>
+<td>Samurai Apocalypse
+</td>
+<td>Featured role (nine episodes)
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><i><a href="/wiki/Robot_Chicken" title="Robot Chicken">Robot Chicken</a></i>
+</td>
+<td>Himself/Strawberry/Halloween
+</td>
+<td>Voice role (Episode: "Botched Jewel Heist")
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td><i><a href="/wiki/Gang_Related_(TV_series)" title="Gang Related (TV series)">Gang Related</a></i>
+</td>
+<td>DEA Agent Cassius Green
+</td>
+<td>Main cast
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td><i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i>
+</td>
+<td>Himself
+</td>
+<td>Voice role (Episode: "<a href="/wiki/The_Great_Phatsby" title="The Great Phatsby">The Great Phatsby</a>")
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td><i><a href="/wiki/Iron_Fist_(TV_series)" title="Iron Fist (TV series)">Marvel's Iron Fist</a></i>
+</td>
+<td>
+</td>
+<td>Director (Episode: "Immortal Emerges from Cave")
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td><i><a href="/wiki/Snowfall_(TV_series)" title="Snowfall (TV series)">Snowfall</a></i>
+</td>
+<td>Swim
+</td>
+<td>Episode: "Cracking"
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td><i><a href="/wiki/Fresh_Off_the_Boat" title="Fresh Off the Boat">Fresh Off the Boat</a></i>
+</td>
+<td>Himself
+</td>
+<td>Cameo (Episode: "Measure Twice, Cut Once")
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=23" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Film
+</th>
+<th>Role
+</th>
+<th class="unsortable">Notes
+</th></tr>
+<tr>
+<td>2005
+</td>
+<td><i><a href="/wiki/Marc_Eck%C5%8D%27s_Getting_Up:_Contents_Under_Pressure" title="Marc Eckō&#39;s Getting Up: Contents Under Pressure">Getting Up: Contents Under Pressure</a></i>
+</td>
+<td>Stake
+</td>
+<td>Voice over
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=24" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Wu-Tang_Manual" title="The Wu-Tang Manual">The Wu-Tang Manual</a></i> (2005)</li>
+<li><i><a href="/wiki/The_Tao_of_Wu" title="The Tao of Wu">The Tao of Wu</a></i> (2009)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wutang-corp.com/artists/wu-artist.php?id=9">"RZA Biography at Wu-Tang Corp. – The Official Site of the Wu-Tang Clan"</a>. <i>Wutang-corp.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wutang-corp.com&amp;rft.atitle=RZA+Biography+at+Wu-Tang+Corp.+%E2%80%93+The+Official+Site+of+the+Wu-Tang+Clan&amp;rft_id=http%3A%2F%2Fwutang-corp.com%2Fartists%2Fwu-artist.php%3Fid%3D9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://createrapbeats.blogspot.com/2008/08/source-magazine-picks-20-greatest.html">The Rap Beat Creator: Make Your Own Beats!!!: The Source Magazine Picks 20 Greatest Producers</a>. Createrapbeats.blogspot.com (August 24, 2008). Retrieved on 2013-04-17.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vibe.com/article/dr-dre-vibes-greatest-producer-all-time-speaks-win">Dr. Dre Is VIBE's Greatest Producer Of All Time, Speaks On Win</a>. Vibe (June 1, 2010). Retrieved on 2013-04-17.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nme.com/list/the-50-greatest-producers-ever/262849">"50 of the Greatest Producers Ever"</a>. <i>NME.COM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NME.COM&amp;rft.atitle=50+of+the+Greatest+Producers+Ever&amp;rft_id=http%3A%2F%2Fwww.nme.com%2Flist%2Fthe-50-greatest-producers-ever%2F262849&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.pbs.org/kcet/tavissmiley/archive/200910/20091022_therza.html">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since March 2012">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-Tao-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tao_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">RZA (2009). <i><a href="/wiki/The_Tao_of_Wu" title="The Tao of Wu">The Tao of Wu</a></i>. New York: <a href="/wiki/Riverhead_Books" title="Riverhead Books">Riverhead Books</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59448-885-6" title="Special:BookSources/978-1-59448-885-6">978-1-59448-885-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Tao+of+Wu&amp;rft.place=New+York&amp;rft.pub=Riverhead+Books&amp;rft.date=2009&amp;rft.isbn=978-1-59448-885-6&amp;rft.au=RZA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-Lolley-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lolley_7-0">^</a></b></span> <span class="reference-text">Lolley, Sarah (July 13, 2001). "<a rel="nofollow" class="external text" href="http://www.post-gazette.com/magazine/20010713hiphop0713fnp3.asp">Pittsburgh's underground hip-hop scene has helped produce key players like RZA and Mel-Man</a>". <i><a href="/wiki/Pittsburgh_Post-Gazette" title="Pittsburgh Post-Gazette">Pittsburgh Post-Gazette</a></i>. Retrieved on April 5, 2008.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Webb, Rory D. (April 10, 2013). "<a rel="nofollow" class="external text" href="http://www.pghcitypaper.com/pittsburgh/wu-tangs-rza-found-his-second-chance-in-steubenville/Content?oid=1637802">Wu-Tang's RZA found his second chance in Steubenville</a>". <i><a href="/wiki/Pittsburgh_City_Paper" title="Pittsburgh City Paper">Pittsburgh City Paper</a></i>. Retrieved on April 12, 2013.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hiphopcore.net/interviews/93%7ceng-rza.html">"Hip Hop Core – Interview&#160;: RZA – English"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hip+Hop+Core+%E2%80%93+Interview+%3A+RZA+%E2%80%93+English&amp;rft_id=http%3A%2F%2Fwww.hiphopcore.net%2Finterviews%2F93%257ceng-rza.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-Wilkinson_60-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wilkinson_60_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Roy_Wilkinson" title="Roy Wilkinson">Wilkinson, Roy</a> (July 1997). "One of these men is God". <i><a href="/wiki/Select_(magazine)" title="Select (magazine)">Select</a></i>: 60.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Select&amp;rft.atitle=One+of+these+men+is+God&amp;rft.pages=60&amp;rft.date=1997-07&amp;rft.aulast=Wilkinson&amp;rft.aufirst=Roy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Mickey Hess, ed. (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=XkCncJ7j744C&amp;pg=PA125#v=onepage&amp;q&amp;f=false"><i>Hip Hop in America: A Regional Guide, Volume 1: East Coast and West Coast</i></a>. <a href="/wiki/Greenwood_Publishing_Group" title="Greenwood Publishing Group">Greenwood Publishing Group</a>. p.&#160;125.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hip+Hop+in+America%3A+A+Regional+Guide%2C+Volume+1%3A+East+Coast+and+West+Coast&amp;rft.pages=125&amp;rft.pub=Greenwood+Publishing+Group&amp;rft.date=2010&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXkCncJ7j744C%26pg%3DPA125%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Jason Ankeny. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/rza-mn0000864652/biography">"RZA – Biography – AllMusic"</a>. <i>AllMusic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=RZA+%E2%80%93+Biography+%E2%80%93+AllMusic&amp;rft.au=Jason+Ankeny&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Frza-mn0000864652%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Ankeny, Jason (July 5, 1969). <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p116447">"RZA"</a>. AllMusic<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RZA&amp;rft.pub=AllMusic&amp;rft.date=1969-07-05&amp;rft.aulast=Ankeny&amp;rft.aufirst=Jason&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fp116447&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wuforever.com/index.php?name=Sections&amp;req=viewarticle&amp;artid=74&amp;page=1">"Wuforever Wu-Tang Community – Home – latest Method Man, Raekwon, Ghostface, Rza, Gza, Deck, U-God, ODB Updates and MP3s"</a>. Wuforever.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wuforever+Wu-Tang+Community+%E2%80%93+Home+%E2%80%93+latest+Method+Man%2C+Raekwon%2C+Ghostface%2C+Rza%2C+Gza%2C+Deck%2C+U-God%2C+ODB+Updates+and+MP3s&amp;rft.pub=Wuforever.com&amp;rft_id=http%3A%2F%2Fwuforever.com%2Findex.php%3Fname%3DSections%26req%3Dviewarticle%26artid%3D74%26page%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wuforever.com/index.php?name=Sections&amp;req=viewarticle&amp;artid=63&amp;page=1">"wuforever.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=wuforever.com&amp;rft_id=http%3A%2F%2Fwuforever.com%2Findex.php%3Fname%3DSections%26req%3Dviewarticle%26artid%3D63%26page%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.npr.org/templates/story/story.php?storyId=4525189">"Rapper, producer, Composer: The RZA"</a>. <i>NPR.org</i>. March 7, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NPR.org&amp;rft.atitle=Rapper%2C+producer%2C+Composer%3A+The+RZA&amp;rft.date=2005-03-07&amp;rft_id=https%3A%2F%2Fwww.npr.org%2Ftemplates%2Fstory%2Fstory.php%3FstoryId%3D4525189&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Feature by Dave Kerr. (April 8, 2008). <a rel="nofollow" class="external text" href="http://www.theskinny.co.uk/article/42451-rzarecting-bobby">"RZArecting Bobby"</a>. The Skinny<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RZArecting+Bobby&amp;rft.pub=The+Skinny&amp;rft.date=2008-04-08&amp;rft.au=Feature+by+Dave+Kerr.&amp;rft_id=http%3A%2F%2Fwww.theskinny.co.uk%2Farticle%2F42451-rzarecting-bobby&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wutang-corp.com/news/article.php?id=227">"Cilvaringz: Wu-Tang Report&#160;:: news articles at Wu-Tang Corp. – The Official Site of the Wu-Tang Clan"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cilvaringz%3A+Wu-Tang+Report+%3A%3A+news+articles+at+Wu-Tang+Corp.+%E2%80%93+The+Official+Site+of+the+Wu-Tang+Clan&amp;rft_id=http%3A%2F%2Fwww.wutang-corp.com%2Fnews%2Farticle.php%3Fid%3D227&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1511602/20051017/system_of_a_down.jhtml?headlines=true">"System of a Tang? Shavo Collaborates With RZA, GZA"</a>. <i>MTV News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MTV+News&amp;rft.atitle=System+of+a+Tang%3F+Shavo+Collaborates+With+RZA%2C+GZA&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1511602%2F20051017%2Fsystem_of_a_down.jhtml%3Fheadlines%3Dtrue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rapsearch.com/news/article/wu-music-group-signs-global-digital-distribution-deal">"HipHop News " Wu Music Group Signs Global Digital Distribution Deal"</a>. Rapsearch.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HipHop+News+%22+Wu+Music+Group+Signs+Global+Digital+Distribution+Deal&amp;rft.pub=Rapsearch.com&amp;rft_id=http%3A%2F%2Fwww.rapsearch.com%2Fnews%2Farticle%2Fwu-music-group-signs-global-digital-distribution-deal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Kuperstein, Slava (April 28, 2010). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.11127/title.rza-confirms-liquid-swords-2">"RZA Confirms Liquid Swords 2 &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHopDX<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RZA+Confirms+Liquid+Swords+2+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHopDX&amp;rft.date=2010-04-28&amp;rft.aulast=Kuperstein&amp;rft.aufirst=Slava&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.11127%2Ftitle.rza-confirms-liquid-swords-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Andrew Martin (March 23, 2010). <a rel="nofollow" class="external text" href="http://www.prefixmag.com/news/good-ass-job-marks-kanye-wests-return-to-real-hip-/38897/">"<span class="cs1-kern-left">'</span>Good Ass Job' Marks Kanye West's Return to 'Real' Hip-Hop"</a>. Prefixmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27Good+Ass+Job%27+Marks+Kanye+West%27s+Return+to+%27Real%27+Hip-Hop&amp;rft.pub=Prefixmag.com&amp;rft.date=2010-03-23&amp;rft.au=Andrew+Martin&amp;rft_id=http%3A%2F%2Fwww.prefixmag.com%2Fnews%2Fgood-ass-job-marks-kanye-wests-return-to-real-hip-%2F38897%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2011/12/interview-the-rza-talks-headphones-hollywood-and-working-on-watch-the-throne/page/3">"Interview: The RZA Talks Headphones, Hollywood, and Working On "Watch The Throne<span class="cs1-kern-right">"</span>"</a>. Complex<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview%3A+The+RZA+Talks+Headphones%2C+Hollywood%2C+and+Working+On+%22Watch+The+Throne%22&amp;rft.pub=Complex&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F12%2Finterview-the-rza-talks-headphones-hollywood-and-working-on-watch-the-throne%2Fpage%2F3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Marc Hogan (2016-06-09). <a rel="nofollow" class="external text" href="http://pitchfork.com/news/65991-rza-and-interpols-paul-banks-announce-new-album-anything-but-words-featuring-florence-welch-share-giant-listen/">"RZA and Interpol's Paul Banks Announce New Album Anything But Words Featuring Florence Welch, Share "Giant": Listen"</a>. Pitchfork<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RZA+and+Interpol%27s+Paul+Banks+Announce+New+Album+Anything+But+Words+Featuring+Florence+Welch%2C+Share+%22Giant%22%3A+Listen&amp;rft.pub=Pitchfork&amp;rft.date=2016-06-09&amp;rft.au=Marc+Hogan&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F65991-rza-and-interpols-paul-banks-announce-new-album-anything-but-words-featuring-florence-welch-share-giant-listen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-Collab_Album-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Collab_Album_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Collab_Album_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Collab_Album_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Lilah, Rose (June 9, 2016). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/rza-and-interpols-paul-banks-announce-joint-album-anything-but-words-news.22141.html?">"RZA and Paul Banks Team up"</a>. <i>Hotnewhiphop</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop&amp;rft.atitle=RZA+and+Paul+Banks+Team+up&amp;rft.date=2016-06-09&amp;rft.aulast=Lilah&amp;rft.aufirst=Rose&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Frza-and-interpols-paul-banks-announce-joint-album-anything-but-words-news.22141.html%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,1096499-5,00.html">"Why You Can't Ignore Kanye"</a>. <i>Time</i>. August 21, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">May 23,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=Why+You+Can%27t+Ignore+Kanye&amp;rft.date=2005-08-21&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C1096499-5%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gale.com/free_resources/bhm/bio/west_k.htm">"Page Not Found"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Page+Not+Found&amp;rft_id=http%3A%2F%2Fwww.gale.com%2Ffree_resources%2Fbhm%2Fbio%2Fwest_k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1553911/20070305/west_kanye.jhtml">"Kanye, Run-DMC, Outkast, Justin Sound Off on Our Top 10 Hip-Hop Groups"</a>. <i>MTV News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MTV+News&amp;rft.atitle=Kanye%2C+Run-DMC%2C+Outkast%2C+Justin+Sound+Off+on+Our+Top+10+Hip-Hop+Groups&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1553911%2F20070305%2Fwest_kanye.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-RealNetworks,_Inc-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-RealNetworks,_Inc_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RealNetworks,_Inc_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Dukes, Rahman; Reid, Shaheem (January 19, 2009). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1602920/20090116/story.jhtml">"The Clipse Hint at Kanye West Collabo: Mixtape Monday"</a>. <i>Rolling Stone</i>. RealNetworks, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=The+Clipse+Hint+at+Kanye+West+Collabo%3A+Mixtape+Monday&amp;rft.date=2009-01-19&amp;rft.au=Dukes%2C+Rahman&amp;rft.au=Reid%2C+Shaheem&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1602920%2F20090116%2Fstory.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://conspiracyworldwide.podomatic.com/entry/index/2010-06-26T06_25_38-07_00">"PodOmatic &#124; Podcast – Conspiracy Worldwide Hip Hop Radio – &#91;Part 2&#93; Live Guests – ASSASSINATE THE MEDIA SPECIAL w/ The RZA – Tech N9ne – Freddie Foxx (aka. Bumpy Knuckles) – Dogg Pound – D12's Bizarre – Homeboy Sandman – Matt Maddox – Cyrus Melachi – world exclusives and more! Conspiracy Worldwide Radio UNCUT!"</a>. Conspiracyworldwide.podomatic.com. June 26, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PodOmatic+%26%23124%3B+Podcast+%E2%80%93+Conspiracy+Worldwide+Hip+Hop+Radio+%E2%80%93+%5BPart+2%26%2393%3B+Live+Guests+%E2%80%93+ASSASSINATE+THE+MEDIA+SPECIAL+w%2F+The+RZA+%E2%80%93+Tech+N9ne+%E2%80%93+Freddie+Foxx+%28aka.+Bumpy+Knuckles%29+%E2%80%93+Dogg+Pound+%E2%80%93+D12%27s+Bizarre+%E2%80%93+Homeboy+Sandman+%E2%80%93+Matt+Maddox+%E2%80%93+Cyrus+Melachi+%E2%80%93+world+exclusives+and+more%21+Conspiracy+Worldwide+Radio+UNCUT%21&amp;rft.pub=Conspiracyworldwide.podomatic.com&amp;rft.date=2010-06-26&amp;rft_id=http%3A%2F%2Fconspiracyworldwide.podomatic.com%2Fentry%2Findex%2F2010-06-26T06_25_38-07_00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://conspiracyworldwide.podomatic.com/entry/index/2010-06-26T06_25_38-07_00">"PodOmatic – Podcast – Conspiracy Worldwide Hip Hop Radio – &#91;Part 2&#93; Live Guests – ASSASSINATE THE MEDIA SPECIAL w/ The RZA – Tech N9ne – Freddie Foxx (aka. Bumpy Knuckles) – Dogg Pound – D12's Bizarre – Homeboy Sandman – Matt Maddox – Cyrus Melachi – world exclusives and more!  Conspiracy Worldwide Radio UNCUT!"</a>. <i>PodOmatic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PodOmatic&amp;rft.atitle=PodOmatic+%E2%80%93+Podcast+%E2%80%93+Conspiracy+Worldwide+Hip+Hop+Radio+%E2%80%93+%5BPart+2%5D+Live+Guests+%E2%80%93+ASSASSINATE+THE+MEDIA+SPECIAL+w%2F+The+RZA+%E2%80%93+Tech+N9ne+%E2%80%93+Freddie+Foxx+%28aka.+Bumpy+Knuckles%29+%E2%80%93+Dogg+Pound+%E2%80%93+D12%27s+Bizarre+%E2%80%93+Homeboy+Sandman+%E2%80%93+Matt+Maddox+%E2%80%93+Cyrus+Melachi+%E2%80%93+world+exclusives+and+more%21++Conspiracy+Worldwide+Radio+UNCUT%21&amp;rft_id=http%3A%2F%2Fconspiracyworldwide.podomatic.com%2Fentry%2Findex%2F2010-06-26T06_25_38-07_00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">The Wu-Tang Manual by The RZA with Chris Norris, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-59448-018-4" title="Special:BookSources/1-59448-018-4">1-59448-018-4</a></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hiphopcore.net/interviews/93%7Ceng-rza.html">"Hip Hop Core – Interview&#160;: RZA – English"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hip+Hop+Core+%E2%80%93+Interview+%3A+RZA+%E2%80%93+English&amp;rft_id=http%3A%2F%2Fwww.hiphopcore.net%2Finterviews%2F93%257Ceng-rza.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Borys Kit. <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/heat-vision/gi-joe-rza-dj-cotrona-205939">"<span class="cs1-kern-left">'</span>G.I. Joe': RZA Joining Sequel (Exclusive)"</a>. <i>The Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft.atitle=%27G.I.+Joe%27%3A+RZA+Joining+Sequel+%28Exclusive%29&amp;rft.au=Borys+Kit&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fheat-vision%2Fgi-joe-rza-dj-cotrona-205939&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dreadcentral.com/news/35671/high-cost-body-parts-got-you-down-join-repo-men-union">"High Cost of Body Parts Got You Down? Join the Repo Men Union"</a>. <i>Dread Central</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dread+Central&amp;rft.atitle=High+Cost+of+Body+Parts+Got+You+Down%3F+Join+the+Repo+Men+Union&amp;rft_id=http%3A%2F%2Fwww.dreadcentral.com%2Fnews%2F35671%2Fhigh-cost-body-parts-got-you-down-join-repo-men-union&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt0904208/fullcredits#cast">"Californication (2007–2014)&#160;: Full Cast &amp; Crew"</a>. <i>IMDb.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IMDb.com&amp;rft.atitle=Californication+%282007%E2%80%932014%29+%3A+Full+Cast+%26+Crew&amp;rft_id=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0904208%2Ffullcredits%23cast&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"> <a rel="nofollow" class="external text" href="https://m.imdb.com/title/tt2091935/fullcredits/cast?ref_=m_tt_cl_sc">https://m.imdb.com/title/tt2091935/fullcredits/cast?ref_=m_tt_cl_sc</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fm.imdb.com%2Ftitle%2Ftt2091935%2Ffullcredits%2Fcast%3Fref_%3Dm_tt_cl_sc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">&#124;title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ffwdweekly.com/article/music/music-previews/ruler-zig-zag-zig-allah/">"The Ruler Zig-Zag-Zig Allah"</a>. <i>Fast Forward Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fast+Forward+Weekly&amp;rft.atitle=The+Ruler+Zig-Zag-Zig+Allah&amp;rft_id=http%3A%2F%2Fwww.ffwdweekly.com%2Farticle%2Fmusic%2Fmusic-previews%2Fruler-zig-zag-zig-allah%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-filmstalker.co.uk-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-filmstalker.co.uk_39-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Brunton, Richard (July 7, 2008). <a rel="nofollow" class="external text" href="http://www.filmstalker.co.uk/archives/2008/07/rzas_the_man_with_the_iron_fis.html">"RZA's The Man with the Iron Fist"</a>. Filmstalker<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RZA%27s+The+Man+with+the+Iron+Fist&amp;rft.pub=Filmstalker&amp;rft.date=2008-07-07&amp;rft.aulast=Brunton&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.filmstalker.co.uk%2Farchives%2F2008%2F07%2Frzas_the_man_with_the_iron_fis.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-411mania.com-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-411mania.com_40-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130618083921/http://www.411mania.com/movies/news/79684/">"Movies – Eli Roth on RZA's The Man with the Iron Fist"</a>. 411mania.com. Archived from <a rel="nofollow" class="external text" href="http://www.411mania.com/movies/news/79684/">the original</a> on 18 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Movies+%E2%80%93+Eli+Roth+on+RZA%27s+The+Man+with+the+Iron+Fist&amp;rft.pub=411mania.com&amp;rft_id=http%3A%2F%2Fwww.411mania.com%2Fmovies%2Fnews%2F79684%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-chud.com-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-chud.com_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-chud.com_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091221065139/http://chud.com/articles/articles/15467/1/ELI-ROTH-GIVES-CHUD-THE-SCOOP-ON-RZA039S-MARTIAL-ARTS-MOVIE/Page1.html">"Eli Roth Gives Chud The Scoop on RZA's Martial Arts Movie!"</a>. Chud.com. 6 July 2008. Archived from <a rel="nofollow" class="external text" href="http://chud.com/articles/articles/15467/1/ELI-ROTH-GIVES-CHUD-THE-SCOOP-ON-RZA039S-MARTIAL-ARTS-MOVIE/Page1.html">the original</a> on 21 December 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eli+Roth+Gives+Chud+The+Scoop+on+RZA%27s+Martial+Arts+Movie%21&amp;rft.pub=Chud.com&amp;rft.date=2008-07-06&amp;rft_id=http%3A%2F%2Fchud.com%2Farticles%2Farticles%2F15467%2F1%2FELI-ROTH-GIVES-CHUD-THE-SCOOP-ON-RZA039S-MARTIAL-ARTS-MOVIE%2FPage1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-filmcomment.com-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-filmcomment.com_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-filmcomment.com_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.filmcomment.com/article/rzas-edge-the-rzas-guide-to-kung-fu-films">"RZA's Edge: The RZA's Guide to Kung-Fu Films"</a>. Film Society of Lincoln Center<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RZA%27s+Edge%3A+The+RZA%E2%80%99s+Guide+to+Kung-Fu+Films&amp;rft.pub=Film+Society+of+Lincoln+Center&amp;rft_id=http%3A%2F%2Fwww.filmcomment.com%2Farticle%2Frzas-edge-the-rzas-guide-to-kung-fu-films&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-Newsarama.com-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-Newsarama.com_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Newsarama.com_43-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newsarama.com/tv/090210-Rza-Afro.html">"The RZA – Laying Down Afro Samurai's Beats"</a>. Newsarama.com. February 10, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+RZA+%E2%80%93+Laying+Down+Afro+Samurai%27s+Beats&amp;rft.pub=Newsarama.com&amp;rft.date=2009-02-10&amp;rft_id=http%3A%2F%2Fwww.newsarama.com%2Ftv%2F090210-Rza-Afro.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ballerstatus.com/article/news/2007/10/3280/">"The 10 Best Beards in Sports"</a>. <i>BallerStatus.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BallerStatus.com&amp;rft.atitle=The+10+Best+Beards+in+Sports&amp;rft_id=http%3A%2F%2Fwww.ballerstatus.com%2Farticle%2Fnews%2F2007%2F10%2F3280%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hiphopchessfederation.org/images/nyt_article.gif">"Where Hip-Hop, Martial arts and Chess Meet"</a>. <i>Hiphopchessfederation.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hiphopchessfederation.org&amp;rft.atitle=Where+Hip-Hop%2C+Martial+arts+and+Chess+Meet&amp;rft_id=http%3A%2F%2Fhiphopchessfederation.org%2Fimages%2Fnyt_article.gif&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.prefixmag.com/news/rza-wins-chess-championship/11802/">"RZA wins WWF"</a>. <i>Prefixmag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Prefixmag&amp;rft.atitle=RZA+wins+WWF&amp;rft_id=http%3A%2F%2Fwww.prefixmag.com%2Fnews%2Frza-wins-chess-championship%2F11802%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.co.uk/2014/12/01/wu-tang-rza-vegan-peta-_n_6247396.html">"Wu Tang's RZA Wants To Get Real About Why He's A Vegan"</a>. Huffington Post. January 12, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wu+Tang%27s+RZA+Wants+To+Get+Real+About+Why+He%27s+A+Vegan&amp;rft.pub=Huffington+Post&amp;rft.date=2014-01-12&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.co.uk%2F2014%2F12%2F01%2Fwu-tang-rza-vegan-peta-_n_6247396.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARZA" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Luke Morgan Britton,"<a rel="nofollow" class="external text" href="http://www.nme.com/news/wu-tang-clan/81320#WJmPuEwsm7yhA4ac.99">Wu-Tang Clan's RZA says he refuses to put 'dead animals' in his 'live body' in PETA advert</a>," NME News, November 24, 2014.</span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">Carl Lamarre, "RZA Teams Up With PETA for New PSA Promoting Animal Kindness: Exclusive," <i><a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/hip-hop/8094737/rza-peta-psa-animal-kindness-video">Billboard</a></i>, 17 January 2018.</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text">Roy Wilkinson, <i>Select</i> July 1997, p.60"</span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">Jordan, Chris. <a rel="nofollow" class="external text" href="https://pqasb.pqarchiver.com/mycentraljersey/access/1835209091.html?FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=May+15%2C+2002&amp;author=CHRIS+JORDAN&amp;pub=Home+News+Tribune&amp;desc=Hip-hop+benefit+to+go+on+minus+state+backing&amp;pqatl=google">"Hip-hop benefit to go on minus state backing"</a>, <i><a href="/wiki/Home_News_Tribune" title="Home News Tribune">Home News Tribune</a></i>, May 15, 2002. Accessed September 19, 2014. "I'm here to show that whether it's being supported or funded I'm still here with my own time and my own dime for these young brothers and young sisters to get a chance to know that they got to read and they got to study said RZA also known as Robert Diggs of Marlboro Township".</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=RZA&amp;action=edit&amp;section=26" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+    <div style="padding-bottom: 0.75em; text-align: center;"><b style="display:block;">RZA</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a>
+    </div>
+    <ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/RZA" class="extiw" title="c:Special:Search/RZA">Media</a> from Wikimedia Commons</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" decoding="async" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/RZA" class="extiw" title="q:Special:Search/RZA">Quotations</a> from Wikiquote</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/27px-Wikidata-logo.svg.png" decoding="async" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/54px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://www.wikidata.org/wiki/Q52447" class="extiw" title="d:Q52447">Data</a> from Wikidata</span>
+            </li>
+    </ul>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/p116447">RZA</a> at <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/RZA">RZA</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0753526/">RZA</a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a>&#32;</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="RZA" style="padding:3px"><table class="nowraplinks vcard hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:RZA" title="Template:RZA"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:RZA" title="Template talk:RZA"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:RZA&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="RZA" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">RZA</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Discography&amp;#10;*_Production_discography">
+<ul><li><a href="/wiki/RZA_discography" title="RZA discography">Discography</a></li>
+<li><a href="/wiki/RZA_production_discography" title="RZA production discography">Production discography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Bobby_Digital_in_Stereo" title="Bobby Digital in Stereo">Bobby Digital in Stereo</a></i></li>
+<li><i><a href="/wiki/Digital_Bullet" title="Digital Bullet">Digital Bullet</a></i></li>
+<li><i><a href="/wiki/Birth_of_a_Prince" title="Birth of a Prince">Birth of a Prince</a></i></li>
+<li><i><a href="/wiki/Digi_Snacks" title="Digi Snacks">Digi Snacks</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_RZA_Hits" title="The RZA Hits">The RZA Hits</a></i></li>
+<li><i><a href="/wiki/The_World_According_to_RZA" title="The World According to RZA">The World According to RZA</a></i></li>
+<li><i><a href="/wiki/The_RZA-Instrumental_Experience" class="mw-redirect" title="The RZA-Instrumental Experience">The RZA-Instrumental Experience</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ooh_I_Love_You_Rakeem" title="Ooh I Love You Rakeem">Ooh I Love You Rakeem</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Soundtracks</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ghost_Dog:_The_Way_of_the_Samurai_(soundtrack)" title="Ghost Dog: The Way of the Samurai (soundtrack)">Ghost Dog</a></i></li>
+<li><i><a href="/wiki/Kill_Bill_Vol._1_Original_Soundtrack" title="Kill Bill Vol. 1 Original Soundtrack">Kill Bill: Vol. 1</a></i></li>
+<li><i><a href="/wiki/Kill_Bill_Vol._2_Original_Soundtrack" title="Kill Bill Vol. 2 Original Soundtrack">Kill Bill: Vol. 2</a></i></li>
+<li><i><a href="/wiki/Blade:_Trinity_(soundtrack)" title="Blade: Trinity (soundtrack)">Blade: Trinity</a></i></li>
+<li><i><a href="/wiki/Afro_Samurai:_The_Album" title="Afro Samurai: The Album">Afro Samurai: The Album</a></i></li>
+<li><i><a href="/wiki/The_RZA_Presents:_Afro_Samurai_Resurrection_OST" title="The RZA Presents: Afro Samurai Resurrection OST">Afro Samurai Resurrection</a></i></li>
+<li><i><a href="/wiki/The_Man_with_the_Iron_Fists_(soundtrack)" title="The Man with the Iron Fists (soundtrack)">The Man with the Iron Fists </a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/So_Appalled" title="So Appalled">So Appalled</a>"</li>
+<li>"<a href="/wiki/Wu_Tang_Forever_(Logic_song)" title="Wu Tang Forever (Logic song)">Wu Tang Forever</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Books</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Wu-Tang_Manual" title="The Wu-Tang Manual">The Wu-Tang Manual</a></i></li>
+<li><i><a href="/wiki/The_Tao_of_Wu" title="The Tao of Wu">The Tao of Wu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Films</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Man_with_the_Iron_Fists" title="The Man with the Iron Fists">The Man with the Iron Fists</a></i></li>
+<li><i><a href="/wiki/The_Man_with_the_Iron_Fists_2" title="The Man with the Iron Fists 2">The Man with the Iron Fists 2</a></i></li>
+<li><i><a href="/wiki/Love_Beats_Rhymes" title="Love Beats Rhymes">Love Beats Rhymes</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></li>
+<li><a href="/wiki/Banks_%26_Steelz" title="Banks &amp; Steelz">Banks &amp; Steelz</a></li>
+<li><a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a></li>
+<li><a href="/wiki/Achozen" title="Achozen">Achozen</a></li>
+<li><a href="/wiki/Various_Wu-Recording_Labels" class="mw-redirect" title="Various Wu-Recording Labels">Various Wu-Recording Labels</a></li>
+<li><a href="/wiki/Soul_Temple_Records" title="Soul Temple Records">Soul Temple Records</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Achozen" style="padding:3px"><table class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Achozen" title="Template:Achozen"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Achozen" title="Template talk:Achozen"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Achozen&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Achozen" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Achozen" title="Achozen">Achozen</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Shavo_Odadjian&amp;#10;*_RZA&amp;#10;*_Kinetic_9&amp;#10;*_Reverend_William_Burke">
+<ul><li><b><a href="/wiki/Shavo_Odadjian" title="Shavo Odadjian">Shavo Odadjian</a></b></li>
+<li><b><a class="mw-selflink selflink">RZA</a></b></li>
+<li><b><a href="/wiki/Kinetic_9" title="Kinetic 9">Kinetic 9</a></b></li>
+<li><b>Reverend William Burke</b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Album_(Achozen_album)" class="mw-redirect" title="The Album (Achozen album)">The Album</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related artists</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Killarmy" title="Killarmy">Killarmy</a></li>
+<li><a href="/wiki/System_of_a_Down" title="System of a Down">System of a Down</a></li>
+<li><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Ursession&amp;action=edit&amp;redlink=1" class="new" title="Ursession (page does not exist)">urSESSION</a></li>
+<li><i><a href="/wiki/Babylon_A.D." title="Babylon A.D.">Babylon A.D.</a></i></li>
+<li><i><a href="/wiki/Screamers_(2006_film)" title="Screamers (2006 film)">Screamers</a></i></li>
+<li><a href="/wiki/Velvet_Hammer_Music_and_Management_Group" title="Velvet Hammer Music and Management Group">Velvet Hammer Music and Management Group</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Wu-Tang_Clan" style="padding:3px"><table class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wu-Tang_Clan" title="Template:Wu-Tang Clan"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wu-Tang_Clan" title="Template talk:Wu-Tang Clan"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wu-Tang_Clan&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Wu-Tang_Clan" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*Cappadonna&amp;#10;*Ghostface_Killah&amp;#10;*GZA&amp;#10;*Inspectah_Deck&amp;#10;*Masta_Killa&amp;#10;*Method_Man&amp;#10;*RZA&amp;#10;*Raekwon&amp;#10;*U-God&amp;#10;&amp;#10;*_Ol&amp;#039;_Dirty_Bastard">
+<ul><li><b><a href="/wiki/Cappadonna" title="Cappadonna">Cappadonna</a></b></li>
+<li><b><a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a></b></li>
+<li><b><a href="/wiki/GZA" title="GZA">GZA</a></b></li>
+<li><b><a href="/wiki/Inspectah_Deck" title="Inspectah Deck">Inspectah Deck</a></b></li>
+<li><b><a href="/wiki/Masta_Killa" title="Masta Killa">Masta Killa</a></b></li>
+<li><b><a href="/wiki/Method_Man" title="Method Man">Method Man</a></b></li>
+<li><b><a class="mw-selflink selflink">RZA</a></b></li>
+<li><b><a href="/wiki/Raekwon" title="Raekwon">Raekwon</a></b></li>
+<li><b><a href="/wiki/U-God" title="U-God">U-God</a></b></li></ul>
+<ul><li><a href="/wiki/Ol%27_Dirty_Bastard" title="Ol&#39; Dirty Bastard">Ol' Dirty Bastard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Wu-Tang Clan albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Enter_the_Wu-Tang_(36_Chambers)" title="Enter the Wu-Tang (36 Chambers)">Enter the Wu-Tang (36 Chambers)</a></i> (1993)</li>
+<li><i><a href="/wiki/Wu-Tang_Forever" title="Wu-Tang Forever">Wu-Tang Forever</a></i> (1997)</li>
+<li><i><a href="/wiki/The_W" title="The W">The W</a></i> (2000)</li>
+<li><i><a href="/wiki/Iron_Flag" title="Iron Flag">Iron Flag</a></i> (2001)</li>
+<li><i><a href="/wiki/8_Diagrams" title="8 Diagrams">8 Diagrams</a></i> (2007)</li>
+<li><i><a href="/wiki/A_Better_Tomorrow_(album)" title="A Better Tomorrow (album)">A Better Tomorrow</a></i> (2014)</li>
+<li><i><a href="/wiki/Once_Upon_a_Time_in_Shaolin" title="Once Upon a Time in Shaolin">Once Upon a Time in Shaolin</a></i> (2015)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Wu-Tang Clan compilations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Legend_of_the_Wu-Tang_Clan" title="Legend of the Wu-Tang Clan">Legend of the Wu-Tang Clan</a></i> (2004)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Wu-Tang Clan singles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Protect_Ya_Neck" title="Protect Ya Neck">Protect Ya Neck</a>"</li>
+<li>"<a href="/wiki/Method_Man_(song)" title="Method Man (song)">Method Man</a>"</li>
+<li>"<a href="/wiki/C.R.E.A.M." title="C.R.E.A.M.">C.R.E.A.M.</a>"</li>
+<li>"<a href="/wiki/Can_It_Be_All_So_Simple" title="Can It Be All So Simple">Can It Be All So Simple</a>"</li>
+<li>"<a href="/wiki/Triumph_(song)" title="Triumph (song)">Triumph</a>"</li>
+<li>"<a href="/wiki/The_Worst_(Wu-Tang_Clan_and_Onyx_song)" class="mw-redirect" title="The Worst (Wu-Tang Clan and Onyx song)">The Worst</a>"</li>
+<li>"<a href="/wiki/Gravel_Pit" title="Gravel Pit">Gravel Pit</a>"</li>
+<li>"<a href="/wiki/Uzi_(Pinky_Ring)" title="Uzi (Pinky Ring)">Uzi (Pinky Ring)</a>"</li>
+<li>"<a href="/wiki/The_Heart_Gently_Weeps" title="The Heart Gently Weeps">The Heart Gently Weeps</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Wu-Tang albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Swarm_(album)" title="The Swarm (album)">The Swarm</a></i> (1998)</li>
+<li><i><a href="/wiki/The_Sting_(Wu-Tang_Clan_album)" title="The Sting (Wu-Tang Clan album)">The Sting</a></i> (2002)</li>
+<li><i><a href="/wiki/Disciples_of_the_36_Chambers" title="Disciples of the 36 Chambers">Disciples of the 36 Chambers</a></i> (2004)</li>
+<li><i><a href="/wiki/Wu-Tang_Meets_the_Indie_Culture" title="Wu-Tang Meets the Indie Culture">Wu-Tang Meets the Indie Culture</a></i> (2005)</li>
+<li><i><a href="/wiki/Mathematics_Presents_Wu-Tang_Clan_%26_Friends_Unreleased" title="Mathematics Presents Wu-Tang Clan &amp; Friends Unreleased">Mathematics Presents Wu-Tang Clan &amp; Friends Unreleased</a></i> (2007)</li>
+<li><i><a href="/wiki/Soundtracks_from_the_Shaolin_Temple" title="Soundtracks from the Shaolin Temple">Soundtracks from the Shaolin Temple</a></i> (2008)</li>
+<li><i><a href="/wiki/Wu-Tang_Chamber_Music" title="Wu-Tang Chamber Music">Wu-Tang Chamber Music</a></i> (2009)</li>
+<li><i><a href="/wiki/Legendary_Weapons" title="Legendary Weapons">Legendary Weapons</a></i> (2011)</li>
+<li><i><a href="/wiki/The_Saga_Continues_(Wu-Tang_Clan_album)" title="The Saga Continues (Wu-Tang Clan album)">The Saga Continues</a></i> (2017)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Wu-Tang compilations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Wu-Chronicles" title="Wu-Chronicles">Wu-Chronicles</a></i> (1999)</li>
+<li><i><a href="/wiki/Wu-Chronicles,_Chapter_2" title="Wu-Chronicles, Chapter 2">Wu-Chronicles, Chapter 2</a></i> (2001)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wu-Tang_Clan_discography" title="Wu-Tang Clan discography">Discography</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_Wu-Tang_Clan" title="List of songs recorded by Wu-Tang Clan">Songs</a></li>
+<li><a href="/wiki/Wu-Tang_Clan_anthology" title="Wu-Tang Clan anthology">Anthology</a></li>
+<li><a href="/wiki/List_of_Wu-Recording_record_labels" title="List of Wu-Recording record labels">Record labels</a></li>
+<li><i><a href="/wiki/The_Wu-Tang_Manual" title="The Wu-Tang Manual">The Wu-Tang Manual</a></i></li>
+<li><i><a href="/wiki/The_Nine_Rings_of_Wu-Tang" title="The Nine Rings of Wu-Tang">The Nine Rings of Wu-Tang</a></i></li>
+<li><i><a href="/wiki/The_Tao_of_Wu" title="The Tao of Wu">The Tao of Wu</a></i></li>
+<li><i><a href="/wiki/Wu-Tang:_Shaolin_Style" title="Wu-Tang: Shaolin Style">Wu-Tang: Shaolin Style</a></i></li>
+<li><a href="/wiki/List_of_Wu-Tang_Clan_affiliates" title="List of Wu-Tang Clan affiliates">Affiliates</a></li>
+<li><a href="/wiki/List_of_Wu-Tang_Clan_affiliate_albums" title="List of Wu-Tang Clan affiliate albums">Affiliates discography</a></li>
+<li><a href="/wiki/Loud_Records" title="Loud Records">Loud Records</a></li>
+<li><i><a href="/wiki/Wu-Massacre" title="Wu-Massacre">Wu-Massacre</a></i></li>
+<li><i><a href="/wiki/Wu_Block" title="Wu Block">Wu Block</a></i></li>
+<li><a href="/wiki/Czarface" title="Czarface">Czarface</a></li>
+<li><a href="/wiki/Martin_Shkreli" title="Martin Shkreli">Martin Shkreli</a></li>
+<li>"<a href="/wiki/Wu_Tang_Forever_(Logic_song)" title="Wu Tang Forever (Logic song)">Wu Tang Forever</a>"</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Wu-Tang_Clan" title="Book:Wu-Tang Clan">Book</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Wu-Tang_Clan" title="Category:Wu-Tang Clan">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Gravediggaz" style="padding:3px"><table class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gravediggaz" title="Template:Gravediggaz"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gravediggaz" title="Template talk:Gravediggaz"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gravediggaz&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gravediggaz" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_The_Gatekeeper&amp;#10;*_The_Grym_Reaper&amp;#10;*_The_Rzarector&amp;#10;*_The_Undertaker">
+<ul><li><b><a href="/w/index.php?title=Frukwan&amp;action=edit&amp;redlink=1" class="new" title="Frukwan (page does not exist)">The Gatekeeper</a></b></li>
+<li><b><a href="/wiki/Anthony_Ian_Berkeley" title="Anthony Ian Berkeley">The Grym Reaper</a></b></li>
+<li><b><a class="mw-selflink selflink">The Rzarector</a></b></li>
+<li><b><a href="/wiki/Prince_Paul_(producer)" title="Prince Paul (producer)">The Undertaker</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/6_Feet_Deep" title="6 Feet Deep">6 Feet Deep</a></i></li>
+<li><i><a href="/wiki/The_Pick,_the_Sickle_and_the_Shovel" title="The Pick, the Sickle and the Shovel">The Pick, the Sickle and the Shovel</a></i></li>
+<li><i><a href="/wiki/Nightmare_in_A-Minor" title="Nightmare in A-Minor">Nightmare in A-Minor</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Diary_of_a_Madman_(Gravediggaz_song)" title="Diary of a Madman (Gravediggaz song)">Diary of a Madman</a>"</li>
+<li>"<a href="/wiki/Nowhere_to_Run,_Nowhere_to_Hide" title="Nowhere to Run, Nowhere to Hide">Nowhere to Run, Nowhere to Hide</a>"</li>
+<li>"<a href="/wiki/1-800_Suicide" title="1-800 Suicide">1-800 Suicide</a>"</li>
+<li>"<a href="/wiki/Dangerous_Mindz" title="Dangerous Mindz">Dangerous Mindz</a>"</li>
+<li>"<a href="/w/index.php?title=The_Night_the_Earth_Cried&amp;action=edit&amp;redlink=1" class="new" title="The Night the Earth Cried (page does not exist)">The Night the Earth Cried</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs and compilations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Hell_E.P." title="The Hell E.P.">The Hell E.P.</a></i></li>
+<li><i><a href="/wiki/6_Feet_Under_(album)" title="6 Feet Under (album)">6 Feet Under</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related Articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gravediggaz_discography" title="Gravediggaz discography">Discography</a></li>
+<li><a href="/wiki/Gee_Street_Records" title="Gee Street Records">Gee Street</a></li>
+<li><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu Tang Clan</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Banks_&amp;amp;_Steelz" style="padding:3px"><table class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Banks_%26_Steelz" title="Template:Banks &amp; Steelz"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Banks_%26_Steelz&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Banks &amp; Steelz (page does not exist)"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Banks_%26_Steelz&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Banks_&amp;amp;_Steelz" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Banks_%26_Steelz" title="Banks &amp; Steelz">Banks &amp; Steelz</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Paul_Banks&amp;#10;*_RZA">
+<ul><li><b><a href="/wiki/Paul_Banks_(musician,_born_1978)" title="Paul Banks (musician, born 1978)">Paul Banks</a></b></li>
+<li><b><a class="mw-selflink selflink">RZA</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Anything_But_Words" title="Anything But Words">Anything But Words</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Love_and_War_(Banks_%26_Steelz_song)" title="Love and War (Banks &amp; Steelz song)">Love and War</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q52447&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q52447&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q52447" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1383859">XX1383859</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13982896b">cb13982896b</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13982896b">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135240379">135240379</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109218282">0000 0001 0921 8282</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no99013830">no99013830</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/29c28ac3-27c5-4822-8eb6-0af89a3a7240">29c28ac3-27c5-4822-8eb6-0af89a3a7240</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0062752&amp;CON_LNG=ENG">xx0062752</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/074474480">074474480</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/85705775">85705775</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/85705775">85705775</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20190219222323
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.744 seconds
+Real time usage: 0.977 seconds
+Preprocessor visited node count: 4766/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 166053/2097152 bytes
+Template argument size: 13915/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 130130/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.324/10.000 seconds
+Lua memory usage: 6.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  797.897      1 -total
+ 41.66%  332.443      1 Template:Reflist
+ 25.70%  205.083     37 Template:Cite_web
+ 13.14%  104.832      1 Template:Infobox_musical_artist
+ 10.37%   82.726      1 Template:Infobox
+  6.55%   52.291      1 Template:Authority_control
+  5.81%   46.349      5 Template:Navbox
+  5.72%   45.644      4 Template:Navbox_musical_artist
+  5.54%   44.199      1 Template:IMDb_name
+  5.43%   43.365      1 Template:IPAc-en
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39177668-0!canonical and timestamp 20190219222322 and revision id 883974228
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=RZA&amp;oldid=883974228">https://en.wikipedia.org/w/index.php?title=RZA&amp;oldid=883974228</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1969_births" title="Category:1969 births">1969 births</a></li><li><a href="/wiki/Category:Male_actors_from_New_York_City" title="Category:Male actors from New York City">Male actors from New York City</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:American_male_film_actors" title="Category:American male film actors">American male film actors</a></li><li><a href="/wiki/Category:American_male_screenwriters" title="Category:American male screenwriters">American male screenwriters</a></li><li><a href="/wiki/Category:EOne_Music_artists" title="Category:EOne Music artists">EOne Music artists</a></li><li><a href="/wiki/Category:Epic_Records_artists" title="Category:Epic Records artists">Epic Records artists</a></li><li><a href="/wiki/Category:Gravediggaz_members" title="Category:Gravediggaz members">Gravediggaz members</a></li><li><a href="/wiki/Category:Horrorcore_artists" title="Category:Horrorcore artists">Horrorcore artists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Five_percenters" title="Category:Five percenters">Five percenters</a></li><li><a href="/wiki/Category:Musicians_from_Pittsburgh" title="Category:Musicians from Pittsburgh">Musicians from Pittsburgh</a></li><li><a href="/wiki/Category:Musicians_from_Brooklyn" title="Category:Musicians from Brooklyn">Musicians from Brooklyn</a></li><li><a href="/wiki/Category:People_from_Millstone_Township,_New_Jersey" title="Category:People from Millstone Township, New Jersey">People from Millstone Township, New Jersey</a></li><li><a href="/wiki/Category:People_from_Steubenville,_Ohio" title="Category:People from Steubenville, Ohio">People from Steubenville, Ohio</a></li><li><a href="/wiki/Category:Rappers_from_New_York_City" title="Category:Rappers from New York City">Rappers from New York City</a></li><li><a href="/wiki/Category:Underground_rappers" title="Category:Underground rappers">Underground rappers</a></li><li><a href="/wiki/Category:Virgin_Records_artists" title="Category:Virgin Records artists">Virgin Records artists</a></li><li><a href="/wiki/Category:Gee_Street_Records_artists" title="Category:Gee Street Records artists">Gee Street Records artists</a></li><li><a href="/wiki/Category:Wu-Tang_Clan_members" title="Category:Wu-Tang Clan members">Wu-Tang Clan members</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:African-American_songwriters" title="Category:African-American songwriters">African-American songwriters</a></li><li><a href="/wiki/Category:Songwriters_from_New_York_(state)" title="Category:Songwriters from New York (state)">Songwriters from New York (state)</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:Curtis_High_School_alumni" title="Category:Curtis High School alumni">Curtis High School alumni</a></li><li><a href="/wiki/Category:20th-century_American_writers" title="Category:20th-century American writers">20th-century American writers</a></li><li><a href="/wiki/Category:21st-century_American_writers" title="Category:21st-century American writers">21st-century American writers</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:Record_producers_from_New_Jersey" title="Category:Record producers from New Jersey">Record producers from New Jersey</a></li><li><a href="/wiki/Category:Record_producers_from_Ohio" title="Category:Record producers from Ohio">Record producers from Ohio</a></li><li><a href="/wiki/Category:People_from_Brownsville,_Brooklyn" title="Category:People from Brownsville, Brooklyn">People from Brownsville, Brooklyn</a></li><li><a href="/wiki/Category:Film_directors_from_New_York_City" title="Category:Film directors from New York City">Film directors from New York City</a></li><li><a href="/wiki/Category:Film_directors_from_Ohio" title="Category:Film directors from Ohio">Film directors from Ohio</a></li><li><a href="/wiki/Category:Film_directors_from_New_Jersey" title="Category:Film directors from New Jersey">Film directors from New Jersey</a></li><li><a href="/wiki/Category:Screenwriters_from_New_York_(state)" title="Category:Screenwriters from New York (state)">Screenwriters from New York (state)</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Record_producers_from_Pennsylvania" title="Category:Record producers from Pennsylvania">Record producers from Pennsylvania</a></li><li><a href="/wiki/Category:Vegetarians" title="Category:Vegetarians">Vegetarians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_March_2012" title="Category:Articles with dead external links from March 2012">Articles with dead external links from March 2012</a></li><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2015" title="Category:Use dmy dates from April 2015">Use dmy dates from April 2015</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=RZA" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=RZA" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/RZA" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:RZA" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/RZA">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=RZA&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=RZA&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/RZA" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/RZA" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=RZA&amp;oldid=883974228" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=RZA&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q52447" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=RZA&amp;id=883974228" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=RZA">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=RZA&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=RZA&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:RZA" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/RZA" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%A8%D8%B1%D8%AA_%D9%81%D9%8A%D8%AA%D8%B2%D8%AC%D9%8A%D8%B1%D8%A7%D9%84%D8%AF_%D8%AF%D9%8A%D8%BA%D8%B2" title="روبرت فيتزجيرالد ديغز – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B1%D8%B2%D8%A7_(%D8%B1%D9%BE%D8%B1)" title="رزا (رپر) – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/RZA" title="RZA – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/RZA" title="RZA – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/RZA_(Rapper)" title="RZA (Rapper) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/RZA" title="RZA – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D8%A7_(%D8%B1%D9%BE%D8%B1)" title="رزا (رپر) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/RZA" title="RZA – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/RZA" title="RZA – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/RZA" title="RZA – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/RZA" title="RZA – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/RZA" title="RZA – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%99%D7%96%D7%94_(%D7%A8%D7%90%D7%A4%D7%A8)" title="ריזה (ראפר) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/RZA" title="RZA – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/RZA" title="RZA – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/RZA" title="RZA – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/RZA" title="RZA – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/RZA" title="RZA – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/RZA" title="RZA – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/RZA" title="RZA – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/RZA" title="RZA – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/RZA" title="RZA – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/RZA" title="RZA – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/RZA" title="RZA – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/RZA" title="RZA – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/RZA" title="RZA – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/RZA" title="RZA – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/RZA" title="RZA – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/RZA" title="RZA – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/RZA" title="RZA – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/RZA" title="RZA – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q52447#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 February 2019, at 19:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=RZA&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.744","walltime":"0.977","ppvisitednodes":{"value":4766,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":166053,"limit":2097152},"templateargumentsize":{"value":13915,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":130130,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  797.897      1 -total"," 41.66%  332.443      1 Template:Reflist"," 25.70%  205.083     37 Template:Cite_web"," 13.14%  104.832      1 Template:Infobox_musical_artist"," 10.37%   82.726      1 Template:Infobox","  6.55%   52.291      1 Template:Authority_control","  5.81%   46.349      5 Template:Navbox","  5.72%   45.644      4 Template:Navbox_musical_artist","  5.54%   44.199      1 Template:IMDb_name","  5.43%   43.365      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.324","limit":"10.000"},"limitreport-memusage":{"value":7311474,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20190219222323","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"RZA","url":"https:\/\/en.wikipedia.org\/wiki\/RZA","sameAs":"http:\/\/www.wikidata.org\/entity\/Q52447","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q52447","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-18T19:26:05Z","dateModified":"2019-02-18T19:58:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0c\/RZA_by_Gage_Skidmore.jpg","headline":"American rapper, record producer, actor, writer"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1103,"wgHostname":"mw1322"});});</script>
+	</body>
+</html>
