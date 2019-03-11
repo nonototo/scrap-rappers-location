@@ -1,7 +1,7 @@
 {
   "port": 8000,
   "server": {
-    "baseDir": "./html"
+    "baseDir": "./docs"
   },
   "browser": ["chrome"]
 }

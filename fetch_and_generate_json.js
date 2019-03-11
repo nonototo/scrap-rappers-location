@@ -1,7 +1,7 @@
 const fs = require('fs')
 const fetch = require('node-fetch')
 
-const JSONDIR = `${__dirname}/html/json/`
+const JSONDIR = `${__dirname}/docs/json/`
 const CACHEDIR = `${__dirname}/cache/` 
 const BASEURL = 'https://en.wikipedia.org/wiki/'
 
